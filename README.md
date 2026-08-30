@@ -1,3 +1,41 @@
+🌍 CALIDUS IV: An Autarkic Circular Economy Conglomerate (ZLD) for Desert Greening and Water Desalination
+⚠️ IMPORTANT NOTE FOR INTERNATIONAL USERS:
+The full, 101-page technical blueprint and documentation in this repository is currently written in Polish. If you do not speak Polish, you can easily translate the document using modern AI translation tools (such as DeepL, ChatGPT, or Google Translate) to analyze the full technical specifications. Below is the comprehensive Executive Summary in English.
+
+💡 Introduction & Design Paradigm
+CALIDUS IV is a comprehensive, open-source engineering blueprint (a 101-page technical document) detailing a multi-modular, interconnected system of industrial and ecological structures. The core objective of the conglomerate is zero-emission seawater desalination operating under a strict Zero Liquid Discharge (ZLD) regime.
+Unlike conventional, energy-intensive desalination systems (like Reverse Osmosis) that dump toxic, hyper-saline brine back into the ocean, CALIDUS IV treats every single byproduct as a high-value input for the next internal stage. The system features a radically low CAPEX and is designed for phased, modular deployment in regions severely impacted by drought and desertification.
+________________________________________
+⚙️ Main Technological Sequence & Process Synergy
+The infrastructure integrates dozens of autarkic technological nodes woven into closed thermodynamic loops:
+1.	Retention, Filtration & Intake (Nodes 1-4): Utilizing gravitational underground transport, mechanical sedimentation, and advanced biological filtration paired with mass biomass cultivation (algae and mussels).
+2.	Thermodynamics & Passive Aerodynamics (Nodes 5-11): Driven by hybrid vacuum distillation and non-adiabatic brine evaporation. The system revives ancient, electricity-free Persian wind-catcher technologies (Badgirs) integrated with Solar Chimneys and passive pan heating. This creates a forced, highly stable air circulation loop and water condensation without drawing power from the grid.
+3.	ZLD Fractional Crystallization: Brine waste is completely split into distinct technical zones: calcium and gypsum extraction, commercial-grade sea salt crystallization, and bitter liquor recovery used to enrich biochar.
+4.	Thermal Storage & Power Block (Nodes 12-15): Ultra-low-cost custom air collectors charge a massive underground multi-layered thermal battery (Rock Bed—available in both monolithic Honeycomb and gravel-bed configurations). This stored heat powers low-pressure steam turbines, central-piston Stirling engines, and saline liquid thermogalvanic cells (Thermocells), ensuring total energetic autarky.
+________________________________________
+🌿 Agroforestry Succession & Desert Agriculture
+All recovered resources (pure water, minerals, captured heat) feed directly into biological modules:
+•	Sand-Silicate Composite (Node 22): A new generation of low-cost desert material used to build immediate river-flow check dams and deep, self-watering desert planting basins.
+•	Anthropogenic Black Soil (Nodes 23-24): Biochar production from local plant waste (pyrolysis and torrefaction of roots) combined with highly mineralized ash enables the creation of highly fertile artificial black soil directly on sand.
+•	Food Production Cascades (Nodes 27-29): Integration of underground mycological channels (year-round desert truffle and edible mushroom cultivation utilizing static adsorption mist-recovery) with kaskade-arranged underground Walipini greenhouses, aquaponics, and fish farming.
+•	Four-Phase Forest Succession: A precise, algorithmic strategy for introducing pioneer and agroforestry species to permanently restore and reforest hyper-arid landscapes.
+________________________________________
+💼 Business Model & Viral Voluntourism
+CALIDUS IV redefines operational expenditure (OPEX) through an ingenious social integration model. The resort infrastructure and a series of chlorine-free flow-through swimming pools serve as a hub for eco-voluntourism. The model operates on a barter system: offering accommodation and organic food in exchange for human labor in the greenhouses, biochar production lines, and physical planting of the succession forest, dropping operational costs to a bare minimum.
+________________________________________
+📜 Publication Status & Open-Source Social License
+•	Project Version: 1.0 (Logic-Conceptual Blueprint — 101 pages)
+•	Release Date: August 30, 2026
+•	License: CALIDUS IV Social License — full freedom to copy, modify, translate, and build for individuals, local communities, and humanitarian/non-profit organizations completely free of charge. Commercial use (commercial manufacturing, selling system modules, or industrial deployment) requires an explicit commercial license from the author, subject to a community-driven boycott as stated in the Community Loyalty Manifesto.
+________________________________________
+🔗 Join the project and download the full documentation:
+https://github.com/DarayavahusIV/CALIDUS-IV
+
+SYSTEM MULTI-PRODUKCYJNY
+CALIDUS IV
+(wersja pustynna i międzyzwrotnikowa)
+
+
 # CALIDUS IV v1.0
 
 ### PUBLICZNA PUBLIKACJA PROJEKTU — LICENCJA SPOŁECZNA
@@ -21,7 +59,7 @@ Organizacje społeczne, edukacyjne, humanitarne i non-profit mogą korzystać z 
 Przy każdym wykorzystaniu projektu lub jego zmodyfikowanej wersji należy wskazać:
 * nazwę projektu: **CALIDUS IV**
 * autora: **Darayavahus IV**
-* źródło projektu: https://github.com/DarayavahusIV/CALIDUS-IV
+* źródło projektu: [wpisz adres swojego repozytorium na GitHub]
 * zakres wprowadzonych zmian.
 
 #### Wykorzystanie komercyjne
@@ -42,12 +80,6 @@ Zmodyfikowana lub rozwinięta wersja przez społeczność powinna: zachować inf
 Opublikowanie projektu nie oznacza przeniesienia praw autorskich do dokumentacji, tekstów, grafik, schematów, nazw, oznaczeń ani późniejszych oryginalnych opracowań autora.
 
 
-
-
-
-SYSTEM MULTI-PRODUKCYJNY
-CALIDUS IV
-(wersja pustynna i międzyzwrotnikowa)
 ________________________________________
 Spis treści :  
 WSTĘP – PARADYGMATY STRUKTURALNE GOSPODARKI OBIEGU ZAMKNIĘTEGO
@@ -135,7 +167,7 @@ GŁÓWNY CIĄG TECHNOLOGICZNY (proces krok po kroku)
 - Krok 25 : Magazyny ciepła ładowane od góry
 
 --- ROZDZIAŁ VI : INNE METODY ODSALAJĄCE
-WYMRAŻANIE ODSALAJĄCE (Freeze Desalination)
+1.	WYMRAŻANIE ODSALAJĄCE (Freeze Desalination)
 - Wymrażanie pośrednie warstwowe
 - Wymrażanie eutektyczne
 - Wymrażanie próżniowe
@@ -184,11 +216,11 @@ WYMRAŻANIE ODSALAJĄCE (Freeze Desalination)
 - Czterofazowa sukcesja Lasu Żywicielskiego
 
 --- ROZDZIAŁ X : RAPORT TECHNICZNO-EKONOMICZNY : ZAAWANSOWANY KOMPOZYT  PIASKOWO-KRZEMIANOWY W WARUNKACH PUSTYNNYCH (rozwinięcie tematu omawianego w WĘŹLE nr 22)
-Charakterystyka Nowej Generacji Kompozytu Pustynnego
-Ulepszona technologia wykończenia : kompozyt + glina + wapno
-Bilans ekonomiczny i dostępność surowców
-Wady i zalety rozwiązania w klimacie pustynnym
-Zastosowania konstrukcyjne na pustyni
+I.	Charakterystyka Nowej Generacji Kompozytu Pustynnego
+II.	Ulepszona technologia wykończenia : kompozyt + glina + wapno
+III.	Bilans ekonomiczny i dostępność surowców
+IV.	Wady i zalety rozwiązania w klimacie pustynnym
+V.	Zastosowania konstrukcyjne na pustyni
 - Zastosowanie w produkcji mis uprawnych i głębokich balii zalesieniowych
 
 --- ROZDZIAŁ XI : ROLNICTWO w KONGLOMERACIE
@@ -211,8 +243,7 @@ UWAGA : Mykoalergie u pracowników
 --- ROZDZIAŁ XIII : REKOMENDACJE INŻYNIERYJNO-STRATEGICZNE DLA AUDYTORÓW i INWESTORÓW
 - GŁÓWNE FILARY PRZEWAGI RYNKOWEJ I EKOLOGICZNEJ
 
-
-
+________________________________________
 WSTĘP 
 PARADYGMATY STRUKTURALNE GOSPODARKI
 OBIEGU ZAMKNIĘTEGO
@@ -234,16 +265,16 @@ Wszystkie główne korpusy urządzeń destylacyjnych, rurociągi oraz wężownic
 
 KLUCZOWE PRODUKTY KONGLOMERATU :
 
-Woda pitna klasy PREMIUM (zgodna z normami WHO) oraz woda procesowa.
-Sterylna sól spożywcza, sól przemysłowa oraz drogocenny kwiat solny.
-Pustynne trufle (Terfezia, Tirmania), grzyby spożywcze (Boczniak Ostrygowaty, Boczniak Królewski, Boczniak Florydzki).
-Żywność roślinna (sałata rzymska, rukola, nowozelandzki szpinak, mini-pomidory koktajlowe, ogórki pnące).
-Produkty agroforestryczne i pionierskie (mąka ze strąków jadłoszynu, syrop i włókna z agawy, marynowane kapary).
-Biomasa akwakulturowa oraz żywy/suszony pokarm dla ryb (Artemia salina).
-Antropogeniczny czarnoziem (współczesna Terra Preta) oraz mineralne nawozy o spowolnionym uwalnianiu.
-Geopolimer pustynny (geobeton, sztuczny piaskowiec) do formowania mis i balii zalesieniowych.
-Energia cieplna oraz energia elektryczna.
-
+•	Woda pitna klasy PREMIUM (zgodna z normami WHO) oraz woda procesowa.
+•	Sterylna sól spożywcza, sól przemysłowa oraz drogocenny kwiat solny.
+•	Pustynne trufle (Terfezia, Tirmania), grzyby spożywcze (Boczniak Ostrygowaty, Boczniak Królewski, Boczniak Florydzki).
+•	Żywność roślinna (sałata rzymska, rukola, nowozelandzki szpinak, mini-pomidory koktajlowe, ogórki pnące).
+•	Produkty agroforestryczne i pionierskie (mąka ze strąków jadłoszynu, syrop i włókna z agawy, marynowane kapary).
+•	Biomasa akwakulturowa oraz żywy/suszony pokarm dla ryb (Artemia salina).
+•	Antropogeniczny czarnoziem (współczesna Terra Preta) oraz mineralne nawozy o spowolnionym uwalnianiu.
+•	Geopolimer pustynny (geobeton, sztuczny piaskowiec) do formowania mis i balii zalesieniowych.
+•	Energia cieplna oraz energia elektryczna.
+________________________________________
 
 OPRACOWANIE INŻYNIERYJNO-KONCEPCYJNE
 SYSTEM MULTI-PRODUKCYJNY „CALIDUS IV”
@@ -283,25 +314,25 @@ Projekt opiera się na integracji zaawansowanej hydrauliki przepływowej z rynki
 
 Baza noclegowa konglomeratu opiera się na unikalnej strukturze architektonicznej, stale rozbudowywanej w odpowiedzi na rosnące zapotrzebowanie rynkowe :
 
-Konstrukcja i mikroklimat : budynki kopułowe, formowane lokalnie z piasku pustynnego, szkła wodnego sodowego oraz węglanu wapnia, wykazują doskonałą bezwładność termiczną i mikroklimatyczną. Zapewniają one idealną izolację od ekstremalnych warunków zewnętrznych.
-Pozycjonowanie rynkowe : obiekty te służą jako ekskluzywne hotele oraz hostele. Turyści z całego świata płacą wysokie stawki za możliwość bezpiecznego doświadczenia surowego żaru Afryki w luksusowych, a zarazem w pełni ekologicznych warunkach, co generuje stały potencjał dla marketingu wiralowego.
+•	Konstrukcja i mikroklimat : budynki kopułowe, formowane lokalnie z piasku pustynnego, szkła wodnego sodowego oraz węglanu wapnia, wykazują doskonałą bezwładność termiczną i mikroklimatyczną. Zapewniają one idealną izolację od ekstremalnych warunków zewnętrznych.
+•	Pozycjonowanie rynkowe : obiekty te służą jako ekskluzywne hotele oraz hostele. Turyści z całego świata płacą wysokie stawki za możliwość bezpiecznego doświadczenia surowego żaru Afryki w luksusowych, a zarazem w pełni ekologicznych warunkach, co generuje stały potencjał dla marketingu wiralowego.
 
 3. Ekoturystyka wolontariacka (voluntourism)
 
 W celu optymalizacji kosztów utrzymania i rozwoju infrastruktury zielonej, obiekt wdraża systemy ekoturystyki wolontariackiej :
 
-Mechanizm programu : podróżnicy podejmują regularną pracę fizyczną przy zalesianiu pustyni, obsłudze nowoczesnych upraw pionowych oraz budowie mis retencyjnych w zamian za zakwaterowanie i codzienne wyżywienie.
-Efekt operacyjny : dla konglomeratu CALIDUS IV oznacza to pozyskanie darmowej, niezwykle zmotywowanej siły roboczej, co sprowadza koszt operacyjny zatrudnienia w wybranych sektorach strategicznych do zera.
+•	Mechanizm programu : podróżnicy podejmują regularną pracę fizyczną przy zalesianiu pustyni, obsłudze nowoczesnych upraw pionowych oraz budowie mis retencyjnych w zamian za zakwaterowanie i codzienne wyżywienie.
+•	Efekt operacyjny : dla konglomeratu CALIDUS IV oznacza to pozyskanie darmowej, niezwykle zmotywowanej siły roboczej, co sprowadza koszt operacyjny zatrudnienia w wybranych sektorach strategicznych do zera.
 
 4. System bezchlorowych basenów przepływowych
 
 Wielkie baseny kąpielowe przeznaczone dla gości hotelowych stanowią integralne ogniwo czystej, pasywnej hydrauliki przepływowej całego konglomeratu. Woda w tym podsystemie nie jest marnotrawiona, lecz podlega ciągłej cyrkulacji technologicznej :
 
-Zasilanie i standard sanitarny : ultra-czysta, zmineralizowana woda pochodząca bezpośrednio z odsalarni MED (lub innych) i stale i bezprzerwowo przepływa przez niecki basenowe. Zapewnia to gościom w pełni sterylną, bezchlorową kąpiel o najwyższych parametrach jakościowych.
-Integracja z rolnictwem i plantacjami : nadmiar wody wypływającej grawitacyjnie z basenów jest zbierany i kierowany bezpośrednio do nawadniania nowo wyrwanych pustyni plantacji, lasów żywicielskich oraz odizolowanych donic i balii uprawnych.
-Charakterystyka chemiczna strumienia : woda basenowa pełni w tym układzie wyłącznie rolę czystego, bezchemicznego nośnika wilgoci. Jest to możliwe, ponieważ cała potrzebna biomasa organiczna oraz nawozy mineralne znajdują się już bezpośrednio w docelowym podłożu donic i plantacji, co eliminuje ryzyko skażenia upraw chemią basenową.
+•	Zasilanie i standard sanitarny : ultra-czysta, zmineralizowana woda pochodząca bezpośrednio z odsalarni MED (lub innych) i stale i bezprzerwowo przepływa przez niecki basenowe. Zapewnia to gościom w pełni sterylną, bezchlorową kąpiel o najwyższych parametrach jakościowych.
+•	Integracja z rolnictwem i plantacjami : nadmiar wody wypływającej grawitacyjnie z basenów jest zbierany i kierowany bezpośrednio do nawadniania nowo wyrwanych pustyni plantacji, lasów żywicielskich oraz odizolowanych donic i balii uprawnych.
+•	Charakterystyka chemiczna strumienia : woda basenowa pełni w tym układzie wyłącznie rolę czystego, bezchemicznego nośnika wilgoci. Jest to możliwe, ponieważ cała potrzebna biomasa organiczna oraz nawozy mineralne znajdują się już bezpośrednio w docelowym podłożu donic i plantacji, co eliminuje ryzyko skażenia upraw chemią basenową.
 
-
+________________________________________
 
 
 
@@ -326,7 +357,7 @@ Krok 1 : Pobór i filtracja wstępna
 Woda morska jest pobierana za pomocą brzegowej studni drenażowej (plażowej). Naturalne geologiczne warstwy brzegowe, składające się z piasku i skał przybrzeżnych, działają jako mechaniczny darmowy filtr o olbrzymiej powierzchni, gdzie piasek eliminuje makrozawiesinę oraz żywe organizmy wyższego rzędu bez stosowania chemii. 
 Zapobiega to zjawisku biofoulingu (zarastania biologicznego) wewnątrz dalszych elementów instalacji.
 
-
+________________________________________
 
 WĘZEŁ nr 2
 FILTRACJA NATURALNA
@@ -343,7 +374,7 @@ Krok 3 : Techniczna filtracja biologiczna i produkcja biomasy
 W pierwszym podziemnym kanale pływowym prowadzona jest intensywna hodowla alg cieniolubnych oraz omułków (małży). Organizmy te pełnią rolę wyłącznie technicznego bio-filtra. Omułki aktywnie odfiltrowują z wody mikroskopijne zawiesiny organiczne, plankton i substancje odżywcze, zapewniając doskonałą klarowność strumienia. 
 Ze względu na ryzyko akumulacji metali ciężkich, biomasa ta jest kategorycznie wyłączona ze spożycia przez ludzi i zwierzęta. Jest zbierana mechanicznie i kierowana do przemysłowej biogazowni oraz procesów wytwarzania nawozów.
 
-
+________________________________________
 
 WĘZEŁ nr 3 
 OCZYSZCZANIE PRZEMYSŁOWE
@@ -357,7 +388,7 @@ Woda trafia do stacji hydrocyklonów (wirówek bezfiltrowych – dekanterów od�
 
 Odwirowany muł drenażowy z tej części oczyszczania jest bezpośrednio kierowany do sekcji odsalania i produkcji czarnoziemu.
 
-
+________________________________________
 
 Krok 5 : Kaskadowa filtracja mineralno-adsorpcyjna
 
@@ -369,7 +400,7 @@ W fazie pełnej operacyjności kolumny zasilane są biocharu z pirolizy własnyc
 Raz na dobę filtry są płukane wstecznie za pomocą gorącej wody słodkiej. 
 Popłuczyny (SZLAM z FILTRÓW zawierający zawiesinę organiczną i mineralną) trafia do sekcji odsalania osadów metodą wymrażania. Ta część matrycy czarnoziemu jest bogata w bakterie uruchamiające życie biologiczne w glebie a więc nie może być poddawana takim samym procesom jak osad z wirówek.
 
-
+________________________________________
 
 WĘZEŁ nr 4 
 
@@ -377,7 +408,7 @@ Krok 6 : Zamknięta regeneracja ZLD : Rozdzielenie i oczyszczanie frakcji szlamo
 
 Szlam z filtrów i osad z wirówek to dwie zupełnie odmienne frakcje, wymagające osobnych ścieżek technologicznych przed wprowadzeniem do sekcji glebotwórczej.
 
-Frakcja Pierwsza : osad z wirówek dekanterowych (organiczno-mineralny) : stanowi gęstą, mazistą pastę zawierającą ił, muł i obumarły plankton morski. 
+•	Frakcja Pierwsza : osad z wirówek dekanterowych (organiczno-mineralny) : stanowi gęstą, mazistą pastę zawierającą ił, muł i obumarły plankton morski. 
 Frakcja ta jest bogata w azot i fosfor, przez co stanowi bezcenny wkład organiczny pod budowę czarnoziemu, jednak jej woda kapilarna zawiera wysokie stężenie chlorku sodu. 
 Aby usunąć sól bez przegrzewania biomasy i bez uwsteczniania mikroelementów, pasta trafia do zbiorników płukania lodowatą wodą słodką o temperaturze bliskiej zero stopni Celsjusza. Rozpuszczalność chlorku sodu (soli) w zimnej wodzie pozostaje stała i wysoka, dzięki czemu sól błyskawicznie przechodzi do roztworu ciekłego. 
 Z kolei cenne dla roślin siarczany magnezu i potasu drastycznie zmniejszają swoją rozpuszczalność w niskiej temperaturze i natychmiast wytrącają się w postaci stałego osadu. 
@@ -385,12 +416,12 @@ Zimna woda wypłukuje toksyczny dla roślin chlorek sodu, a odcedzony na automat
 
 Alternatywnie stosuje się naturalną krystalizację kriogeniczną w komorach schładzanych do temperatury minus pięć stopni Celsjusza, gdzie rosnący lód słodkowodny samoczynnie wypycha jony sodu i chloru do płynnego, gęstego koncentratu, który zostaje grawitacyjnie odprowadzony.
 
-Frakcja Druga : popłuczyny z filtrów (mineralno-solankowy) : strumień powstający podczas płukania wstecznego ciśnieniowych filtrów żwirowo-antracytowych oraz kolumn węglowych. 
+•	Frakcja Druga : popłuczyny z filtrów (mineralno-solankowy) : strumień powstający podczas płukania wstecznego ciśnieniowych filtrów żwirowo-antracytowych oraz kolumn węglowych. 
 Jest to rzadka zawiesina zawierająca drobny pył pustynny, krzemionkę oraz stężoną solankę, pozbawiona istotnej biomasy organicznej. 
 Ta frakcja nie wymaga delikatnego traktowania zimnem i trafia bezpośrednio na teksturowane płyty z czarnego polietylenu o wysokiej gęstości HDPE, umieszczone w szczelnych mikro-szklarniach destylacyjnych (opcja zastępcza : dno komory wyłożone jest gładką płytą ceramiczną lub bazaltową). Mikro-szklarnie zaopatrzone są w powietrzne ogrzewanie podłogowe, zasilane w dzień gorącym powietrzem z kolektorów solarno-powietrznych przepływającym grawitacyjnie przez podpodłogowe kanały, a w ciągu nocy system zasilany jest przez podpodłogowe magazyny energii cieplnej. Osad zostaje agresywnie dogrzany od spodu do temperatury dziewięćdziesiąt stopni Celsjusza, co wywołuje pełne odparowanie wody. Czysta para wodna skrapla się na szklanych ścianach i wraca jako woda słodka do systemu, a uzyskany suchy, odsolony proszek mineralny (krzemionka, pył) jest usuwany i przekazywany do sekcji produkcji nawozów mineralnych lub jako wypełniacz strukturalny do geobetonu.
 
 
-
+________________________________________
 
 WĘZEŁ nr 5 
 
@@ -398,10 +429,10 @@ Krok 7 : termodynamiczny rozdział strumienia wodnego
 
 Zimna woda surowa pełni w systemie podwójną rolę (medium chłodzącego oraz wsadu procesowego) i zostaje rozdzielona na dwa niezależne podsystemy w celu optymalizacji bilansu energii:
 
-Strumień A (chłodzenie i pre-heating) : kierowany jest do sektorów chłodzących inne procesy w konglomeracie oraz do kondensatorów pary wodnej a także do systemu klimatyzacji powierzchniowej. Odbierając tam ciepło odpadowe, woda podnosi swoją temperaturę i jako gorący wsad wpływa na korzystny bilans energetyczny.
-Strumień B (wsad bezpośredni) : stabilizuje przepływ, jest podgrzewana i trafia bezpośrednio do sekcji destylacyjnej (w wersji konglomeratu z destylarnią próżniową) lub do sekcji oddzielania soli działających na innych zasadach (opisanych w tym opracowaniu) jako uzupełnienie bazy procesowej.
+•	Strumień A (chłodzenie i pre-heating) : kierowany jest do sektorów chłodzących inne procesy w konglomeracie oraz do kondensatorów pary wodnej a także do systemu klimatyzacji powierzchniowej. Odbierając tam ciepło odpadowe, woda podnosi swoją temperaturę i jako gorący wsad wpływa na korzystny bilans energetyczny.
+•	Strumień B (wsad bezpośredni) : stabilizuje przepływ, jest podgrzewana i trafia bezpośrednio do sekcji destylacyjnej (w wersji konglomeratu z destylarnią próżniową) lub do sekcji oddzielania soli działających na innych zasadach (opisanych w tym opracowaniu) jako uzupełnienie bazy procesowej.
 
-
+________________________________________
 
 WĘZEŁ nr 6
 
@@ -413,19 +444,19 @@ WERSJA PREMIUM
 W tym węźle następuje masowa produkcja ultra-czystej wody słodkiej.
 
 
-Powietrzny wymiennik ciepła gaz-ciecz : zintegrowany system kaskadowego pozyskiwania i konwersji energii termicznej nagrzewa podziemne magazyny w których są zamontowane miedziane spirale rurowe z obiegiem glikolowym lub wodnym o temperaturze od 95°C do 110°C. System ten działa się pod ciśnieniem od 3 do 4 barów, co skutecznie zapobiega parowaniu cieczy wewnątrz rur i całkowicie eliminuje ryzyko wystąpienia niszczącej kawitacji.
+•	Powietrzny wymiennik ciepła gaz-ciecz : zintegrowany system kaskadowego pozyskiwania i konwersji energii termicznej nagrzewa podziemne magazyny w których są zamontowane miedziane spirale rurowe z obiegiem glikolowym lub wodnym o temperaturze od 95°C do 110°C. System ten działa się pod ciśnieniem od 3 do 4 barów, co skutecznie zapobiega parowaniu cieczy wewnątrz rur i całkowicie eliminuje ryzyko wystąpienia niszczącej kawitacji.
 
-Podciśnieniowe odparowanie kaskadowe (barometryczne) – MED (Multi-Effect Distillation) : gorąca woda z obiegu ciśnieniowego zasila wężownice pierwszej komory destylacyjnej MED wykonane ze stali tytanowej lub w wersji tańszej ze stali dwufazowej typu Duplex (np. SAF 2507). 
+•	Podciśnieniowe odparowanie kaskadowe (barometryczne) – MED (Multi-Effect Distillation) : gorąca woda z obiegu ciśnieniowego zasila wężownice pierwszej komory destylacyjnej MED wykonane ze stali tytanowej lub w wersji tańszej ze stali dwufazowej typu Duplex (np. SAF 2507). 
 Stal ta wykazuje ogromną twardość powierzchniową chroniącą przed erozją piaskową oraz jest w pełni odporna na mycie agresywnymi kwasami podczas okresowych procedur Clean-in-Place (CIP). 
 Obniżenie temperatury wrzenia i generowanie próżni realizowane jest w sposób całkowicie pasywny, za pomocą hydrostatycznego układu syfonu barometrycznego, bez użycia mechanicznych, elektrycznych pomp próżniowych, które w środowisku zasolonym ulegają korozji wżerowej. 
 Komory MED posadowione są na wysokości powyżej dziesięć metrów i trzydzieści trzy centymetry. Słup cieczy w pionowych rurach spustowych (nogach barometrycznych), zanurzonych u dołu w zamknięciach wodnych, generuje pod wpływem siły grawitacji stabilne podciśnienie. 
 Woda morska, natryskiwana na wężownice gwałtownie wrze w temperaturze zaledwie sześćdziesiąt pięć stopni Celsjusza, co zapobiega wytrącaniu się siarczanu wapnia. Gazy nieskraplające się są usuwane przez bezprądowe eżektory wodne (zwężki Venturiego) zasilane głównym strumieniem zrzutowym.
 
-Kondensacja i multiplikacja wydajności : wygenerowana para wodna przechodzi do drugiej komory o jeszcze niższym ciśnieniu, gdzie skrapla się na rurach procesowych. Oddając swoje utajone ciepło parowania, powoduje wrzenie kolejnej partii wody morskiej w temperaturze ok. 55°C bez używania nowej energii pierwotnej. Proces powtarza się w 3-4 stopniach (efektach), radykalnie zwiększając dobowy uzysk wody pitnej z każdego kilowata energii termicznej.
+•	Kondensacja i multiplikacja wydajności : wygenerowana para wodna przechodzi do drugiej komory o jeszcze niższym ciśnieniu, gdzie skrapla się na rurach procesowych. Oddając swoje utajone ciepło parowania, powoduje wrzenie kolejnej partii wody morskiej w temperaturze ok. 55°C bez używania nowej energii pierwotnej. Proces powtarza się w 3-4 stopniach (efektach), radykalnie zwiększając dobowy uzysk wody pitnej z każdego kilowata energii termicznej.
 
-*Mineralizacja i *zrzut gorącej solanki : para z ostatniego stopnia skrapla się w kondensatorze końcowym, schłodzonym strumieniem wejściowym wody morskiej. Uzyskany ultra-czysty destylat przechodzi przez *złoża mineralizujące (dolomitowe), transformując się w wodę pitną zgodną z normami WHO. 
+•	*Mineralizacja i *zrzut gorącej solanki : para z ostatniego stopnia skrapla się w kondensatorze końcowym, schłodzonym strumieniem wejściowym wody morskiej. Uzyskany ultra-czysty destylat przechodzi przez *złoża mineralizujące (dolomitowe), transformując się w wodę pitną zgodną z normami WHO. 
 
-Pozostała po procesie, silnie zagęszczona i gorąca solanka jest niezwłocznie tłoczona do *sekcji ewaporacji soli.
+•	Pozostała po procesie, silnie zagęszczona i gorąca solanka jest niezwłocznie tłoczona do *sekcji ewaporacji soli.
 
 Nota techniczna / zastrzeżenie projektowe
 
@@ -435,9 +466,9 @@ Istnieje jeden główny powód dlaczego wersja PREMIUM jest sprzeczna z formuł�
 Chodzi o zapobieganie i usuwanie osadu
 
 Opisany powyżej układ radzi sobie z tym poprzez trzy zintegrowane metody :
-niska temperatura pracy (zabezpieczenie termiczne) : ograniczenie temperatury wrzenia wody morskiej do maksymalnie 65–70°C (dzięki próżni) drastycznie spowalnia kinetykę odkładania się siarczanu wapnia (CaSO4). 
-dozowanie antyskalantów (zapobieganie) : do wejściowej wody morskiej stale dodaje się polimery (np. kwas poliakrylowy). Blokują one wzrost zarodków krystalicznych soli, utrzymując je w stanie zawieszonym w solance.
-płukanie chemiczne (CIP – Clean-in-Place) : okresowo (np. raz na kilka miesięcy) odcina się dany stopień i przepłukuje wężownice słabym roztworem kwasu (np. kwasu sulfaminowego lub cytrynowego), który łatwo rozpuszcza węglany bez uszkadzania tytanu.
+1.	niska temperatura pracy (zabezpieczenie termiczne) : ograniczenie temperatury wrzenia wody morskiej do maksymalnie 65–70°C (dzięki próżni) drastycznie spowalnia kinetykę odkładania się siarczanu wapnia (CaSO4). 
+2.	dozowanie antyskalantów (zapobieganie) : do wejściowej wody morskiej stale dodaje się polimery (np. kwas poliakrylowy). Blokują one wzrost zarodków krystalicznych soli, utrzymując je w stanie zawieszonym w solance.
+3.	płukanie chemiczne (CIP – Clean-in-Place) : okresowo (np. raz na kilka miesięcy) odcina się dany stopień i przepłukuje wężownice słabym roztworem kwasu (np. kwasu sulfaminowego lub cytrynowego), który łatwo rozpuszcza węglany bez uszkadzania tytanu.
 
 Nawet w przypadku użycia tańszych zamienników : najbezpieczniejsze w nowoczesnych instalacjach niskotemperaturowych MED to stopy aluminium (wymagają jednak reżimu technologicznego podczas mycia chemicznego) lub wysokostopowe stale nierdzewne typu Duplex – to i tak w efekcie końcowym wymagają one użycia związków powstrzymujących powstawanie oraz usuwanie kamienia.
 
@@ -458,19 +489,21 @@ INNE – docelowe – OPCJE ODSALANIA (obszerny opis : ROZDZIAŁ V)
 WERSJE TECHNOLOGICZNE WĘZŁA nr 6
 (matryca porównawcza wariantów) :
 
-WERSJA A : ekskluzywna (standard korporacyjny / „kosmiczny”)
+•	WERSJA A : ekskluzywna (standard korporacyjny / „kosmiczny”)
 
-Specyfikacja : tytanowe wężownice wymienników MED, mechaniczne i elektryczne pompy próżniowe, zaawansowane systemy automatyki.
-Wady i zalety : wersja najdroższa pod względem nakładów inwestycyjnych (CAPEX), charakteryzująca się najwyższym stopniem sprawności termodynamicznej na starcie. Mechaniczne pompy próżniowe pracujące w środowisku zasolonym ulegają korozji wżerowej, a zjawisko kawitacji niszczy ich wirniki, generując wysokie koszty utrzymania (OPEX).
+o	Specyfikacja : tytanowe wężownice wymienników MED, mechaniczne i elektryczne pompy próżniowe, zaawansowane systemy automatyki.
+o	Wady i zalety : wersja najdroższa pod względem nakładów inwestycyjnych (CAPEX), charakteryzująca się najwyższym stopniem sprawności termodynamicznej na starcie. Mechaniczne pompy próżniowe pracujące w środowisku zasolonym ulegają korozji wżerowej, a zjawisko kawitacji niszczy ich wirniki, generując wysokie koszty utrzymania (OPEX).
 
-WERSJA B : zoptymalizowana (pasywna / „niskokosztowa”)
+•	WERSJA B : zoptymalizowana (pasywna / „niskokosztowa”)
 
-Specyfikacja : wężownice wymienników wykonane ze stali kwasoodpornej (AISI 316L) lub rur miedzianych pokrytych cienką warstwą cyny.
+o	Specyfikacja : wężownice wymienników wykonane ze stali kwasoodpornej (AISI 316L) lub rur miedzianych pokrytych cienką warstwą cyny.
 Całkowite usunięcie mechanicznych pomp próżniowych. Zastąpienie ich pasywnym układem syfonu barometrycznego (pętli grawitacyjnej). Komory MED zostają posadowione na konstrukcji wieżowej o wysokości powyżej 10,33 metra. Słup wody w pionowych rurach spustowych (nogach barometrycznych) zanurzonych w zbiornikach dolnych generuje pod wpływem siły grawitacji stabilną próżnię.
 Do usuwania gazów nieskraplających się stosuje się bezprądowe eżektory wodne (zwężki Venturiego) zasilane głównym strumieniem zrzutowym wody morskiej.
-Wady i zalety : wersja o nieco niższej jednostkowej wydajności termicznej, lecz ze względu na dostępność materiałów i niski koszt instalacji o około 70% wygrywa na starcie z wersją ekskluzywną. Jest to wariant najbardziej trwały i bezawaryjny w skali wielu lat funkcjonowania. Zamiana mechaniki na czystą fizykę i grawitację uodparnia układ na awarie elektryczne i zużycie prądu. Wyniesienie aparatów MED na wysokość 10,5 metra stwarza unikalną możliwość grawitacyjnego zasilania szklarni pionowych bez użycia pomp dystrybucyjnych.
+o	Wady i zalety : wersja o nieco niższej jednostkowej wydajności termicznej, lecz ze względu na dostępność materiałów i niski koszt instalacji o około 70% wygrywa na starcie z wersją ekskluzywną. Jest to wariant najbardziej trwały i bezawaryjny w skali wielu lat funkcjonowania. Zamiana mechaniki na czystą fizykę i grawitację uodparnia układ na awarie elektryczne i zużycie prądu. Wyniesienie aparatów MED na wysokość 10,5 metra stwarza unikalną możliwość grawitacyjnego zasilania szklarni pionowych bez użycia pomp dystrybucyjnych.
 
 
+
+________________________________________
 
 WĘZEŁ nr 7 
 ROZDZIELANIE FRAKCJI OSADOWYCH ORAZ NIEADIABATYCZNA EWAPORACJA I KRYSTALIZACJA FRAKCYJNA (ZLD)
@@ -483,29 +516,27 @@ Celem tego procesu jest całkowite odzyskanie biomasy organicznej bez jej degrad
 
 1. Frakcja A : osad z wirówek dekanterowych (organiczno-mineralny)
 
-Charakterystyka reologiczna i fizykochemiczna stanu wejściowego : frakcja ta ma postać gęstej, wysoce lepkościowej, mazistej pasty. Charakteryzuje się niską zawartością wody wolnej, lecz skrajnie wysoką objętością wody związanej strukturalnie i kapilarnie, która wykazuje pełne zasolenie morskie. Matryca osadu składa się z glinokrzemianów (ił, muł) oraz gęstej zawiesiny obumarłego planktonu i mikroorganizmów morskich.
+•	Charakterystyka reologiczna i fizykochemiczna stanu wejściowego : frakcja ta ma postać gęstej, wysoce lepkościowej, mazistej pasty. Charakteryzuje się niską zawartością wody wolnej, lecz skrajnie wysoką objętością wody związanej strukturalnie i kapilarnie, która wykazuje pełne zasolenie morskie. Matryca osadu składa się z glinokrzemianów (ił, muł) oraz gęstej zawiesiny obumarłego planktonu i mikroorganizmów morskich.
 
-Uwarunkowania procesowe i ochrona biotermiczna : ze względu na obecność cennej, wysokobiałkowej biomasy bogatej w organiczne związki azotu oraz fosforu, niedopuszczalne jest przegrzanie tego strumienia. Przekroczenie krytycznego progu temperaturowego spowodowałoby uwstecznienie mikroelementów, denaturację białek oraz nieodwracalną utratę właściwości bionawozowych.
+•	Uwarunkowania procesowe i ochrona biotermiczna : ze względu na obecność cennej, wysokobiałkowej biomasy bogatej w organiczne związki azotu oraz fosforu, niedopuszczalne jest przegrzanie tego strumienia. Przekroczenie krytycznego progu temperaturowego spowodowałoby uwstecznienie mikroelementów, denaturację białek oraz nieodwracalną utratę właściwości bionawozowych.
 
-Przebieg i mechanika procesu rafinacji : osad kierowany jest bezpośrednio do dedykowanych reaktorów separacji solnej. Realizacja odbywa się poprzez jedną z dwóch alternatywnych technologii:
-Metoda I (ekstrakcja kinetyczna) : dynamiczne płukanie lodowatą wodą słodką w kontrolowanym reżimie hydrodynamicznym.
-Metoda II (deintegracja kriogeniczna) : wymrażanie kriogeniczne złoża osadowego.
-Mechanizm fizyczny : szok termiczny wywołany lodowatą wodą lub procesem zamrażania powoduje gwałtowny wzrost ciśnienia turgorowego i niszczenie błon komórkowych planktonu. Zimna woda słodka w sposób natychmiastowy ekstrahuje chlorek sodu z przestrzeni międzykomórkowych oraz struktur iłowych, nie naruszając nadrzędnej struktury organicznej związków azoto-fosforowych.
+•	Przebieg i mechanika procesu rafinacji : osad kierowany jest bezpośrednio do dedykowanych reaktorów separacji solnej. Realizacja odbywa się poprzez jedną z dwóch alternatywnych technologii:
+o	Metoda I (ekstrakcja kinetyczna) : dynamiczne płukanie lodowatą wodą słodką w kontrolowanym reżimie hydrodynamicznym.
+o	Metoda II (deintegracja kriogeniczna) : wymrażanie kriogeniczne złoża osadowego.
+o	Mechanizm fizyczny : szok termiczny wywołany lodowatą wodą lub procesem zamrażania powoduje gwałtowny wzrost ciśnienia turgorowego i niszczenie błon komórkowych planktonu. Zimna woda słodka w sposób natychmiastowy ekstrahuje chlorek sodu z przestrzeni międzykomórkowych oraz struktur iłowych, nie naruszając nadrzędnej struktury organicznej związków azoto-fosforowych.
 
-Efekt końcowy i recykling materiałowy : po zakończeniu fazy płukania, zawiesina poddawana jest mechanicznemu odwadnianiu na wysokociśnieniowych prasach tkaninowych (filtracyjnych). Odcedzony, całkowicie odsolony, czysty i optymalnie wilgotny muł organiczny transportowany jest bezpośrednio do zautomatyzowanych mieszalników czarnoziemu, stanowiąc biologiczną bazę strukturotwórczą dla gleb pustynnych.
+•	Efekt końcowy i recykling materiałowy : po zakończeniu fazy płukania, zawiesina poddawana jest mechanicznemu odwadnianiu na wysokociśnieniowych prasach tkaninowych (filtracyjnych). Odcedzony, całkowicie odsolony, czysty i optymalnie wilgotny muł organiczny transportowany jest bezpośrednio do zautomatyzowanych mieszalników czarnoziemu, stanowiąc biologiczną bazę strukturotwórczą dla gleb pustynnych.
 
 2. Frakcja B : popłuczyny z filtrów żwirowo-antracytowych i węglowych (mineralno-solankowy)
 
-Charakterystyka fizykochemiczna stanu wejściowego : frakcja ta stanowi rzadką, wysoko rozcieńczoną zawiesinę wodną o niskiej lepkości. Skład chemiczny obejmuje głównie drobnoziarnisty pył pustynny (kwarc), cząstki krzemionki i antracytu wypłukane w trakcie cyklu płukania wstecznego złóż filtracyjnych, a także stężoną solankę. Strumień ten jest całkowicie pozbawiony istotnej biomasy organicznej i mikroorganizmów.
+•	Charakterystyka fizykochemiczna stanu wejściowego : frakcja ta stanowi rzadką, wysoko rozcieńczoną zawiesinę wodną o niskiej lepkości. Skład chemiczny obejmuje głównie drobnoziarnisty pył pustynny (kwarc), cząstki krzemionki i antracytu wypłukane w trakcie cyklu płukania wstecznego złóż filtracyjnych, a także stężoną solankę. Strumień ten jest całkowicie pozbawiony istotnej biomasy organicznej i mikroorganizmów.
 
-Uwarunkowania procesowe i termodynamika : z uwagi na brak komponentów organicznych, frakcja ta nie wymaga ochrony termicznej. Strategia procesowa zakłada agresywną, wysokotemperaturową destrukcję fazy płynnej w celu uzyskania suchej masy.
+•	Uwarunkowania procesowe i termodynamika : z uwagi na brak komponentów organicznych, frakcja ta nie wymaga ochrony termicznej. Strategia procesowa zakłada agresywną, wysokotemperaturową destrukcję fazy płynnej w celu uzyskania suchej masy.
 
-Przebieg i mechanika procesu ewaporacji : surowiec podawany jest grawitacyjnie na wielkopowierzchniowe płyty ewaporacyjne wykonane z czarnego polietylenu o wysokiej gęstości (HDPE), odpornego na korozję solną i naprężenia zmęczeniowe. Płyty zlokalizowane są wewnątrz zintegrowanych mikro-szklarni. System wykorzystuje podłogowe ogrzewanie powietrzne. Kanałami dolnymi, bezpośrednio pod płytami HDPE, wtłaczane jest gorące powietrze technologiczne o stałej temperaturze dziewięćdziesięciu stopni Celsjusza. Powoduje to wymuszone, gwałtowne i pełne odparowanie wody z roztworu.
+•	Przebieg i mechanika procesu ewaporacji : surowiec podawany jest grawitacyjnie na wielkopowierzchniowe płyty ewaporacyjne wykonane z czarnego polietylenu o wysokiej gęstości (HDPE), odpornego na korozję solną i naprężenia zmęczeniowe. Płyty zlokalizowane są wewnątrz zintegrowanych mikro-szklarni. System wykorzystuje podłogowe ogrzewanie powietrzne. Kanałami dolnymi, bezpośrednio pod płytami HDPE, wtłaczane jest gorące powietrze technologiczne o stałej temperaturze dziewięćdziesięciu stopni Celsjusza. Powoduje to wymuszone, gwałtowne i pełne odparowanie wody z roztworu.
 
-Efekt końcowy i recykling materiałowy : odzyskana w procesie parowania faza gazowa (para wodna) trafia do systemu kondensatorów chłodzonych powierzchniowo, gdzie po skropleniu zasila ogólny bilans jako ultra-czysta woda słodka. Pozostały na płytach HDPE suchy, skrystalizowany proszek mineralny, składający się z krzemionki, pyłu kwarcowego oraz wytrąconych soli mineralnych, jest usuwany mechanicznie. Surowiec ten przekazywany jest bezpośrednio do sekcji produkcji przemysłowych nawozów mineralnych lub stosowany jako wysokowartościowy wypełniacz strukturalny do produkcji geobetonów i geopolimerów.
-
-
-
+•	Efekt końcowy i recykling materiałowy : odzyskana w procesie parowania faza gazowa (para wodna) trafia do systemu kondensatorów chłodzonych powierzchniowo, gdzie po skropleniu zasila ogólny bilans jako ultra-czysta woda słodka. Pozostały na płytach HDPE suchy, skrystalizowany proszek mineralny, składający się z krzemionki, pyłu kwarcowego oraz wytrąconych soli mineralnych, jest usuwany mechanicznie. Surowiec ten przekazywany jest bezpośrednio do sekcji produkcji przemysłowych nawozów mineralnych lub stosowany jako wysokowartościowy wypełniacz strukturalny do produkcji geobetonów i geopolimerów.
+________________________________________
 Krok 10 : Nieadiabatyczna ewaporacja soli i krystalizacja frakcyjna
 w reżimie Zero Liquid Discharge (zld)
 
@@ -513,49 +544,47 @@ Wysoce zagęszczona, gorąca solanka zrzutowa, opuszczająca aparaty destylacyjn
 
 1. Wydzielanie wapnia i gipsu (Strefa 1)
 
-Termodynamika i parametry operacyjne : solanka zrzutowa wpływa bezpośrednio do wysokotemperaturowej komory wapniowo-gipsowej. Środowisko procesowe utrzymywane jest w reżimie temperatur od stu dwudziestu stopni Celsjusza do stu pięćdziesięciu stopni Celsjusza pod podwyższonym ciśnieniem hydrostatycznym, co zapobiega przedwczesnemu wrzeniu objętościowemu roztworu.
-Mechanizm krystalizacji frakcyjnej : węglan wapnia oraz siarczan wapnia (gips) wykazują cechę rozpuszczalności anomalnej (anizotermicznej wstecznej) – ich zdolność do pozostawania w roztworze drastycznie maleje wraz ze wzrostem temperatury. W zdefiniowanym przedziale stu dwudziestu do stu pięćdziesięciu stopni Celsjusza związki te ulegają natychmiastowemu przesyceniu i gwałtownie krystalizują, wyznaczając początek procesu krystalizacji frakcyjnej.
-Mechanika odbioru masy : wytrącony, ciężki osad stały opada na dno komory, które zostało wyłożone gładkimi, odpornymi na ścieranie i działanie kwasów płytami bazaltowymi. Ciężkie, wolnoobrotowe, odporne na korozję wżerową zgarniarki mechaniczne nieprzerwanie przesuwają skrystalizowaną masę w kierunku dolnej śluzy wyładowczej. Surowiec ten, charakteryzujący się wysoką czystością strukturalną, transportowany jest bezpośrednio do działu produkcji materiałów budowlanych i geopolimerów.
+•	Termodynamika i parametry operacyjne : solanka zrzutowa wpływa bezpośrednio do wysokotemperaturowej komory wapniowo-gipsowej. Środowisko procesowe utrzymywane jest w reżimie temperatur od stu dwudziestu stopni Celsjusza do stu pięćdziesięciu stopni Celsjusza pod podwyższonym ciśnieniem hydrostatycznym, co zapobiega przedwczesnemu wrzeniu objętościowemu roztworu.
+•	Mechanizm krystalizacji frakcyjnej : węglan wapnia oraz siarczan wapnia (gips) wykazują cechę rozpuszczalności anomalnej (anizotermicznej wstecznej) – ich zdolność do pozostawania w roztworze drastycznie maleje wraz ze wzrostem temperatury. W zdefiniowanym przedziale stu dwudziestu do stu pięćdziesięciu stopni Celsjusza związki te ulegają natychmiastowemu przesyceniu i gwałtownie krystalizują, wyznaczając początek procesu krystalizacji frakcyjnej.
+•	Mechanika odbioru masy : wytrącony, ciężki osad stały opada na dno komory, które zostało wyłożone gładkimi, odpornymi na ścieranie i działanie kwasów płytami bazaltowymi. Ciężkie, wolnoobrotowe, odporne na korozję wżerową zgarniarki mechaniczne nieprzerwanie przesuwają skrystalizowaną masę w kierunku dolnej śluzy wyładowczej. Surowiec ten, charakteryzujący się wysoką czystością strukturalną, transportowany jest bezpośrednio do działu produkcji materiałów budowlanych i geopolimerów.
 
 2. Krystalizacja soli spożywczej (Strefa 2)
 
-Termodynamika i parametry operacyjne : ciecz poprocesowa, całkowicie pozbawiona frakcji wapniowych i gipsowych, przepływa grawitacyjnie do drugiej komory odparowania i krystalizacji. W tej strefie ciśnienie zostaje celowo obniżone (podciśnienie robocze), co pozwala na intensywne wrzenie roztworu w obniżonym zakresie temperatur od siedemdziesięciu stopni Celsjusza do dziewięćdziesięciu stopni Celsjusza.
-Mechanizm krystalizacji frakcyjnej : w komorze następuje masowe, gwałtowne odparowanie czystej wody. Wygenerowana faza gazowa odprowadzana jest górą do kondensatora, dostarczając dużych wolumenów czystej wody destylowanej. W momencie, gdy objętość cieczy zostaje zredukowana do wartości około dziesięciu procent pierwotnej objętości wejściowej, roztwór osiąga punkt krytycznego nasycenia dla chlorku sodu. Następuje masowa krystalizacja czystej, białej soli kuchennej w postaci regularnych kryształów. Z uwagi na wyższe progi nasycenia oraz specyfikę krzywej rozpuszczalności w temperaturze siedemdziesięciu do dziewięćdziesięciu stopni Celsjusza, wszystkie zawarte w roztworze sole magnezu oraz potasu pozostają w pełni rozpuszczone w fazie płynnej.
-Mechanika odbioru masy : podwodne zgarniarki łopatkowe transportują kryształy chlorku sodu z dna komory do zintegrowanego podajnika ślimakowego. Wewnątrz podajnika sól poddawana jest krótkiemu, przeciwprądowemu przepłukaniu zimną wodą słodką w celu usunięcia resztek filmu solankowego, a następnie kierowana jest do sekcji suszenia fluidalnego. Produkt końcowy stanowi pełnowartościowa, czysta morska sól spożywcza o wysokich parametrach rynkowych.
+•	Termodynamika i parametry operacyjne : ciecz poprocesowa, całkowicie pozbawiona frakcji wapniowych i gipsowych, przepływa grawitacyjnie do drugiej komory odparowania i krystalizacji. W tej strefie ciśnienie zostaje celowo obniżone (podciśnienie robocze), co pozwala na intensywne wrzenie roztworu w obniżonym zakresie temperatur od siedemdziesięciu stopni Celsjusza do dziewięćdziesięciu stopni Celsjusza.
+•	Mechanizm krystalizacji frakcyjnej : w komorze następuje masowe, gwałtowne odparowanie czystej wody. Wygenerowana faza gazowa odprowadzana jest górą do kondensatora, dostarczając dużych wolumenów czystej wody destylowanej. W momencie, gdy objętość cieczy zostaje zredukowana do wartości około dziesięciu procent pierwotnej objętości wejściowej, roztwór osiąga punkt krytycznego nasycenia dla chlorku sodu. Następuje masowa krystalizacja czystej, białej soli kuchennej w postaci regularnych kryształów. Z uwagi na wyższe progi nasycenia oraz specyfikę krzywej rozpuszczalności w temperaturze siedemdziesięciu do dziewięćdziesięciu stopni Celsjusza, wszystkie zawarte w roztworze sole magnezu oraz potasu pozostają w pełni rozpuszczone w fazie płynnej.
+•	Mechanika odbioru masy : podwodne zgarniarki łopatkowe transportują kryształy chlorku sodu z dna komory do zintegrowanego podajnika ślimakowego. Wewnątrz podajnika sól poddawana jest krótkiemu, przeciwprądowemu przepłukaniu zimną wodą słodką w celu usunięcia resztek filmu solankowego, a następnie kierowana jest do sekcji suszenia fluidalnego. Produkt końcowy stanowi pełnowartościowa, czysta morska sól spożywcza o wysokich parametrach rynkowych.
 
 3. Odzysk gorzkiego ługu i nasycanie biocharu (Strefa 3)
 
-Termodynamika i parametry operacyjne : pozostała po wydzieleniu chlorku sodu gęsta, oleista ciecz, stanowiąca tak zwany gorzki ług, przepompowywana jest do trzeciej komory krystalizatora. Strefa ta pracuje w warunkach wysokotemperaturowych od stu sześćdziesięciu stopni Celsjusza do dwustu stopni Celsjusza.
+•	Termodynamika i parametry operacyjne : pozostała po wydzieleniu chlorku sodu gęsta, oleista ciecz, stanowiąca tak zwany gorzki ług, przepompowywana jest do trzeciej komory krystalizatora. Strefa ta pracuje w warunkach wysokotemperaturowych od stu sześćdziesięciu stopni Celsjusza do dwustu stopni Celsjusza.
 
-Mechanizm zagęszczania : roztwór wejściowy charakteryzuje się ekstremalnie wysokim stężeniem chlorku magnezu, siarczanu magnezu, soli potasu oraz związków jodu i bromu. Pod wpływem intensywnego dopływu ciepła następuje ostateczne odparowanie resztek wody wolnej, co doprowadza ciecz do stanu skrajnego zagęszczenia o reologii zbliżonej do płynnego, gorącego miodu.
+•	Mechanizm zagęszczania : roztwór wejściowy charakteryzuje się ekstremalnie wysokim stężeniem chlorku magnezu, siarczanu magnezu, soli potasu oraz związków jodu i bromu. Pod wpływem intensywnego dopływu ciepła następuje ostateczne odparowanie resztek wody wolnej, co doprowadza ciecz do stanu skrajnego zagęszczenia o reologii zbliżonej do płynnego, gorącego miodu.
 
-Mechanizm ciśnieniowego nasycania i immobilizacji : gorący, oleisty ług jest zrzucany metodą mechanicznego wtrysku wysokociśnieniowego bezpośrednio na przygotowane wcześniej złoże wysoce porowatego węgla roślinnego (biocharu), wytwarzanego w procesach pirolitycznych konglomeratu. Ze względu na silne właściwości adsorpcyjne oraz wysoką temperaturę złoża, kapilarna struktura biocharu błyskawicznie zasysa oleistą ciecz w głąb swoich mikroporów. W miarę stygnięcia układu, jony magnezu oraz potasu zostają trwale zablokowane i immobilizowane wewnątrz węglowej matrycy strukturalnej.
+•	Mechanizm ciśnieniowego nasycania i immobilizacji : gorący, oleisty ług jest zrzucany metodą mechanicznego wtrysku wysokociśnieniowego bezpośrednio na przygotowane wcześniej złoże wysoce porowatego węgla roślinnego (biocharu), wytwarzanego w procesach pirolitycznych konglomeratu. Ze względu na silne właściwości adsorpcyjne oraz wysoką temperaturę złoża, kapilarna struktura biocharu błyskawicznie zasysa oleistą ciecz w głąb swoich mikroporów. W miarę stygnięcia układu, jony magnezu oraz potasu zostają trwale zablokowane i immobilizowane wewnątrz węglowej matrycy strukturalnej.
 
-Zjawisko sorpcji termicznej w strukturze Biocharu : wtrysk gorzkiego ługu o wysokiej temperaturze na biochar wywołuje efekt częściowej aktywacji termicznej węgla. Gorący chlorek magnezu działa jak naturalny aktywator chemiczny, rozbudowując strukturę mezoporów w biocharze. Zwiększa to końcową pojemność wodną wytworzonego czarnoziemu o dodatkowe dwadzieścia pięć procent, co ma kluczowe znaczenie dla przetrwania roślinności w okresach suszy.
+•	Zjawisko sorpcji termicznej w strukturze Biocharu : wtrysk gorzkiego ługu o wysokiej temperaturze na biochar wywołuje efekt częściowej aktywacji termicznej węgla. Gorący chlorek magnezu działa jak naturalny aktywator chemiczny, rozbudowując strukturę mezoporów w biocharze. Zwiększa to końcową pojemność wodną wytworzonego czarnoziemu o dodatkowe dwadzieścia pięć procent, co ma kluczowe znaczenie dla przetrwania roślinności w okresach suszy.
 
-Charakterystyka produktu końcowego : tak spolimeryzowany i naładowany mineralnie biochar stanowi kluczowy komponent kompozytowy do produkcji pustynnego czarnoziemu. Jest to zaawansowany nawóz mineralno-organiczny o spowolnionym uwalnianiu. Z uwagi na fakt, że chlorek sodu został w stu procentach odseparowany i usunięty w Strefie 2, nawóz ten nie powoduje wtórnego zasolenia gleb, stymulując bezpieczny rozwój systemów korzeniowych na plantacjach.
-
-
-
+•	Charakterystyka produktu końcowego : tak spolimeryzowany i naładowany mineralnie biochar stanowi kluczowy komponent kompozytowy do produkcji pustynnego czarnoziemu. Jest to zaawansowany nawóz mineralno-organiczny o spowolnionym uwalnianiu. Z uwagi na fakt, że chlorek sodu został w stu procentach odseparowany i usunięty w Strefie 2, nawóz ten nie powoduje wtórnego zasolenia gleb, stymulując bezpieczny rozwój systemów korzeniowych na plantacjach.
+________________________________________
 STRUKTURA i INTEGRACJA INFRASTRUKTURALNA WĘZŁA NR 5
 Całość procesów krystalizacji frakcyjnej i ewaporacji zorganizowana jest w ramach zintegrowanego, bezstratnego układu odzysku energii odpadowej, połączonego bezpośrednio z architekturą magazynowania ciepła.
 
 1. Architektura panwi ewaporacyjnej i nieadiabatyczne zasilanie cieplne
 
-Konstrukcja fizyczna : proces odparowania realizowany jest w płytkich, rozległych panwiach ewaporacyjnych wykonanych z kwasoodpornej i odpornej na szoki termiczne ceramiki kamionkowej o wysokim współczynniku przewodzenia ciepła.
+•	Konstrukcja fizyczna : proces odparowania realizowany jest w płytkich, rozległych panwiach ewaporacyjnych wykonanych z kwasoodpornej i odpornej na szoki termiczne ceramiki kamionkowej o wysokim współczynniku przewodzenia ciepła.
 
-Integracja z magazynem ciepła (termodynamika nieadiabatyczna) : aby zapobiec zjawisku adiabatycznego wychłodzenia (spadku temperatury solanki na skutek pobierania ciepła parowania z samej objętości cieczy), panwia jest nieprzerwanie podgrzewana od spodu. Układ wykorzystuje zamknięty obieg kanałów powietrznych, połączonych bezpośrednio z centralnym, wysokotemperaturowym magazynem ciepła.
+•	Integracja z magazynem ciepła (termodynamika nieadiabatyczna) : aby zapobiec zjawisku adiabatycznego wychłodzenia (spadku temperatury solanki na skutek pobierania ciepła parowania z samej objętości cieczy), panwia jest nieprzerwanie podgrzewana od spodu. Układ wykorzystuje zamknięty obieg kanałów powietrznych, połączonych bezpośrednio z centralnym, wysokotemperaturowym magazynem ciepła.
 
-Bezstratny bilans energetyczny : komora ewaporacyjna posadowiona jest bezpośrednio nad strukturą magazynu ciepła. Taka lokalizacja przestrzenna sprawia, że wszelkie naturalne, zewnętrzne straty i ucieczki cieplne izolacji magazynu są bezpośrednio i bezgeometrycznie przejmowane przez dno panwi jako uzysk ciepła technologicznego dla solanki.
+•	Bezstratny bilans energetyczny : komora ewaporacyjna posadowiona jest bezpośrednio nad strukturą magazynu ciepła. Taka lokalizacja przestrzenna sprawia, że wszelkie naturalne, zewnętrzne straty i ucieczki cieplne izolacji magazynu są bezpośrednio i bezgeometrycznie przejmowane przez dno panwi jako uzysk ciepła technologicznego dla solanki.
 
 2. Aerodynamika wymuszona i Komin Solarny (Solar Chimney)
 
-Mechanizm transferu masy : nad lustro parującej, gorącej solanki wtłaczane jest suche, gorące powietrze pustynne o niskiej wilgotności względnej, które gwałtownie absorbuje parę wodną.
+•	Mechanizm transferu masy : nad lustro parującej, gorącej solanki wtłaczane jest suche, gorące powietrze pustynne o niskiej wilgotności względnej, które gwałtownie absorbuje parę wodną.
 
-Konstrukcja i fizyka wyporu Komina Solarnego : nasycony wilgocią, gorący strumień powietrza o temperaturze od siedemdziesięciu stopni Celsjusza do osiemdziesięciu stopni Celsjusza kierowany jest bezpośrednio do podstawy monumentalnego Komina Solarnego (Solar Chimney). Komin zlokalizowany jest po stronie południowej obiektu i wyposażony w wielkopowierzchniowy, czarny absorber z blachy głębokotłocznej pod szczelną osłoną szklaną, co maksymalizuje absorpcję promieniowania słonecznego.
+•	Konstrukcja i fizyka wyporu Komina Solarnego : nasycony wilgocią, gorący strumień powietrza o temperaturze od siedemdziesięciu stopni Celsjusza do osiemdziesięciu stopni Celsjusza kierowany jest bezpośrednio do podstawy monumentalnego Komina Solarnego (Solar Chimney). Komin zlokalizowany jest po stronie południowej obiektu i wyposażony w wielkopowierzchniowy, czarny absorber z blachy głębokotłocznej pod szczelną osłoną szklaną, co maksymalizuje absorpcję promieniowania słonecznego.
 
-Izolacja strefy cienia : północna, zacieniona strona konstrukcji komina jest całkowicie odizolowana termicznie grubą warstwą waty skalnej, co eliminuje ryzyko powstawania wewnętrznych prądów zstępnych. Wywołany w ten sposób potężny, grawitacyjny wypór termiczny (efekt kominowy) w sposób pasywny generuje podciśnienie w komorach parowania, eliminując konieczność stosowania mechanicznych wentylatorów wyciągowych o wysokim poborze mocy elektrycznej.
-
+•	Izolacja strefy cienia : północna, zacieniona strona konstrukcji komina jest całkowicie odizolowana termicznie grubą warstwą waty skalnej, co eliminuje ryzyko powstawania wewnętrznych prądów zstępnych. Wywołany w ten sposób potężny, grawitacyjny wypór termiczny (efekt kominowy) w sposób pasywny generuje podciśnienie w komorach parowania, eliminując konieczność stosowania mechanicznych wentylatorów wyciągowych o wysokim poborze mocy elektrycznej.
+________________________________________
 
 ROZDZIAŁ III :
 PASYWNA AERODYNAMIKA,
@@ -586,7 +615,7 @@ Z podziemnych magazynów ciepła (lub bezpośrednio z kolektorów solarnych) gor
 
 Cały system generowania i magazynowania energii cieplnej to kilka niezależnych systemów i obiegów, które pracują w określonych porach dnia i nocy dla zachowania ciągłości pracy konglomeratu.
 
-
+________________________________________
 
 WĘZEŁ nr 9 
 
@@ -600,10 +629,10 @@ Solanka dogrzewana od spodu przez dno panwi osiąga temperaturę 70-100°C. Ten 
 
 Ogrzewanie powietrzne podłogowe vs. woda pod ciśnieniem
 
-analiza różnicy : woda podwyższonego ciśnienia (3-4 bary) w rurach podłogowych wymaga pomp, armatury, generuje wysokie koszty inwestycyjne i grozi awariami (wycieki, korozja na złączach w agresywnym środowisku solnym). Z kolei gorące powietrze (o temperaturze nawet do 200°C z rynnowych kolektorów zębatych) przepływające grawitacyjnie przez kanały pod dnem panwi całkowicie eliminuje te ryzyka. Powietrze nie wycieka w sposób destrukcyjny, nie wymaga drogich rur, a ciąg jest napędzany darmową fizyką Komina Solarnego i wieży Badgir.(Krok : X)
-wniosek : powietrzne ogrzewanie podłogowe panwi jest bezdyskusyjnie bardziej bezawaryjne, tańsze w budowie i idealnie wpisuje się w pasywną architekturę całego konglomeratu.
+•	analiza różnicy : woda podwyższonego ciśnienia (3-4 bary) w rurach podłogowych wymaga pomp, armatury, generuje wysokie koszty inwestycyjne i grozi awariami (wycieki, korozja na złączach w agresywnym środowisku solnym). Z kolei gorące powietrze (o temperaturze nawet do 200°C z rynnowych kolektorów zębatych) przepływające grawitacyjnie przez kanały pod dnem panwi całkowicie eliminuje te ryzyka. Powietrze nie wycieka w sposób destrukcyjny, nie wymaga drogich rur, a ciąg jest napędzany darmową fizyką Komina Solarnego i wieży Badgir.(Krok : X)
+•	wniosek : powietrzne ogrzewanie podłogowe panwi jest bezdyskusyjnie bardziej bezawaryjne, tańsze w budowie i idealnie wpisuje się w pasywną architekturę całego konglomeratu.
 
-
+________________________________________
 
 WĘZEŁ nr 10 
 AERODYNAMICZNY OBIEG PĘTLI POWIETRZNEJ
@@ -614,7 +643,7 @@ Równolegle do procesów termicznych w podłożu, nad powierzchnią panwi realiz
 Krok 13 : Wieża Badgir (wychwyt i sprężenie)
 
 Umieszczona na szczycie struktury architektonicznej wieża chwyta naturalny wiatr międzyzwrotnikowy. Konstrukcja wieży wymusza ruch mas powietrza w dół pionowego szybu pod zwiększonym ciśnieniem dynamicznym.
-Załamanie tunelu o 180° (separacja mechaniczna) : u podstawy wieży pionowy strumień powietrza napotyka załamanie tunelu o 180 stopni w kształcie syfonu o zwiększonym przekroju na wlocie i zmniejszonym na wylocie. Gwałtowna zmiana kierunku przepływu powoduje, że siłą bezwładności większość ciężkiego pyłu i piasku opada. Następnie strumień powietrza dużym łukiem i już z przyspieszeniem wymuszonym wspomnianym zwężeniem - wpada do komory cyklonowej. Tam resztki pustynnego pyłu mineralnego wypadają ze strumienia gazu i osadzają się na dnie komory, skąd są odbierane jako surowiec do produkcji mis budowlanych.
+•	Załamanie tunelu o 180° (separacja mechaniczna) : u podstawy wieży pionowy strumień powietrza napotyka załamanie tunelu o 180 stopni w kształcie syfonu o zwiększonym przekroju na wlocie i zmniejszonym na wylocie. Gwałtowna zmiana kierunku przepływu powoduje, że siłą bezwładności większość ciężkiego pyłu i piasku opada. Następnie strumień powietrza dużym łukiem i już z przyspieszeniem wymuszonym wspomnianym zwężeniem - wpada do komory cyklonowej. Tam resztki pustynnego pyłu mineralnego wypadają ze strumienia gazu i osadzają się na dnie komory, skąd są odbierane jako surowiec do produkcji mis budowlanych.
 
 Krok 14 : Przepływ nad solanką (absorpcja wilgoci)
 
@@ -624,7 +653,7 @@ Krok 15 : Podziemny układ schładzania i skraplania (kondensacja Direct SWAC)
 
 Gorące i skrajnie wilgotne powietrze kierowane jest z sekcji panwi w dół, do podziemnego wymiennika lamelowego kondensacji powierzchniowej. Wymiennik ten jest zasilany bezpośrednio zimną wodą ze studni drenażowej w systemie Direct SWAC (Sea Water Air Conditioning). Na skutek kontaktu z zimnymi lamelami następuje gwałtowne odskraplanie wody słodkiej z masy powietrza. Woda ta spływa grawitacyjnie do zbiorników jako dodatkowy uzysk destylatu, natomiast osuszone i schłodzone powietrze opuszcza wymiennik podziemny i kierowane jest do pionowego komina.
 
-
+________________________________________
 
 WĘZEŁ nr 11 
 TERMICZNA
@@ -639,9 +668,9 @@ W celu stabilizacji parametrów i ochrony przed punktem rosy podczas nocnych spa
 
 Jak to działa w praktyce i dlaczego stabilizuje system?
 
-Ochrona przed nocnym załamaniem ciągu : pasywny komin solarny działa najsilniej w pełnym słońcu. W nocy, gdy temperatura zewnętrzna spada, ciąg mógłby niebezpiecznie osłabnąć. Wprowadzanie ciepła zmagazynowanego w podziemnym akumulatorze kamiennym (który przez dzień nagrzewał się do wysokich temperatur) gwarantuje, że komin utrzymuje niezakłócony ruch powietrza przez całą dobę, niezależnie od pory dnia.
-Zapobieganie skraplaniu wewnątrz komina : powietrze wchodzące do komina jest już osuszone w podziemnym układzie skraplania (Direct SWAC), ale wciąż zawiera resztkową wilgoć. Gdyby to powietrze wewnątrz komina uległo gwałtownemu ochłodzeniu, para mogłaby zacząć skraplać się na ścianach komina (zjawisko deszczu wewnętrznego). Podgrzanie go do stabilnych, wyższych wartości (nawet jeśli nie jest to dwieście stopni, a bezpieczny zapas powyżej temperatury otoczenia) trwale oddala gaz od punktu rosy.
-Płynna regulacja bez elektroniki : poprzez system prostych klap bimetalicznych, nadmiar gorącego powietrza z kolektorów zębatych może być automatycznie wpuszczany do podstawy komina tylko wtedy, gdy naturalny ciąg solarny słabnie.
+1.	Ochrona przed nocnym załamaniem ciągu : pasywny komin solarny działa najsilniej w pełnym słońcu. W nocy, gdy temperatura zewnętrzna spada, ciąg mógłby niebezpiecznie osłabnąć. Wprowadzanie ciepła zmagazynowanego w podziemnym akumulatorze kamiennym (który przez dzień nagrzewał się do wysokich temperatur) gwarantuje, że komin utrzymuje niezakłócony ruch powietrza przez całą dobę, niezależnie od pory dnia.
+2.	Zapobieganie skraplaniu wewnątrz komina : powietrze wchodzące do komina jest już osuszone w podziemnym układzie skraplania (Direct SWAC), ale wciąż zawiera resztkową wilgoć. Gdyby to powietrze wewnątrz komina uległo gwałtownemu ochłodzeniu, para mogłaby zacząć skraplać się na ścianach komina (zjawisko deszczu wewnętrznego). Podgrzanie go do stabilnych, wyższych wartości (nawet jeśli nie jest to dwieście stopni, a bezpieczny zapas powyżej temperatury otoczenia) trwale oddala gaz od punktu rosy.
+3.	Płynna regulacja bez elektroniki : poprzez system prostych klap bimetalicznych, nadmiar gorącego powietrza z kolektorów zębatych może być automatycznie wpuszczany do podstawy komina tylko wtedy, gdy naturalny ciąg solarny słabnie.
 
 Wniosek : sam komin działa autonomicznie, a dodatkowe zasilanie termiczne z kolektorów lub magazynu traktujemy jako pasywny stabilizator i bezpiecznik systemu, który eliminuje wahania pogodowe i gwarantuje płynny, bezawaryjny ruch mas powietrza.
 
@@ -651,6 +680,7 @@ Krok 17 : Samonastawna nasada GRP (wydalenie dynamiczne)
 Na szczycie komina solarnego proces usuwania mas powietrza jest mechanicznie potęgowany przez obrotową nasadę dynamiczną (turbowent). Nasada wykonana jest z grubego laminatu poliestrowo-szklanego GRP, co czyni ją ultralekką, całkowicie obojętną na sól morską, odporną na korozję i eliminującą konieczność stosowania drogich powłok fluoropolimerowych. Układ obrotowy nasady opiera się na masowych, standardowych łożyskach stalowych zamkniętych w hermetycznej, ciśnieniowej obudowie z podwójnym uszczelnieniem typu simmerring, pracujących w wysokotemperaturowym smarze silikonowym. Zastosowanie tych komponentów obniża koszt wykonania konkretnie tego podsystemu o 75 do 80 procent, drastycznie redukując nakłady inwestycyjne CAPEX przy zachowaniu pełnej trwałości mechanicznej i umożliwiając serwisowanie przez lokalny personel. 
 Nasada stale wykorzystuje nadmorską bryzę, tworząc silne podciśnienie w oparciu o efekt Venturiego. Powietrze jest wydalane poziomo na zewnątrz, co przyspiesza cały zamknięty, zintegrowany obieg aerodynamiczny bez jakiegokolwiek zużycia energii elektrycznej na wyciąg (zerowy OPEX).
 
+________________________________________
 
 
 
@@ -682,16 +712,16 @@ Magazyn wyposażony jest w kilka niezależnych uzwojeń wężownicowych, między
 
 Geometria i warianty magazynu do wyboru :
 
-Wariant I (magazyn leżący z tubami) : bryła w kształcie poziomego sześcianu, gdzie ściana czołowa ma przekrój kwadratu, a głębokość bloku jest wydłużona. W celu wyeliminowania strat ciśnienia i zjawiska kanałowania w strefie wlotowej, wlot gorącego powietrza rozszerzono w formie tuby (dyfuzora) na całą szerokość i wysokość bloku, a po przeciwległej stronie zastosowano zwężający się konfuzor. Gwarantuje to, że cała masa termiczna otoczaków bierze równomierny udział w wymianie ciepła, eliminując martwe strefy.
+•	Wariant I (magazyn leżący z tubami) : bryła w kształcie poziomego sześcianu, gdzie ściana czołowa ma przekrój kwadratu, a głębokość bloku jest wydłużona. W celu wyeliminowania strat ciśnienia i zjawiska kanałowania w strefie wlotowej, wlot gorącego powietrza rozszerzono w formie tuby (dyfuzora) na całą szerokość i wysokość bloku, a po przeciwległej stronie zastosowano zwężający się konfuzor. Gwarantuje to, że cała masa termiczna otoczaków bierze równomierny udział w wymianie ciepła, eliminując martwe strefy.
 
-Wariant II (magazyn stojący pionowy) : magazyn wkopany głęboko pionowo, gdzie lej z nawiewem gorącego powietrza znajduje się w dolnej części ściany czołowej, a wylot na przeciwległej ścianie jak najwyżej. Układ ten wykorzystuje naturalne zjawisko wyporu termicznego (konwekcję swobodną) — gorące, lżejsze powietrze grawitacyjnie unosi się ku górze, penetrując wolne przestrzenie między otoczakami. Wspiera to pracę wentylatorów zasilających i sprzyja powstawaniu stabilnej, ostrej granicy temperatur (termokliny), podnosząc sprawność egzergetyczną układu.
+•	Wariant II (magazyn stojący pionowy) : magazyn wkopany głęboko pionowo, gdzie lej z nawiewem gorącego powietrza znajduje się w dolnej części ściany czołowej, a wylot na przeciwległej ścianie jak najwyżej. Układ ten wykorzystuje naturalne zjawisko wyporu termicznego (konwekcję swobodną) — gorące, lżejsze powietrze grawitacyjnie unosi się ku górze, penetrując wolne przestrzenie między otoczakami. Wspiera to pracę wentylatorów zasilających i sprzyja powstawaniu stabilnej, ostrej granicy temperatur (termokliny), podnosząc sprawność egzergetyczną układu.
 
 Krok 20 : Obiegi operacyjne pętli cieplnej
 
 Za pomocą automatycznych klap bimetalicznych system realizuje przełączanie pomiędzy dwoma głównymi obiegami operacyjnymi (i kilkoma technicznymi) :
 
-Obieg dzienny (ładowanie i multiplikacja platformowa) : powietrze krąży w pętli: kolektory rynnowe powietrzne, następnie podziemne magazyny kamienny i powrót do kolektorów. Alternatywnie aktywowana jest platforma z niskich szklarni z czarnym bazaltowym podłożem, które jest całkowicie odizolowane termicznie od gruntu. Strumień przechodzi przez wielkopowierzchniowe filtry (na przykład żwirowe), wpada na platformę szklarniową z czarnym nagrzewającym się podłożem bazaltowym, skąd rozgrzany trafia do kolektorów rynnowych osiągając (w szczytach pogodowych) temperaturę 200 stopni Celsjusza, a następnie ładuje magazyny kamienne i zasila bieżące odbiorniki ciepłego powietrza.
-Obieg nocny (rozładowanie bufora): pętla zamknięta zostaje przestawiona na kierunek : aktywne akumulatory kamienne, bezpośrednio odbiorniki ciepła technologicznego i powrót schłodzonego powietrza do dolnej strefy akumulatora w celu ponownego nagrzania od zgromadzonej w otoczakach energii.
+•	Obieg dzienny (ładowanie i multiplikacja platformowa) : powietrze krąży w pętli: kolektory rynnowe powietrzne, następnie podziemne magazyny kamienny i powrót do kolektorów. Alternatywnie aktywowana jest platforma z niskich szklarni z czarnym bazaltowym podłożem, które jest całkowicie odizolowane termicznie od gruntu. Strumień przechodzi przez wielkopowierzchniowe filtry (na przykład żwirowe), wpada na platformę szklarniową z czarnym nagrzewającym się podłożem bazaltowym, skąd rozgrzany trafia do kolektorów rynnowych osiągając (w szczytach pogodowych) temperaturę 200 stopni Celsjusza, a następnie ładuje magazyny kamienne i zasila bieżące odbiorniki ciepłego powietrza.
+•	Obieg nocny (rozładowanie bufora): pętla zamknięta zostaje przestawiona na kierunek : aktywne akumulatory kamienne, bezpośrednio odbiorniki ciepła technologicznego i powrót schłodzonego powietrza do dolnej strefy akumulatora w celu ponownego nagrzania od zgromadzonej w otoczakach energii.
 
 
 WERSJE TECHNOLOGICZNE PODZIEMNEGO REGENERATORA TERMICZNEGO
@@ -699,18 +729,19 @@ MAGAZYN / BLOK energii cieplnej
 (matryca porównawcza wariantów) :
 
 
-WERSJA A : ekskluzywna PREMIUM (struktura monolityczna Honeycomb)
+•	WERSJA A : ekskluzywna PREMIUM (struktura monolityczna Honeycomb)
 
-Specyfikacja : magazyn wypełniają prefabrykowane bloki ceramiczne lub betonowe o regularnej strukturze plastra miodu (Honeycomb). Proste, równoległe mikro-kanały zapewniają przepływ laminarny gazu.
-Wady i zalety : rozwiązanie redukuje opory aerodynamiczne (spadek ciśnienia wg równania Erguna) o 70–80%, zapewniając gigantyczną powierzchnię wymiany ciepła przy minimalnych stratach ciśnienia. Charakteryzuje się jednak astronomicznym kosztem wykonania (bardzo wysoki CAPEX) i wymaga importu zaawansowanych materiałów ceramicznych.
+o	Specyfikacja : magazyn wypełniają prefabrykowane bloki ceramiczne lub betonowe o regularnej strukturze plastra miodu (Honeycomb). Proste, równoległe mikro-kanały zapewniają przepływ laminarny gazu.
+o	Wady i zalety : rozwiązanie redukuje opory aerodynamiczne (spadek ciśnienia wg równania Erguna) o 70–80%, zapewniając gigantyczną powierzchnię wymiany ciepła przy minimalnych stratach ciśnienia. Charakteryzuje się jednak astronomicznym kosztem wykonania (bardzo wysoki CAPEX) i wymaga importu zaawansowanych materiałów ceramicznych.
 
-WERSJA B : zoptymalizowana (złoże otoczakowe o skorygowanej geometrii)
-Specyfikacja : ceramika techniczna zostaje zastąpiona darmowym surowcem lokalnym – selekcjonowanymi otoczakami bazaltowymi lub granitowymi o dużej średnicy mieszczącej się w przedziale 15–25 cm. Magazyn może być realizowany w dwóch wariantach geometrycznych:
-Wariant I (magazyn leżący) 
-Wariant II (magazyn stojący)
-Wady i zalety : oszczędność finansowa rzędu 90–95% w stosunku do bloków ceramicznych. Kamień naturalny posiada zbliżoną gęstość i doskonałą pojemność akumulacyjną. Zastosowanie dużej średnicy kamieni (15–25 cm) drastycznie zwiększa wolną przestrzeń międzyziarnową, dzięki czemu opór aerodynamiczny powietrza spada nieliniowo (kwadratowo), zbliżając parametry przepływu do reżimu laminarnego i odciążając wentylatory obiegowe.
+•	WERSJA B : zoptymalizowana (złoże otoczakowe o skorygowanej geometrii)
+o	Specyfikacja : ceramika techniczna zostaje zastąpiona darmowym surowcem lokalnym – selekcjonowanymi otoczakami bazaltowymi lub granitowymi o dużej średnicy mieszczącej się w przedziale 15–25 cm. Magazyn może być realizowany w dwóch wariantach geometrycznych:
+	Wariant I (magazyn leżący) 
+	Wariant II (magazyn stojący)
+o	Wady i zalety : oszczędność finansowa rzędu 90–95% w stosunku do bloków ceramicznych. Kamień naturalny posiada zbliżoną gęstość i doskonałą pojemność akumulacyjną. Zastosowanie dużej średnicy kamieni (15–25 cm) drastycznie zwiększa wolną przestrzeń międzyziarnową, dzięki czemu opór aerodynamiczny powietrza spada nieliniowo (kwadratowo), zbliżając parametry przepływu do reżimu laminarnego i odciążając wentylatory obiegowe.
 
 
+________________________________________
 
 
 ROZDZIAŁ V
@@ -737,28 +768,29 @@ Rdzeń nośny budowli jest całkowicie odizolowany od pracującego termicznie z�
 
 Najbardziej korzystny, optymalnie tani i prosty w wykonaniu układ (od środka/magazynu do zewnątrz) :
 
-warstwa 1 : ciężki, prosty mur oporowy z cegły klinkierowej (lub szamotowej)
-rola : przejmuje całe mechaniczne parcie złoża bazaltowego i akumuluje ciepło. Musi być prosty i stabilny. W przypadku konstrukcji wysokich : rozszerzany na dole z odpowiednim zakotwiczeniem w podstawie.
-warstwa 2 : ekran z folii aluminiowej refleksyjnej (wysokotemperaturowej) + pierwsza warstwa twardej wełny skalnej
-rola : folia odbija promieniowanie podczerwone (radiację). Wełna skalna (specjalna, przemysłowa o gęstości powyżej 100 kg/m³) przylega bezpośrednio do cegły. Brak powietrza = brak konwekcji. Ta warstwa zbije temperaturę z 200°C do około 60–70°C.
-warstwa 3 : optymalna szczelina powietrzna (2-2,5 cm)
-Rola : skoro zbiliśmy temperaturę wełną do około 60°C, szczelina powietrzna ma idealne warunki do pracy. Przy niskiej temperaturze powietrze jest stabilne, nie wpada w turbulencje konwekcyjne i działa jak darmowy, doskonały izolator.
-warstwa 4 : konstrukcja zamykająca (metalowy stelaż wtopiony w drugą, lekką warstwę wełny)
-Rola : wyłapuje resztki ciepła. Temperatura spada tutaj do bezpiecznych 15–20°C.
-warstwa 5 : obudowa ochronna (np. płyty cementowo-włóknowe lub blacha trapezowa)
-Rola : zabezpieczenie przed pyleniem wełny i mechaniczne zamknięcie układu.
+•	warstwa 1 : ciężki, prosty mur oporowy z cegły klinkierowej (lub szamotowej)
+o	rola : przejmuje całe mechaniczne parcie złoża bazaltowego i akumuluje ciepło. Musi być prosty i stabilny. W przypadku konstrukcji wysokich : rozszerzany na dole z odpowiednim zakotwiczeniem w podstawie.
+•	warstwa 2 : ekran z folii aluminiowej refleksyjnej (wysokotemperaturowej) + pierwsza warstwa twardej wełny skalnej
+o	rola : folia odbija promieniowanie podczerwone (radiację). Wełna skalna (specjalna, przemysłowa o gęstości powyżej 100 kg/m³) przylega bezpośrednio do cegły. Brak powietrza = brak konwekcji. Ta warstwa zbije temperaturę z 200°C do około 60–70°C.
+•	warstwa 3 : optymalna szczelina powietrzna (2-2,5 cm)
+o	Rola : skoro zbiliśmy temperaturę wełną do około 60°C, szczelina powietrzna ma idealne warunki do pracy. Przy niskiej temperaturze powietrze jest stabilne, nie wpada w turbulencje konwekcyjne i działa jak darmowy, doskonały izolator.
+•	warstwa 4 : konstrukcja zamykająca (metalowy stelaż wtopiony w drugą, lekką warstwę wełny)
+o	Rola : wyłapuje resztki ciepła. Temperatura spada tutaj do bezpiecznych 15–20°C.
+•	warstwa 5 : obudowa ochronna (np. płyty cementowo-włóknowe lub blacha trapezowa)
+o	Rola : zabezpieczenie przed pyleniem wełny i mechaniczne zamknięcie układu.
 
 Infrastruktura techniczna obwodu : przestrzeń znajdująca się na zewnątrz obudowy akumulatora ciepła jest traktowana jako pas konserwacyjny oraz bufor awaryjny. Umożliwia on natychmiastowe wypompowanie gorącego powietrza w stanach krytycznych. Działa on także poprzez straty ciepła unoszącego się pod strop jako wstępny podgrzewacz nieizolowanego stropu oddzielającego od komór/hal które wymagają ogrzewania podłogowego.
 
 Krok 23 : Bariera zewnętrzna (pancerz izolacyjno-dociskowy wzniesienia)
 
 Zewnętrzny obwód sztucznego wzniesienia chroniony jest wielowarstwowym pancerzem izolacyjno-dociskowym o wysokim oporze cieplnym. Struktura osłony ułożona w sekwencji od wnętrza magazynu do zewnątrz obiektu obejmuje:
-Główna, zewnętrzna ściana oporowa magazynu wykonana z grubego i ciężkiego żelbetu.
-Warstwa strukturalnej, wysokotemperaturowej waty skalnej (wełny mineralnej) w dedykowanej osłonie przeciwwilgociowej, stanowiąca zasadniczą barierę dla przewodnictwa cieplnego typu metal-powietrze.
-Podwójna ściana szczelinowa wzniesiona np. z cegieł dziurawkowych z kanałami pionowymi, tworząca zamkniętą, statyczną poduszkę powietrzną.
-Nasyp z suchego piachu pustynnego o grubości kilku metrów, działający jako darmowy, potężny bufor masowy oraz dociskowy.
-Zewnętrzne płyty stabilizujące piach wykonane z prefabrykatów z konglomeratu piaskowego lub kamienia, zabezpieczające stok przed osuwaniem i erozją wiatrową. Płyty te w wyznaczonych, bezpiecznych strefach są wyposażone w donice z roślinnością pustynną, tworząc żywy ekran osłonowy.
+•	Główna, zewnętrzna ściana oporowa magazynu wykonana z grubego i ciężkiego żelbetu.
+•	Warstwa strukturalnej, wysokotemperaturowej waty skalnej (wełny mineralnej) w dedykowanej osłonie przeciwwilgociowej, stanowiąca zasadniczą barierę dla przewodnictwa cieplnego typu metal-powietrze.
+•	Podwójna ściana szczelinowa wzniesiona np. z cegieł dziurawkowych z kanałami pionowymi, tworząca zamkniętą, statyczną poduszkę powietrzną.
+•	Nasyp z suchego piachu pustynnego o grubości kilku metrów, działający jako darmowy, potężny bufor masowy oraz dociskowy.
+•	Zewnętrzne płyty stabilizujące piach wykonane z prefabrykatów z konglomeratu piaskowego lub kamienia, zabezpieczające stok przed osuwaniem i erozją wiatrową. Płyty te w wyznaczonych, bezpiecznych strefach są wyposażone w donice z roślinnością pustynną, tworząc żywy ekran osłonowy.
 
+________________________________________
 
 
 WĘZEŁ nr 14 
@@ -768,7 +800,7 @@ i STREFOWANIE TECHNOLOGICZNE)
 Stropy oddzielające podziemne magazyny otoczakowe o różnym stopniu nagrzania (gdzie główny ciąg powietrza może być prowadzony szeregowo przez kilka magazynów) od obiektów nadziemnych są zaprojektowane strefowo. 
 Strop nadmagazynowy staje się bezpośrednim, czynnym uczestnikiem procesów technologicznych i bytowych zachodzących na halach i w budynkach powyżej.
 
-Strefa grzewcza (gorąca podłoga) : lokowana nad sekcjami magazynu, gdzie wymagana jest wysoka temperatura procesowa w nadziemnych obiektach (np. pod długimi i wąskimi pomieszczeniami z panwiami ewaporacyjnymi, gdzie realizowane jest podłogowe dogrzewanie panwi). 
+•	Strefa grzewcza (gorąca podłoga) : lokowana nad sekcjami magazynu, gdzie wymagana jest wysoka temperatura procesowa w nadziemnych obiektach (np. pod długimi i wąskimi pomieszczeniami z panwiami ewaporacyjnymi, gdzie realizowane jest podłogowe dogrzewanie panwi). 
 
 Strop żelbetowy w tej strefie nie posiada izolacji termicznej. Jest monolitem przewodzącym ciepło, zaopatrzonym w szerokie i odpowiednio dopasowane szczeliny dylatacyjne na obwodzie. Zapobiega to rozsadzaniu ścian zewnętrznych przez liniową rozszerzalność betonu. 
 
@@ -776,16 +808,15 @@ Uciekające z magazynu ku górze ciepło radiacyjne jest bezpośrednim paliwem p
 
 Dodatkowym zabezpieczeniem całej konstrukcji w tej strefie jest wymuszony, wydłużony (wąski i długi) kształt hali.
 
-Strefa buforowa (zabezpieczenie i kontrola) : lokowana nad sekcjami magazynu o najwyższych temperaturach, które usytuowane są pod obiektami wymagającymi niższych, ściśle kontrolowanych temperatur (precyzyjny reżim chłodu pod pomieszczeniami mieszkalnymi, hostelami i biurowo-funkcjonalnymi wymaga aby nie były one bezpośrednio ponad magazynami ciepła). 
+•	Strefa buforowa (zabezpieczenie i kontrola) : lokowana nad sekcjami magazynu o najwyższych temperaturach, które usytuowane są pod obiektami wymagającymi niższych, ściśle kontrolowanych temperatur (precyzyjny reżim chłodu pod pomieszczeniami mieszkalnymi, hostelami i biurowo-funkcjonalnymi wymaga aby nie były one bezpośrednio ponad magazynami ciepła). 
 
 Pod stropem wprowadza się pasywne poduszki powietrzne w podwójnej strukturze konstrukcyjnej. Działają one jako izolator i bezpiecznik termiczny, odcinając nadmiar energii i gwarantując stabilność budowli powyżej. Poduszki te pełnią również funkcję mieszalnika powietrznego i bezpiecznika spustowego, co pozwala na natychmiastowe obniżenie temperatury układu poprzez awaryjną wymianę powietrza.
-
-
+________________________________________
 Nota techniczna / Zastrzeżenie projektowe
 
 Prezentowana powyżej struktura strefy grzewczej (gorącej podłogi) oraz rezygnacja z poziomej izolacji termicznej pod stropem stanowią autorskie odejście od ortodoksyjnych i sztywnych zasad projektowych, propagowanych w standardowych wytycznych dla krajów bogatych. Choć tradycyjne procedury konwencjonalne nakazują bezwzględną, ciągłą izolację przegród podziemnych, w tym specyficznym wdrożeniu to właśnie bezpośrednia emisja ciepła ku górze stanowi zintegrowane paliwo procesowe. Rozwiązanie to należy traktować jako wariant wiodący i referencyjny dla systemów innowacyjnych, gdzie nadrzędną regułą jest maksymalizacja sprawności egzergetycznej całego kompleksu przemysłowego.
 
-
+________________________________________
 
 Krok 24 : Sekcjonowanie magazynu i topografia przepływu 
 
@@ -798,6 +829,7 @@ Topografia przepływu, rozwój i kaskada Walipini opiera się na pasywnym dolnym
 Ponieważ gorące powietrze naturalnie dąży ku górze, jego transport z kolektorów do podziemnych sekcji akumulatora na wzniesieniu odbywa się z wykorzystaniem naturalnej konwekcji, co drastycznie odciąża wentylatory rozruchowe.
 
 
+________________________________________
 
 
 WĘZEŁ nr 15 
@@ -811,12 +843,11 @@ Krok 25 : Magazyny ciepła ładowane od góry
 Niektóre systemy i sytuacje wymagają ładowania i rozładowywania magazynu ciepła od góry, np. w przypadku konieczności budowy magazynu u podnóża konglomeratu. Wymuszają one jednak zastosowanie pomp.
 
 Zasada działania : wynika to z czystej fizyki i grawitacji. Gorące medium (zarówno woda, jak i powietrze) ma mniejszą gęstość, czyli jest lżejsze od zimnego.
-Jeśli wtłacza się gorące powietrze/wodę od góry, to naturalnie układa się ono na samym szczycie magazynu, tworząc stabilną warstwę. W miarę tłoczenia, ten gorący „tłok” równomiernie przesuwa się w dół, wypychając zimne medium dołem. Granica między nimi (termoklina) pozostaje ostra.
-W przypadku podawania gorącego medium (powietrza) od dołu, to jako lżejsze zaczyna ono gwałtownie uciekać do góry przez szczeliny między kamieniami. Wywołuje to gigantyczne zawirowania, doprowadzając do natychmiastowego wymieszania się ciepła z zimnem zalegającym pomiędzy kamieniami. Dlatego we wcześniej opisywanych wariantach wydłuża się czas nagrzewania masy kamieni ponieważ jest również ogrzewane powietrze pomiędzy nimi. 
+•	Jeśli wtłacza się gorące powietrze/wodę od góry, to naturalnie układa się ono na samym szczycie magazynu, tworząc stabilną warstwę. W miarę tłoczenia, ten gorący „tłok” równomiernie przesuwa się w dół, wypychając zimne medium dołem. Granica między nimi (termoklina) pozostaje ostra.
+•	W przypadku podawania gorącego medium (powietrza) od dołu, to jako lżejsze zaczyna ono gwałtownie uciekać do góry przez szczeliny między kamieniami. Wywołuje to gigantyczne zawirowania, doprowadzając do natychmiastowego wymieszania się ciepła z zimnem zalegającym pomiędzy kamieniami. Dlatego we wcześniej opisywanych wariantach wydłuża się czas nagrzewania masy kamieni ponieważ jest również ogrzewane powietrze pomiędzy nimi. 
 Natomiast w nowym typie magazynu zimne powietrze jest wypychane a więc w pierwszej kolejności nagrzewają się kamienie.
-Magazyn energii cieplnej drugiego typu również może być wykorzystany do ogrzewania procesów zachodzących powyżej w halach konglomeratu i to bez pomp, ponieważ ciepłe powietrze konwekcyjnie uniesie się do góry, jednak objętość gorącego jest ograniczona poziomem nagrzania się magazynu i energia cieplna drastycznie będzie spadała po wykorzystaniu tej objętości.
-
-
+•	Magazyn energii cieplnej drugiego typu również może być wykorzystany do ogrzewania procesów zachodzących powyżej w halach konglomeratu i to bez pomp, ponieważ ciepłe powietrze konwekcyjnie uniesie się do góry, jednak objętość gorącego jest ograniczona poziomem nagrzania się magazynu i energia cieplna drastycznie będzie spadała po wykorzystaniu tej objętości.
+________________________________________
 ROZDZIAŁ VI :
 INNE METODY ODSALAJĄCE
 
@@ -828,33 +859,33 @@ Kiedy woda morska zamarza, jony soli są wypychane na zewnątrz sieci krystalicz
 
 Całkowicie znika tu problem powstawania kamienia kotłowego.
 
-Wymrażanie pośrednie warstwowe : woda opływa bębny chłodzone wewnętrznie czynnikiem chłodniczym. Na powierzchni metalu odkłada się warstwa czystego lodu słodkowodnego. Specjalne noże mechaniczne stale skrobią powierzchnię bębna, zrzucając lodowe płatki do separatora, a solanka spływa grawitacyjnie. Płatki lodu trafiają do wirówki mechanicznej, gdzie siła odśrodkowa odrzuca resztki słonej cieczy uwięzionej między kryształkami, po czym lód jest powierzchniowo płukany minimalną ilością zimnej wody słodkiej i topiony.
+•	Wymrażanie pośrednie warstwowe : woda opływa bębny chłodzone wewnętrznie czynnikiem chłodniczym. Na powierzchni metalu odkłada się warstwa czystego lodu słodkowodnego. Specjalne noże mechaniczne stale skrobią powierzchnię bębna, zrzucając lodowe płatki do separatora, a solanka spływa grawitacyjnie. Płatki lodu trafiają do wirówki mechanicznej, gdzie siła odśrodkowa odrzuca resztki słonej cieczy uwięzionej między kryształkami, po czym lód jest powierzchniowo płukany minimalną ilością zimnej wody słodkiej i topiony.
 
-Wymrażanie eutektyczne : solankę schładza się poniżej temperatury zamarzania wody morskiej aż do osiągnięcia punktu eutektycznego. W tym konkretnym punkcie temperaturowym dochodzi do jednoczesnej krystalizacji czystego lodu oraz czystych kryształów soli. Ponieważ lód ma mniejszą gęstość, wypływa na powierzchnię komory, skąd jest zbierany mechanicznymi zgarniarkami górnymi (do stopienia na wodę słodką). Kryształy soli mają gęstość większą, więc opadają na dno, skąd usuwają je zgarniarki dolne. 
+•	Wymrażanie eutektyczne : solankę schładza się poniżej temperatury zamarzania wody morskiej aż do osiągnięcia punktu eutektycznego. W tym konkretnym punkcie temperaturowym dochodzi do jednoczesnej krystalizacji czystego lodu oraz czystych kryształów soli. Ponieważ lód ma mniejszą gęstość, wypływa na powierzchnię komory, skąd jest zbierany mechanicznymi zgarniarkami górnymi (do stopienia na wodę słodką). Kryształy soli mają gęstość większą, więc opadają na dno, skąd usuwają je zgarniarki dolne. 
 
 Proces zapewnia zero płynnych odpadów bez użycia chemii.
 
-Wymrażanie próżniowe : pompy próżniowe drastycznie obniżają ciśnienie w komorze z wodą morską. Przy osiągnięciu punktu potrójnego wody, część wody gwałtownie odparowuje, pobierając ciepło odparowania z pozostałej objętości cieczy. W tym samym ułamku sekundy pozostała woda zamarza w czysty lód. Otrzymuje się dwa produkty jednocześnie : parę wodną do skroplenia oraz lód do stopienia, bez chemicznych czynników chłodniczych.
+•	Wymrażanie próżniowe : pompy próżniowe drastycznie obniżają ciśnienie w komorze z wodą morską. Przy osiągnięciu punktu potrójnego wody, część wody gwałtownie odparowuje, pobierając ciepło odparowania z pozostałej objętości cieczy. W tym samym ułamku sekundy pozostała woda zamarza w czysty lód. Otrzymuje się dwa produkty jednocześnie : parę wodną do skroplenia oraz lód do stopienia, bez chemicznych czynników chłodniczych.
 
 2. FIZYCZNE METODY BEZMEMBRANOWE I BEZFAZOWE
 
 Przeznaczone do pracy w strefach, gdzie zachodzi konieczność całkowitego uniknięcia powstawania osadów wewnątrz aparatury głównej.
 
-Odsalanie falowe i pneumatyczne : woda morska jest tłoczona pod wysokim ciśnieniem przez dysze rozpylające (atomizery) do wnętrza wysokich wież cyklonowych. Wentylatory tworzą silny, wirujący strumień powietrza. Krople wody w locie ulegają błyskawicznemu powierzchniowemu odparowaniu. Ciężka sól i minerały siłą odśrodkową uderzają w ścianki wieży i spływają jako koncentrat, a czysta para jest odsysana z centrum cyklonu i skraplana. 
+•	Odsalanie falowe i pneumatyczne : woda morska jest tłoczona pod wysokim ciśnieniem przez dysze rozpylające (atomizery) do wnętrza wysokich wież cyklonowych. Wentylatory tworzą silny, wirujący strumień powietrza. Krople wody w locie ulegają błyskawicznemu powierzchniowemu odparowaniu. Ciężka sól i minerały siłą odśrodkową uderzają w ścianki wieży i spływają jako koncentrat, a czysta para jest odsysana z centrum cyklonu i skraplana. 
 
 System buduje się wyłącznie z betonu, ceramiki i stali, bez filtrów wymiennych.
 
-Termodyfuzja cieczowa (efekt Soreta) : wykorzystuje zjawisko fizyczne, w którym mieszanina cieczy poddana potężnemu gradientowi temperatur zaczyna się samoczynnie rozdzielać. 
+•	Termodyfuzja cieczowa (efekt Soreta) : wykorzystuje zjawisko fizyczne, w którym mieszanina cieczy poddana potężnemu gradientowi temperatur zaczyna się samoczynnie rozdzielać. 
 Woda przepływa przez bardzo wąską szczelinę pomiędzy dwiema płytami — gorącą (podgrzewaną do dwieście stopni Celsjusza) i zimną. 
 Pod wpływem gradientu temperatur jony soli gwałtownie migrują w kierunku płyty zimnej (na dole układu), a czysta woda skupia się przy płycie gorącej (na górze układu). 
 Na końcu szczeliny mechaniczny nóż strumieniowy rozcina płynący strumień na dwa osobne : czystą wodę słodką i gęstą solankę. 
 
 Brak fazy parowania oznacza absolutny brak kamienia kotłowego.
 
-Elektrodializa rewersyjna EDR z węglem aktywnym : woda morska przepływa powoli pomiędzy dwoma blokami porowatego biocharu, do których przyłożone jest napięcie elektryczne. 
+•	Elektrodializa rewersyjna EDR z węglem aktywnym : woda morska przepływa powoli pomiędzy dwoma blokami porowatego biocharu, do których przyłożone jest napięcie elektryczne. 
 Dodatnio naładowana elektroda przyciąga jony chlorkowe, a ujemna jony sodowe. Węgiel drzewny pochłania te jony w swoich porach, a ze środka kanału wypływa woda słodka. 
 Kiedy pory węgla się nasycą, odwraca się biegunowość prądu (rewers), a jony soli są gwałtownie uwalniane do małej objętości wody, tworząc gęsty koncentrat, a węgiel odzyskuje pełną zdolność sorpcyjną.
-
+________________________________________
 
 ROZDZIAŁ VII :
 WĘZEŁ ENERGETYCZNY i MIKROKLIMAT
@@ -886,9 +917,10 @@ w zamkniętych komorach odzysku z parowników MED i ZLD wdraża się urządzenie
 
 Ocena techniczna i rola w projekcie silników/generatorów prądu polskich konstruktorów : Wolski-Nikoluk
 
-Silnik z tłokiem pośrodku układu (akceptowany) : pozostaje w projekcie jako wysoce pożądana opcja awaryjno-zabezpieczająca. Brak klasycznego korbowodu i umieszczenie tłoka w hermetycznym cylindrze sprawia, że jest niemal w 100% odporny na pył pustynny. Działa jako autonomiczne zabezpieczenie zasilania dla krytycznych zaworów i systemów sterowania w poszczególnych węzłach.
-Silnik membranowy (eliminacja z głównego ciągu) : zostaje całkowicie wykluczony z sekcji energetycznej. Może być wspomniany wyłącznie jako historyczny krok badawczy lub ograniczony do jednej, specyficznej mikro-funkcji: jako pasywny, bezpośredni napęd membranowych pompek dozujących antyskalanty (gdzie i tak ruch membrany jest wymagany do tłoczenia chemii, a awaria pojedynczej pompki nie zagraża całemu systemowi).
+•	Silnik z tłokiem pośrodku układu (akceptowany) : pozostaje w projekcie jako wysoce pożądana opcja awaryjno-zabezpieczająca. Brak klasycznego korbowodu i umieszczenie tłoka w hermetycznym cylindrze sprawia, że jest niemal w 100% odporny na pył pustynny. Działa jako autonomiczne zabezpieczenie zasilania dla krytycznych zaworów i systemów sterowania w poszczególnych węzłach.
+•	Silnik membranowy (eliminacja z głównego ciągu) : zostaje całkowicie wykluczony z sekcji energetycznej. Może być wspomniany wyłącznie jako historyczny krok badawczy lub ograniczony do jednej, specyficznej mikro-funkcji: jako pasywny, bezpośredni napęd membranowych pompek dozujących antyskalanty (gdzie i tak ruch membrany jest wymagany do tłoczenia chemii, a awaria pojedynczej pompki nie zagraża całemu systemowi).
 
+________________________________________
 
 
 ROZDZIAŁ VIII :
@@ -909,21 +941,20 @@ Jest to monumentalny, pasywny system mechaniczno-aerodynamiczny, stanowiący zew
 Konstrukcja i wykorzystanie lokalnych materiałów
 
 Wieża i komin wznoszone są z bloków piaskowo-szklanych (Twój budulec z piasku i szkła wodnego) izolowanych od wewnątrz lokalną gliną i mleczkiem wapiennym. 
-na szczycie wieży Badgir osadzona jest obrotowa, stalowa kopuła aerodynamiczna („rekin”) z ogonem stabilizującym, kierującym pysk w stronę wiatru. 
-komin : południowa strefa dolnego kolektora u podstawy jest przeszklona lokalnie wytworzonym szkłem piaskowym, a północna – grubo ocieplona masą gliniano-paździerzową.
+1.	na szczycie wieży Badgir osadzona jest obrotowa, stalowa kopuła aerodynamiczna („rekin”) z ogonem stabilizującym, kierującym pysk w stronę wiatru. 
+2.	komin : południowa strefa dolnego kolektora u podstawy jest przeszklona lokalnie wytworzonym szkłem piaskowym, a północna – grubo ocieplona masą gliniano-paździerzową.
 
 Mechanizm działania bezpyłowego
-Kopuła „Rekina” chwyta wiatr i tłoczy powietrze w dół wieży Badgir pod zwiększonym ciśnieniem.
-Powietrze wpada do podziemnej komory cyklonowej, gdzie gwałtownie zmienia kierunek o sto osiemdziesiąt stopni. Ciężki pył i piasek siłą bezwładności opadają na dno, skąd przenośnik ślimakowy transportuje je jako surowiec do produkcji mis.
-Oczyszczone powietrze wpływa do poziomego kolektora, gdzie jest nagrzewane przez słońce oraz rurociągi z ciepłem odpadowym (sto - dwustu stopni) z krystalizatorów odsalarni.
-Rozgrzane powietrze gwałtownie ucieka w górę przez pionowy komin, tworząc potężny ciąg. Ruch mas powietrza napędza proste, wielołopatkowe turbiny wiatrowe z generatorami na magnesach stałych u podstawy komina.
+1.	Kopuła „Rekina” chwyta wiatr i tłoczy powietrze w dół wieży Badgir pod zwiększonym ciśnieniem.
+2.	Powietrze wpada do podziemnej komory cyklonowej, gdzie gwałtownie zmienia kierunek o sto osiemdziesiąt stopni. Ciężki pył i piasek siłą bezwładności opadają na dno, skąd przenośnik ślimakowy transportuje je jako surowiec do produkcji mis.
+3.	Oczyszczone powietrze wpływa do poziomego kolektora, gdzie jest nagrzewane przez słońce oraz rurociągi z ciepłem odpadowym (sto - dwustu stopni) z krystalizatorów odsalarni.
+4.	Rozgrzane powietrze gwałtownie ucieka w górę przez pionowy komin, tworząc potężny ciąg. Ruch mas powietrza napędza proste, wielołopatkowe turbiny wiatrowe z generatorami na magnesach stałych u podstawy komina.
 
 Analiza ekonomiczno-ekologiczna
-CAPEX: niski w przeliczeniu na gabaryty. Większość struktury powstaje z darmowego piasku pustynnego, odpadu wapiennego i szkła wodnego. Koszt generują jedynie stalowa obudowa kopuły, proste turbiny i okablowanie miedziane.
-OPEX: Bliski zeru. Jedyne elementy ruchome to wolnoobrotowa kopuła na łożyskach i turbiny. Brak filtrów jednorazowych – oczyszczanie z pyłu jest czysto grawitacyjne.
-Zero Waste / recykling: po zakończeniu eksploatacji obiekt staje się naturalnym elementem krajobrazu (skała piaskowo-gliniana), a elementy metalowe podlegają prostemu przetopieniu.
-
-
+•	CAPEX: niski w przeliczeniu na gabaryty. Większość struktury powstaje z darmowego piasku pustynnego, odpadu wapiennego i szkła wodnego. Koszt generują jedynie stalowa obudowa kopuły, proste turbiny i okablowanie miedziane.
+•	OPEX: Bliski zeru. Jedyne elementy ruchome to wolnoobrotowa kopuła na łożyskach i turbiny. Brak filtrów jednorazowych – oczyszczanie z pyłu jest czysto grawitacyjne.
+•	Zero Waste / recykling: po zakończeniu eksploatacji obiekt staje się naturalnym elementem krajobrazu (skała piaskowo-gliniana), a elementy metalowe podlegają prostemu przetopieniu.
+________________________________________
 WĘZEŁ nr 18
 Termogalwaniczne Ogniwa Cieczowe (solankowe Thermocells)
 
@@ -937,17 +968,16 @@ Obudowę ogniw stanowią proste, uszczelnione koryta betonowe lub kamienne. Jako
 
 Mechanizm działania bezpyłowego
 
-Jedna strona węglowej elektrody jest stale podgrzewana darmowym ciepłem technologicznym (dwieście stopni).
-Druga elektroda jest chłodzona surową, zimną wodą morską doprowadzaną ze studni drenażowej.
-Gigantyczny gradient temperatur wewnątrz solankowego elektroitu wywołuje termogalwaniczny ruch jonów sodu, magnezu i chloru pomiędzy elektrodami (efekt Seebecka w cieczy).
-Ruch ten generuje stały prąd elektryczny odprowadzany bezpośrednio z węglowych bloków za pomocą prostych szyn miedzianych. Solanka po przejściu przez ogniwo (nieco schłodzona, ale nasycona energetycznie) płynie dalej do sekcji krystalizacji frakcyjnej i naładowania biocharu minerałami.
+1.	Jedna strona węglowej elektrody jest stale podgrzewana darmowym ciepłem technologicznym (dwieście stopni).
+2.	Druga elektroda jest chłodzona surową, zimną wodą morską doprowadzaną ze studni drenażowej.
+3.	Gigantyczny gradient temperatur wewnątrz solankowego elektroitu wywołuje termogalwaniczny ruch jonów sodu, magnezu i chloru pomiędzy elektrodami (efekt Seebecka w cieczy).
+4.	Ruch ten generuje stały prąd elektryczny odprowadzany bezpośrednio z węglowych bloków za pomocą prostych szyn miedzianych. Solanka po przejściu przez ogniwo (nieco schłodzona, ale nasycona energetycznie) płynie dalej do sekcji krystalizacji frakcyjnej i naładowania biocharu minerałami.
 
 Analiza ekonomiczno-ekologiczna
-CAPEX: ekstremalnie niski. Brak jakichkolwiek zaawansowanych membran czy drogich metali. Kluczowe komponenty to Twój własny biochar i Twoja własna solanka.
-OPEX: zerowy. Brak tarcia, brak części mechanicznych, brak ryzyka zatarcia przez pył pustynny, ponieważ system jest całkowicie zamknięty i statyczny.
-Zero Waste / recykling: Najbardziej ekologiczne ogniwo świata. Zużyte elektrody węglowe po latach pracy trafiają bezpośrednio do produkcji czarnoziemu jako doskonały polepszacz gleby, a solanka wraca do obiegu minerałów. Brak odpadów niebezpiecznych.
-
-
+•	CAPEX: ekstremalnie niski. Brak jakichkolwiek zaawansowanych membran czy drogich metali. Kluczowe komponenty to Twój własny biochar i Twoja własna solanka.
+•	OPEX: zerowy. Brak tarcia, brak części mechanicznych, brak ryzyka zatarcia przez pył pustynny, ponieważ system jest całkowicie zamknięty i statyczny.
+•	Zero Waste / recykling: Najbardziej ekologiczne ogniwo świata. Zużyte elektrody węglowe po latach pracy trafiają bezpośrednio do produkcji czarnoziemu jako doskonały polepszacz gleby, a solanka wraca do obiegu minerałów. Brak odpadów niebezpiecznych.
+________________________________________
 WĘZEŁ nr 19 
 Silniki Akustyczno-Termiczne (Thermoacoustic Stirling Engines)
 
@@ -961,18 +991,17 @@ Urządzenie nie posiada tłoków, korbowodów ani uszczelnień. Składa się z g
 
 Mechanizm działania bezpyłowego
 
-Jedna strona stalowej siatki wewnątrz rury jest nagrzewana soczewką do temperatury dwustu stopni, a druga chłodzona wodą morską, która przy okazji wstępnie się podgrzewa.
-Ogromna różnica temperatur na dystansie kilku centymetrów wywołuje drastyczne, samorzutne drgania termiczne cząsteczek powietrza.
-Energia cieplna zamienia się w potężną, rezonansową falę dźwiękową (falę ciśnienia) wewnątrz hermetycznej rury.
-Fala akustyczna uderza w stalową membranę na końcu rezonatora. Drgania membrany poruszają magnesem wewnątrz cewki miedzianej, indukując prąd elektryczny. Powstaje czysty prąd zmienny bez użycia jakichkolwiek elementów trących.
+1.	Jedna strona stalowej siatki wewnątrz rury jest nagrzewana soczewką do temperatury dwustu stopni, a druga chłodzona wodą morską, która przy okazji wstępnie się podgrzewa.
+2.	Ogromna różnica temperatur na dystansie kilku centymetrów wywołuje drastyczne, samorzutne drgania termiczne cząsteczek powietrza.
+3.	Energia cieplna zamienia się w potężną, rezonansową falę dźwiękową (falę ciśnienia) wewnątrz hermetycznej rury.
+4.	Fala akustyczna uderza w stalową membranę na końcu rezonatora. Drgania membrany poruszają magnesem wewnątrz cewki miedzianej, indukując prąd elektryczny. Powstaje czysty prąd zmienny bez użycia jakichkolwiek elementów trących.
 
 Analiza ekonomiczno-ekologiczna
 
-CAPEX: bardzo niski. Konstrukcja sprowadza się do prostej obróbki ślusarskiej – spawania grubościennych rur stalowych i nawinięcia cewek miedzianych. Brak precyzyjnych pasowań tłokowych.
-OPEX: znikomy. Hermetycznie zamknięta rura jest całkowicie odporna na pył pustynny. System nie wymaga smarowania, olejów ani wymiany uszczelnień. Żywotność szacuje się na kilkadziesiąt lat bezobsługowej pracy.
-Zero Waste / recykling: Sto procent surowców wtórnych. Stal i miedź po przetopieniu mogą służyć do budowy kolejnych maszyn lub elementów konstrukcyjnych w konglomeracie.
-
-
+•	CAPEX: bardzo niski. Konstrukcja sprowadza się do prostej obróbki ślusarskiej – spawania grubościennych rur stalowych i nawinięcia cewek miedzianych. Brak precyzyjnych pasowań tłokowych.
+•	OPEX: znikomy. Hermetycznie zamknięta rura jest całkowicie odporna na pył pustynny. System nie wymaga smarowania, olejów ani wymiany uszczelnień. Żywotność szacuje się na kilkadziesiąt lat bezobsługowej pracy.
+•	Zero Waste / recykling: Sto procent surowców wtórnych. Stal i miedź po przetopieniu mogą służyć do budowy kolejnych maszyn lub elementów konstrukcyjnych w konglomeracie.
+________________________________________
 WĘZEŁ nr 20 
 Turbiny Parowe w Układzie Kogeneracyjnym (MVR-Linked Steam Turbines)
 
@@ -986,31 +1015,30 @@ Klasyczny, sprawdzony i uproszczony obieg parowy. Wykorzystuje standardowe, trwa
 
 Mechanizm działania bezpyłowego
 
-Nielimitowane ciepło z soczewek (podniesione do dwustu stopni) doprowadza wodę w kotle do stanu pary przegrzanej pod wysokim ciśnieniem.
-Para uderza w łopatki turbiny, wprawiając w ruch wał połączony bezpośrednio z dużym generatorem na magnesach stałych. Wypracowany prąd zasila urządzenia mechaniczne konglomeratu.
-Para opuszczająca turbinę (wytłoczna) nadal posiada ogromną energię termiczną (około sto dwadzieścia stopni). Nie jest ona marnowana w chłodniach kominowych.
-Gorąca para z wylotu turbiny kierowana jest bezpośrednio do wężownic w parownikach niskociśnieniowych oraz do komór krystalizacji frakcyjnej odsalarni. Turbina działa więc jako "zawór redukcyjny" generujący prąd, a jej odpad termiczny jest głównym paliwem do produkcji słodkiej wody i wydzielania węglanu wapnia na misy.
+1.	Nielimitowane ciepło z soczewek (podniesione do dwustu stopni) doprowadza wodę w kotle do stanu pary przegrzanej pod wysokim ciśnieniem.
+2.	Para uderza w łopatki turbiny, wprawiając w ruch wał połączony bezpośrednio z dużym generatorem na magnesach stałych. Wypracowany prąd zasila urządzenia mechaniczne konglomeratu.
+3.	Para opuszczająca turbinę (wytłoczna) nadal posiada ogromną energię termiczną (około sto dwadzieścia stopni). Nie jest ona marnowana w chłodniach kominowych.
+4.	Gorąca para z wylotu turbiny kierowana jest bezpośrednio do wężownic w parownikach niskociśnieniowych oraz do komór krystalizacji frakcyjnej odsalarni. Turbina działa więc jako "zawór redukcyjny" generujący prąd, a jej odpad termiczny jest głównym paliwem do produkcji słodkiej wody i wydzielania węglanu wapnia na misy.
 
 Analiza ekonomiczno-ekologiczna
-CAPEX: średni, ale najniższy w przeliczeniu na jeden megawat generowanej mocy przy skali przemysłowej. Ponieważ technologia ta jest powszechna i sprawdzona od ponad wieku, nie wymaga kosztownych badań ani unikalnych materiałów.
-OPEX: niski. Wymaga standardowego, okresowego nadzoru mechanicznego nad łożyskami turbiny. Zamknięty obieg wody destylowanej eliminuje powstawanie kamienia wewnątrz kotła turbiny. Całość zamknięta w halach maszynowych jest w pełni chroniona przed pyłem pustynnym przez filtry żwirowo-węglowe.
-Zero Waste / Recykling: Pełny odzysk surowcowy elementów metalowych. Brak jakichkolwiek odpadów chemicznych podczas pracy.
-
-
+•	CAPEX: średni, ale najniższy w przeliczeniu na jeden megawat generowanej mocy przy skali przemysłowej. Ponieważ technologia ta jest powszechna i sprawdzona od ponad wieku, nie wymaga kosztownych badań ani unikalnych materiałów.
+•	OPEX: niski. Wymaga standardowego, okresowego nadzoru mechanicznego nad łożyskami turbiny. Zamknięty obieg wody destylowanej eliminuje powstawanie kamienia wewnątrz kotła turbiny. Całość zamknięta w halach maszynowych jest w pełni chroniona przed pyłem pustynnym przez filtry żwirowo-węglowe.
+•	Zero Waste / Recykling: Pełny odzysk surowcowy elementów metalowych. Brak jakichkolwiek odpadów chemicznych podczas pracy.
+________________________________________
 ARCHITEKTURA SYNERGII OPERACYJNEJ (podsumowanie)
 
 Powyższe cztery systemy tworzą niezniszczalną, bezodpadową sieć energetyczną konglomeratu:
 
-Baza przemysłowa (Turbina Parowa) daje moc dla ciężkiej mechaniki odsalania i krystalizacji.
-Pasywny Komin i Wieża Badgir nieustannie i za darmo wentylują konglomerat, dają prąd z wiatru i słońca, a przy tym grawitacyjnie łapią piasek z pustyni do produkcji mis budowlanych.
-Silniki Akustyczne pracują lokalnie przy soczewkach, nie bojąc się burz piaskowych i nie wymagając serwisu.
-Ogniwa Termogalwaniczne bezdźwięcznie i bezkosztowo wyciągają prąd z gorącej solanki odpadowej, zanim ta zamieni się w czysty minerał dla Twojego czarnoziemu.
+•	Baza przemysłowa (Turbina Parowa) daje moc dla ciężkiej mechaniki odsalania i krystalizacji.
+•	Pasywny Komin i Wieża Badgir nieustannie i za darmo wentylują konglomerat, dają prąd z wiatru i słońca, a przy tym grawitacyjnie łapią piasek z pustyni do produkcji mis budowlanych.
+•	Silniki Akustyczne pracują lokalnie przy soczewkach, nie bojąc się burz piaskowych i nie wymagając serwisu.
+•	Ogniwa Termogalwaniczne bezdźwięcznie i bezkosztowo wyciągają prąd z gorącej solanki odpadowej, zanim ta zamieni się w czysty minerał dla Twojego czarnoziemu.
 
 To potężna, samowystarczalna maszyneria, w której pojęcie „odpadu energetycznego” lub „zużytego panelu” całkowicie przestaje istnieć.
 
 Kompendium energetyczne zostało sformułowane zgodnie z rygorystycznymi zasadami zero-waste i odporności pustynnej.
 
-
+________________________________________
 
 WĘZEŁ nr 21 
 KONTROLA MIKROKLIMATU :
@@ -1023,8 +1051,7 @@ Krok 30 : Osuszanie adsorpcyjne statyczne : zamiast kosztownego, obracającego s
 
 Krok 31 : Chłodzenie jawne : powietrze przed nawiewem do strefy pakowania soli i biur przechodzi przez końcowy wymiennik zasilany powrotnym strumieniem wody z Direct SWAC, osiągając komfortowe 23°C przy pełnym nadciśnieniu blokującym napływ wilgoci zewnętrznej.
 
-
-
+________________________________________
 ROZDZIAŁ IX :
 ZASTOSOWANIE AGROFORESTACYJNE
 i STRATEGIA SUKCESJI LASU
@@ -1043,6 +1070,7 @@ Więcej na temat KOMPOZYTU PIASKOWEGO na końcu, w ROZDZIALE IX : RAPORT TECHNIC
 Misy wypełnia się czarnoziemem (Krok 28).
 
 
+________________________________________
 
 WĘZEŁ nr 23 
 PRODUKCJA BIOCHARU – WĘGLA DRZEWNEGO
@@ -1056,9 +1084,9 @@ Krok 33 : Toryfikacja (suszenie i waloryzacja biomasy)
 Używając źródła powietrza (200°C), przetwarzasz surową biomasę w biowęgiel toryfikowany. 
 W tym procesie :
 
-usuwasz 100% wilgoci z materiału.
-kruszysz i rozbijasz strukturę włóknistą roślin, dzięki czemu materiał staje się kruchy i łatwy do zagęszczenia.
-podnosisz gęstość energetyczną surowca.
+•	usuwasz 100% wilgoci z materiału.
+•	kruszysz i rozbijasz strukturę włóknistą roślin, dzięki czemu materiał staje się kruchy i łatwy do zagęszczenia.
+•	podnosisz gęstość energetyczną surowca.
 
 Krok 34 : Właściwa piroliza (produkcja biocharu)
 
@@ -1076,28 +1104,28 @@ W Twoim procesie oczyszczania wody morskiej, biochar z korzeni spełni kluczową
 
 Dlaczego korzenie dają świetny biochar filtracyjny ?
 
-Wysoka mikroporowatość : korzenie roślin z natury posiadają gęstą sieć kapilar i mikroskopijnych rurek (wiązki przewodzące wodę), które po pirolizie zamieniają się w otwartą, gąbczastą strukturę idealną do wychwytywania zanieczyszczeń.
-Właściwości adsorpcyjne : powierzchnia biocharu przyciąga i trwale wiąże zanieczyszczenia chemiczne na zasadzie przyciągania cząsteczkowego.
+•	Wysoka mikroporowatość : korzenie roślin z natury posiadają gęstą sieć kapilar i mikroskopijnych rurek (wiązki przewodzące wodę), które po pirolizie zamieniają się w otwartą, gąbczastą strukturę idealną do wychwytywania zanieczyszczeń.
+•	Właściwości adsorpcyjne : powierzchnia biocharu przyciąga i trwale wiąże zanieczyszczenia chemiczne na zasadzie przyciągania cząsteczkowego.
 
 Co biochar usunie z wody morskiej po wirówkach i żwirze ?
 
 Filtry żwirowe i wirówki usuną piasek, zawiesiny oraz większe cząstki organiczne. Biochar w ostatnim kroku usunie to, z czym tamte technologie sobie nie poradzą :
 
-Substancje organiczne i toksyny : rozpuszczone w wodzie resztki mikroorganizmów morskich, toksyny produkowane przez sinice czy glony.
-Zanieczyszczenia antropogeniczne : ślady paliw, olejów ze statków, pestycydów spływających z lądu oraz mikroplastik.
-Zapach i smak : Biochar całkowicie zneutralizuje specyficzny, rybi zapach wody morskiej.
+1.	Substancje organiczne i toksyny : rozpuszczone w wodzie resztki mikroorganizmów morskich, toksyny produkowane przez sinice czy glony.
+2.	Zanieczyszczenia antropogeniczne : ślady paliw, olejów ze statków, pestycydów spływających z lądu oraz mikroplastik.
+3.	Zapach i smak : Biochar całkowicie zneutralizuje specyficzny, rybi zapach wody morskiej.
 
 Kluczowe warunki sukcesu technologicznego
 
 Aby biochar z korzeni działał jako skuteczny filtr, musisz spełnić trzy warunki podczas jego produkcji i przygotowania :
 
-Wysoka temperatura pirolizy (600°C – 700°C) :
+1.	Wysoka temperatura pirolizy (600°C – 700°C) :
 Do celów rolniczych wystarcza niska temperatura, ale do filtracji wody potrzebujesz jak największej powierzchni właściwej. Wyższa temperatura całkowicie wypali resztki smoliste i otworzy zablokowane pory w strukturze węgla.
 
-Dokładne wypłukanie popiołu :
+2.	Dokładne wypłukanie popiołu :
 Po wyjęciu biocharu z reaktora musisz go przepłukać czystą wodą (najlepiej zdemineralizowaną lub destylowaną), aby usunąć luźny popiół i sole mineralne. W przeciwnym razie biochar zamiast oczyszczać, na początku będzie zanieczyszczał wodę mineralną zawartością popiołu.
 
-Aktywacja parowa (opcjonalnie – dla superwydajności) :
+3.	Aktywacja parowa (opcjonalnie – dla superwydajności) :
 Jeśli pod koniec pirolizy wpuścisz do reaktora odrobinę pary wodnej (którą możesz łatwo uzyskać z suszenia mokrych korzeni Twoim powietrzem 200°C), "wydmucha" ona mikroskopijne kanaliki w węglu. Zwiększy to jego zdolności filtracyjne nawet kilkukrotnie.
 
 
@@ -1113,11 +1141,11 @@ Co zawiera popiół z korzeni roślin ?
 Podczas pirolizy węgiel zostaje w strukturze biocharu, natomiast wszystkie minerały, które roślina pobrała z pożywki podczas wzrostu w szklarni pionowej, skupiają się właśnie w popiele. 
 Są to przede wszystkim :
 
-Potas (K) – odpowiada za gospodarkę wodną roślin i odporność na suszę (kluczowe na pustyni).
-Wapń (Ca) – buduje ściany komórkowe i neutralizuje toksyczność niektórych związków.
-Magnez (Mg) – serce chlorofilu, niezbędny do fotosyntezy.
-Fosfor (P) – stymuluje potężny rozwój korzeni.
-Mikroelementy – żelazo, mangan, cynk, miedź i bor.
+•	Potas (K) – odpowiada za gospodarkę wodną roślin i odporność na suszę (kluczowe na pustyni).
+•	Wapń (Ca) – buduje ściany komórkowe i neutralizuje toksyczność niektórych związków.
+•	Magnez (Mg) – serce chlorofilu, niezbędny do fotosyntezy.
+•	Fosfor (P) – stymuluje potężny rozwój korzeni.
+•	Mikroelementy – żelazo, mangan, cynk, miedź i bor.
 
 W przeciwieństwie do nawozów azotowych, te minerały nie parują ani nie ulatniają się podczas wypalania – zostają w popiele w formie łatwo przyswajalnych tlenków i węglanów.
 
@@ -1125,12 +1153,12 @@ Jak bezpiecznie wprowadzić ten popiół do systemu ?
 
 Popiół ma odczyn silnie zasadowy (alkaliczny, pH powyżej 10). Aby nie zaszkodzić roślinom, musisz go odpowiednio zagospodarować :
 
-Dodaj go do kompostownika : to najlepsza metoda. Wymieszaj wodę z płukania biocharu (zawierającą zawieszony popiół) z resztkami roślinnymi i masami słomianymi po grzybach. Kwasy organiczne zawarte w kompoście naturalnie zneutralizują wysokie pH popiołu, a mikroorganizmy „wbudują” minerały w strukturę humusu.
-Uważaj na dawkowanie w misach : ponieważ misy budowane są z użyciem m.in. węglanu wapnia i szkła wodnego (które już podbijają pH), bezpośrednie sypanie suchego popiołu pod rośliny mogłoby drastycznie zasolić i zalkalizować glebę. Kompostowanie całkowicie eliminuje to ryzyko.
+1.	Dodaj go do kompostownika : to najlepsza metoda. Wymieszaj wodę z płukania biocharu (zawierającą zawieszony popiół) z resztkami roślinnymi i masami słomianymi po grzybach. Kwasy organiczne zawarte w kompoście naturalnie zneutralizują wysokie pH popiołu, a mikroorganizmy „wbudują” minerały w strukturę humusu.
+2.	Uważaj na dawkowanie w misach : ponieważ misy budowane są z użyciem m.in. węglanu wapnia i szkła wodnego (które już podbijają pH), bezpośrednie sypanie suchego popiołu pod rośliny mogłoby drastycznie zasolić i zalkalizować glebę. Kompostowanie całkowicie eliminuje to ryzyko.
 Dzięki temu krokowi zamykasz kolejną pętlę w projekcie : minerały, które szklarnia pionowa zużyła na budowę korzeni, nie marnują się, lecz wracają do obiegu i karmią uprawy ziemne w Walipini.
-Wszelkie nawozy produkowane w konglomeracie i opisane powyżej to także źródło pożywek dla roślin uprawowych w szklarniach Walipini, gdzie uprawy są prowadzone pionowo i bezglebowo.
+3.	Wszelkie nawozy produkowane w konglomeracie i opisane powyżej to także źródło pożywek dla roślin uprawowych w szklarniach Walipini, gdzie uprawy są prowadzone pionowo i bezglebowo.
 
-
+________________________________________
 
 WĘZEŁ nr 24 
 BUDOWA ANTROPOGENICZNEGO CZARNOZIEMU
@@ -1140,7 +1168,7 @@ Misy wypełnia się sztuczną glebą skomponowaną z : lokalnego piasku (szkiele
 
 Frakcja organiczna z wirówek (bogata w ił i mikroplankton) oraz popłuczyny z filtrów powinny najpierw trafiać do zbiorników przemywania (wymrażania kriogenicznego lub płukania lodowatą wodą). Dopiero gdy zimna woda słodka zwiąże i odprowadzi chlorek sodu jako płynną solankę (którą skierujemy do MED/wyparek), czysty, odsolony i wilgotny muł mineralno-organiczny powinien trafiać na płyty z HDPE w mikro-szklarniach z podłogowym ogrzewaniem powietrznym. Tam zostanie bezpiecznie podsuszony do sypkiej formy nawozowej, a odparowana woda słodka zostanie odzyskana.
 
-
+________________________________________
 
 
 WĘZEŁ nr 25 
@@ -1149,6 +1177,7 @@ NAWADNIANIE
 Krok 36 : Uprawy nawadniane są kropelkowo z wodą podawaną na dno misy, co zapobiega parowaniu powierzchniowemu. 
 Woda do podlewania jest transportowana z przepływowych basenów rekreacyjnych.
 
+________________________________________
 
 
 WĘZEŁ nr 26 : 
@@ -1164,14 +1193,19 @@ Liście Jadłoszynu opadają, tworząc pierwszą ściółkę azotową, którą g
 
 Czterofazowa sukcesja Lasu Żywicielskiego
 
-Faza 0 (inicjacja w misach) : wkopane w grunt balie kompozytowe całkowicie odcinają wodę od suchego otoczenia, uniemożliwiając jej ucieczkę w głębokie warstwy pustyni i zmuszając do krążenia w obiegu zamkniętym. W misach sadzi się przygotowane w szklarniach Walipini sadzonki Jadłoszynu (Prosopis – Mezquite) oraz pnącza Kaparów Ciernistych (Capparis spinosa). Nawadnianie kroplowe podawane jest wyłącznie na samo dno misy.
-Faza 1 (wymuszenie systemu palowego) : wilgoć skupiona na dnie misy zmusza korzeń palowy Jadłoszynu do błyskawicznego, pionowego wzrostu w głąb podłoża, trwale kotwicząc drzewo i zabezpieczając je przed wyschnięciem, podczas gdy góra misy jest rozgrzana. Jadłoszyn, jako roślina motylkowa, wchodzi w symbiozę z bakteriami wiążącymi azot z powietrza, samodzielnie użyźniając grunt wokół siebie. Kapary szybko rozrastają się na boki, pokrywając zielonym dywanem brzegi misy i otaczający piasek.
-Faza 2 (żywy ekran termiczny i ściółka) : płożące pędy kaparów działają jak żywy ekran termiczny, obniżając temperaturę powierzchni piasku o kilkanaście stopni i dając cień dla mikroorganizmów glebowych. Jadłoszyn rośnie w górę, tworząc ażurowy parasol chroniący przed agresywnym indeksem UV. Zrzucane przez niego drobne liście tworzą pierwszą ściółkę azotową, którą grzybnia z czarnoziemu zaczyna rozkładać na bogaty humus.
-Faza 3 (las i pola uprawne) : warstwa organiczna jest już tak gruba, a mikroklimat tak stabilny dzięki wyższej wilgotności lokalnej pochodzącej z transpiracji roślin pionierskich, że można przystąpić do sadzenia docelowych, dużych drzew (palm daktylowych, drzew oliwnych czy akacji), tworząc trwały, wielopiętrowy las żywicielski poprzecinany pasami upraw warzywnych i owocowych bezpośrednio „wyrwanych” pustyni. 
-W miarę upływu lat (lata pięć do dwadzieścia) i kumulacji zysków, konglomerat realizuje zaplanowaną strategię ekspansji, rozbudowując uprawy glebowe oraz w tunelach Walipini na płaskim terenie wokół konglomeratu co świadomie wprowadza niezbędną armaturę pompową, w pełni finansowaną z wypracowanych nadwyżek budżetowych. 
-Im więcej roślin, tym więcej materiału roślinnego do produkcji biocharu, a stąd zwiększona produkcja czarnoziemu i postępująca kolonizacja pustyń (a w przyszłości wg podobnej metodologii : obcych ciał niebieskich w kosmosie jak Księżyc i Mars).
+•	Faza 0 (inicjacja w misach) : wkopane w grunt balie kompozytowe całkowicie odcinają wodę od suchego otoczenia, uniemożliwiając jej ucieczkę w głębokie warstwy pustyni i zmuszając do krążenia w obiegu zamkniętym. W misach sadzi się przygotowane w szklarniach Walipini sadzonki Jadłoszynu (Prosopis – Mezquite) oraz pnącza Kaparów Ciernistych (Capparis spinosa). Nawadnianie kroplowe podawane jest wyłącznie na samo dno misy.
+•	Faza 1 (wymuszenie systemu palowego) : wilgoć skupiona na dnie misy zmusza korzeń palowy Jadłoszynu do błyskawicznego, pionowego wzrostu w głąb podłoża, trwale kotwicząc drzewo i zabezpieczając je przed wyschnięciem, podczas gdy góra misy jest rozgrzana. Jadłoszyn, jako roślina motylkowa, wchodzi w symbiozę z bakteriami wiążącymi azot z powietrza, samodzielnie użyźniając grunt wokół siebie. Kapary szybko rozrastają się na boki, pokrywając zielonym dywanem brzegi misy i otaczający piasek.
+•	Faza 2 (żywy ekran termiczny i ściółka) : płożące pędy kaparów działają jak żywy ekran termiczny, obniżając temperaturę powierzchni piasku o kilkanaście stopni i dając cień dla mikroorganizmów glebowych. Jadłoszyn rośnie w górę, tworząc ażurowy parasol chroniący przed agresywnym indeksem UV. Zrzucane przez niego drobne liście tworzą pierwszą ściółkę azotową, którą grzybnia z czarnoziemu zaczyna rozkładać na bogaty humus.
+•	Faza 3 (las i pola uprawne) : warstwa organiczna jest już tak gruba, a mikroklimat tak stabilny dzięki wyższej wilgotności lokalnej pochodzącej z transpiracji roślin pionierskich, że można przystąpić do sadzenia docelowych, dużych drzew (palm daktylowych, drzew oliwnych czy akacji), tworząc trwały, wielopiętrowy las żywicielski poprzecinany pasami upraw warzywnych i owocowych bezpośrednio „wyrwanych” pustyni. 
+•	W miarę upływu lat (lata pięć do dwadzieścia) i kumulacji zysków, konglomerat realizuje zaplanowaną strategię ekspansji, rozbudowując uprawy glebowe oraz w tunelach Walipini na płaskim terenie wokół konglomeratu co świadomie wprowadza niezbędną armaturę pompową, w pełni finansowaną z wypracowanych nadwyżek budżetowych. 
+•	Im więcej roślin, tym więcej materiału roślinnego do produkcji biocharu, a stąd zwiększona produkcja czarnoziemu i postępująca kolonizacja pustyń (a w przyszłości wg podobnej metodologii : obcych ciał niebieskich w kosmosie jak Księżyc i Mars).
 
-Strategia ekspansji (etapowanie projektu) : w pierwszej fazie (lata jeden do pięć) wykorzystuje się wyłącznie szklarnie Walipini wkopane na południowym stoku wzniesienia — w pełni grawitacyjne i pasywne. W miarę wzrostu zysków konglomerat „rozrasta się” i zaczyna kolonizować płaski, jałowy teren u podnóża góry. Ta faza świadomie uwzględnia konieczność wprowadzenia pomp i armatury dystrybucyjnej, jednak koszty te są w stu procentach pokrywane z wygenerowanych wcześniej nadwyżek budżetowych. PONADTO : intensywny wzrost nowych rozwiązań, pomysłów i wynalazków w dobie sztucznej inteligencji (AI) jest gwarantem zmian w całym systemie zadaniowym konglomeratu CALIDUS IV.
+•	Strategia ekspansji (etapowanie projektu) : w pierwszej fazie (lata jeden do pięć) wykorzystuje się wyłącznie szklarnie Walipini wkopane na południowym stoku wzniesienia — w pełni grawitacyjne i pasywne. W miarę wzrostu zysków konglomerat „rozrasta się” i zaczyna kolonizować płaski, jałowy teren u podnóża góry. Ta faza świadomie uwzględnia konieczność wprowadzenia pomp i armatury dystrybucyjnej, jednak koszty te są w stu procentach pokrywane z wygenerowanych wcześniej nadwyżek budżetowych. PONADTO : intensywny wzrost nowych rozwiązań, pomysłów i wynalazków w dobie sztucznej inteligencji (AI) jest gwarantem zmian w całym systemie zadaniowym konglomeratu CALIDUS IV.
+
+
+________________________________________
+
+
 
 
 ROZDZIAŁ X :
@@ -1184,60 +1218,55 @@ W WARUNKACH PUSTYNNYCH
 (rozwinięcie tematu omawianego w WĘŹLE nr 22)
 
 Niniejszy raport analizuje ulepszony kompozyt oparty na piasku pustynnym, szkle wodnym (krzemianie sodu) i węglanie wapnia, wzbogacony o modyfikatory strukturalne oraz powłoki izolacyjne z gliny. Dokument odnosi się bezpośrednio do specyfiki klimatycznej i surowcowej Sahary oraz Półwyspu Arabskiego.
-
-
+________________________________________
 I. Charakterystyka Nowej Generacji Kompozytu Pustynnego
 
 Klasyczna wada „czystego” kompozytu piaskowo-krzemianowego – czyli jego kruchość (niska wytrzymałość na rozciąganie) – zostaje całkowicie wyeliminowana poprzez wprowadzenie lokalnych włóknistych zbrojeń rozproszonych oraz modyfikatorów chemicznych.
 
 1. Baza konstrukcyjna:
-osnowa : drobnoziarnisty, okrągły piasek pustynny (surowiec darmowy, dostępny na miejscu).
-spoiwo : szkło wodne sodowe (8–12% masy) aktywowane termicznie i chemicznie.
-inicjator i wypełniacz : węglan wapnia (CaCO3), który stabilizuje pH i przyspiesza sieciowanie krzemianów.
+•	osnowa : drobnoziarnisty, okrągły piasek pustynny (surowiec darmowy, dostępny na miejscu).
+•	spoiwo : szkło wodne sodowe (8–12% masy) aktywowane termicznie i chemicznie.
+•	inicjator i wypełniacz : węglan wapnia (CaCO3), który stabilizuje pH i przyspiesza sieciowanie krzemianów.
 
 2. Nowe modyfikatory i ich rola :
 
-słoma konopna lub sieczka z liści palmy daktylowej (zbrojenie rozproszone) : wprowadzenie do masy 2–5% objętościowych włókiem roślinnych działa jak mikrozbrojenie. Drastycznie podnosi elastyczność materiału, eliminuje pęknięcia skurczowe wywołane ekstremalnymi różnicami temperatur (dzień/noc) i pozwala na budowanie cieńszych ścian.
-Odpadowy popiół mineralny (z biomasy/korzeni) : dodatek popiołu (bogatego w tlenki metali) działa jak pucolana. Uszczelnia mikropory w kompozycie, wiążąc wolne wodorotlenki, co podnosi końcową twardość ściany na ściskanie.
-
-
+•	słoma konopna lub sieczka z liści palmy daktylowej (zbrojenie rozproszone) : wprowadzenie do masy 2–5% objętościowych włókiem roślinnych działa jak mikrozbrojenie. Drastycznie podnosi elastyczność materiału, eliminuje pęknięcia skurczowe wywołane ekstremalnymi różnicami temperatur (dzień/noc) i pozwala na budowanie cieńszych ścian.
+•	Odpadowy popiół mineralny (z biomasy/korzeni) : dodatek popiołu (bogatego w tlenki metali) działa jak pucolana. Uszczelnia mikropory w kompozycie, wiążąc wolne wodorotlenki, co podnosi końcową twardość ściany na ściskanie.
+________________________________________
 II. Ulepszona technologia wykończenia : kompozyt + glina + wapno
 
 Stosowanie samej gliny na pustyni jest skuteczne, ale wprowadzenie dodatku wapna tworzy powłokę permanentną, odporną na rzadkie, lecz gwałtowne ulewy (tzw. deszcze epizodyczne generujące wadi).
 
-Zewnętrzny tynk hybrydowy (glina + wapno + słoma) : wnętrze i zewnętrze budowli pokrywa się plastyczną gliną zmieszaną z wapnem hydratyzowanym i drobną sieczką.
-Chemia procesu : wapno wchodzi w reakcję z dwutlenkiem węgla z powietrza (karbonatyzacja) oraz z krzemionką zawartą w glinie. Efektem jest powstanie wodoodpornej, twardej skorupy, która trwale odcina silnie zasadowe pH rdzenia ściany, chroniąc mieszkańców oraz roślinność w sąsiedztwie.
-
-
+•	Zewnętrzny tynk hybrydowy (glina + wapno + słoma) : wnętrze i zewnętrze budowli pokrywa się plastyczną gliną zmieszaną z wapnem hydratyzowanym i drobną sieczką.
+•	Chemia procesu : wapno wchodzi w reakcję z dwutlenkiem węgla z powietrza (karbonatyzacja) oraz z krzemionką zawartą w glinie. Efektem jest powstanie wodoodpornej, twardej skorupy, która trwale odcina silnie zasadowe pH rdzenia ściany, chroniąc mieszkańców oraz roślinność w sąsiedztwie.
+________________________________________
 III. Bilans ekonomiczny i dostępność surowców
 
 W realiach Bliskiego Wschodu i Afryki Północnej technologia ta deklasuje tradycyjny beton oparty na cemencie portlandzkim :
 
-Koszt transportu zredukowany o ok. 80% : ponad 85% masy budynku stanowi piasek leżący na placu budowy.
-Oszczędność wody : tradycyjny beton wymaga ogromnych ilości czystej, słodkiej wody do wiązania i pielęgnacji w upale. Kompozyt krzemianowy wiąże chemicznie i termicznie pod wpływem słońca i (CO2), nie zużywając deficytowej wody pitnej.
-Wykorzystanie odpadów agro : słoma daktylowa czy odpady z upraw bezglebowych (korzenie, popiół) stają się cennym komponentem budowlanym, eliminując koszt zakupu importowanych siatek zbrojeniowych.
-Szacowany koszt inwestycji : budowa w tej technologii jest o 45–55% tańsza od wznoszenia budynków z importowanego betonu i stali.
-
-
+1.	Koszt transportu zredukowany o ok. 80% : ponad 85% masy budynku stanowi piasek leżący na placu budowy.
+2.	Oszczędność wody : tradycyjny beton wymaga ogromnych ilości czystej, słodkiej wody do wiązania i pielęgnacji w upale. Kompozyt krzemianowy wiąże chemicznie i termicznie pod wpływem słońca i (CO2), nie zużywając deficytowej wody pitnej.
+3.	Wykorzystanie odpadów agro : słoma daktylowa czy odpady z upraw bezglebowych (korzenie, popiół) stają się cennym komponentem budowlanym, eliminując koszt zakupu importowanych siatek zbrojeniowych.
+4.	Szacowany koszt inwestycji : budowa w tej technologii jest o 45–55% tańsza od wznoszenia budynków z importowanego betonu i stali.
+________________________________________
 IV. Wady i zalety rozwiązania w klimacie pustynnym
 
 ZALETY :
-ekstremalna bezwładność termiczna : ściany zbrojone włóknem konopnym/palmowym magazynują chłód nocy i oddają go w dzień. Koszt klimatyzacji spada do minimum.
-odporność na mikro-wstrząsy i parcie wiatru : dzięki elastyczności uzyskanej ze słomy, konstrukcje (szczególnie kopułowe) są odporne na naprężenia wywoływane przez silne wiatry i burze piaskowe.
-szybkość wznoszenia : wysoka temperatura pustynna (powyżej 40°C) przyspiesza twardnienie szkła wodnego, skracając czas budowy.
+•	ekstremalna bezwładność termiczna : ściany zbrojone włóknem konopnym/palmowym magazynują chłód nocy i oddają go w dzień. Koszt klimatyzacji spada do minimum.
+•	odporność na mikro-wstrząsy i parcie wiatru : dzięki elastyczności uzyskanej ze słomy, konstrukcje (szczególnie kopułowe) są odporne na naprężenia wywoływane przez silne wiatry i burze piaskowe.
+•	szybkość wznoszenia : wysoka temperatura pustynna (powyżej 40°C) przyspiesza twardnienie szkła wodnego, skracając czas budowy.
 
 WADY :
-konieczność precyzyjnego dozowania włókien : zbyt duża ilość słomy obniży odporność na ściskanie; proporcje muszą być kontrolowane na budowie.
-logistyka szkła wodnego : choć piasek i włókna są darmowe na miejscu, płynne szkło wodne musi zostać dowiezione z najbliższych zakładów chemicznych (główny koszt projektu).
-
-
+•	konieczność precyzyjnego dozowania włókien : zbyt duża ilość słomy obniży odporność na ściskanie; proporcje muszą być kontrolowane na budowie.
+•	logistyka szkła wodnego : choć piasek i włókna są darmowe na miejscu, płynne szkło wodne musi zostać dowiezione z najbliższych zakładów chemicznych (główny koszt projektu).
+________________________________________
 V. Zastosowania konstrukcyjne na pustyni
 
-Domy kopułowe i lokalne Walipini : idealne geometrie dla tego materiału. Brak konieczności stosowania poziomych stropów stalowo-betonowych. Domy w kształcie kopuł wykazują najwyższą odporność termiczną i mechaniczną.
-Mury zaporowe dla Wadi i zbiorniki retencyjne : modyfikowany kompozyt (z dodatkiem popiołu i hydrofobowego tynku glinianego z wapnem) wytrzymuje napór gwałtownie pojawiającej się wody, nie ulegając rozmyciu.
-Utwardzanie dróg i ciągów komunikacyjnych : mieszanka wylana bezpośrednio na pustynny szlak i zagęszczona mechanicznie tworzy trwałe, bezpyłowe trakty logistyczne o wysokiej nośności dla ciężkiego sprzętu.
+1.	Domy kopułowe i lokalne Walipini : idealne geometrie dla tego materiału. Brak konieczności stosowania poziomych stropów stalowo-betonowych. Domy w kształcie kopuł wykazują najwyższą odporność termiczną i mechaniczną.
+2.	Mury zaporowe dla Wadi i zbiorniki retencyjne : modyfikowany kompozyt (z dodatkiem popiołu i hydrofobowego tynku glinianego z wapnem) wytrzymuje napór gwałtownie pojawiającej się wody, nie ulegając rozmyciu.
+3.	Utwardzanie dróg i ciągów komunikacyjnych : mieszanka wylana bezpośrednio na pustynny szlak i zagęszczona mechanicznie tworzy trwałe, bezpyłowe trakty logistyczne o wysokiej nośności dla ciężkiego sprzętu.
 
-
+________________________________________
 
 Zastosowanie w produkcji mis uprawnych i głębokich balii zalesieniowych
 
@@ -1253,6 +1282,8 @@ W miarę wzrostu drzewa te zaczynają pełnić funkcję klimatyczną : ich koron
 
 Pomiędzy istniejącymi pniami lub bezpośrednio wewnątrz rozbudowanych balii wprowadza się docelowe rośliny użytkowe, warzywa oraz większe, bardziej wymagające gatunki drzew. Dzięki takiemu etapowaniu i wykorzystaniu szczelnych kompozytowych balii, jałowa pustynia zostaje przekształcona w samowystarczalny, wielopiętrowy las żywicielski.
 
+
+________________________________________
 
 
 ROZDZIAŁ XI :
@@ -1289,6 +1320,7 @@ UWAGA : Mykoalergie u pracowników
 
 Masowa produkcja grzybów na zamkniętej przestrzeni generuje miliardy zarodników. Pracownicy plantacji bez profesjonalnych masek z filtrami HEPA w ciągu kilku miesięcy rozwinęliby tzw. płuco hodowcy grzybów (zewnątrzpochodne alergiczne zapalenie pęcherzyków płucnych), prowadzące do trwałego inwalidztwa oddechowego.
 
+________________________________________
 
 
 WĘZEŁ nr 28 
@@ -1300,10 +1332,11 @@ Zasiedlone dwutlenkiem węgla z tuneli mykologicznych powietrze trafia do nadzie
 Krok 42 : Architektura i agrotechnika Walipini
 
 Szklarnie Walipini są zagłębione do połowy w gruncie pustynnym, co stabilizuje temperaturę. Dachy pokryte są naprzemiennie sekcjami szklanymi rozpraszającymi światło oraz kolektorami z rur HDPE ustawionymi pod kątem 45°, co zapewnia optymalne, naturalne zacienienie roślin przed agresywnym indeksem UV. Stosuje się tu pionowe uprawy wertykalne (aeroponika i hydroponika) zasilane grawitacyjnie czystym destylatem z wieży MED.
-Dobór gatunków : uprawia się warzywa liściaste (sałata rzymska, rukola, nowozelandzki szpinak), które konsumują dwutlenek węgla z sekcji grzybowej i generują dużą masę drobnych, niejadalnych korzeni (surowiec na filtracyjny biochar). Warzywa owocujące (mini-pomidory, ogórki pnące) pną się po rusztowaniach, a ich grube łodygi stanowią suchy wkład węglowy do kompostu. 
+•	Dobór gatunków : uprawia się warzywa liściaste (sałata rzymska, rukola, nowozelandzki szpinak), które konsumują dwutlenek węgla z sekcji grzybowej i generują dużą masę drobnych, niejadalnych korzeni (surowiec na filtracyjny biochar). Warzywa owocujące (mini-pomidory, ogórki pnące) pną się po rusztowaniach, a ich grube łodygi stanowią suchy wkład węglowy do kompostu. 
 Rośliną przemysłową są Konopie Włókniste – ich nasiona dostarczają białka i tłuszczów oraz komponentów do pasz rybnych, a paździerze z łodyg trafiają do działu budowlanego.
-Pętla akwakultury : część szklarni zintegrowana jest z basenami hodowlanymi. W wodzie o średnim zasoleniu hodowany jest skorupiak Artemia salina (solowiec), żywiący się mikroalgami namnażanymi ciepłem odpadowym. Artemia stanowi żywy pokarm dla ryb akwariowych. Woda z hodowli ryb, bogata w amoniak i fosforany, po przejściu przez filtry biologiczne staje się bezchemiczną pożywką dla pionowych upraw sałat.
+•	Pętla akwakultury : część szklarni zintegrowana jest z basenami hodowlanymi. W wodzie o średnim zasoleniu hodowany jest skorupiak Artemia salina (solowiec), żywiący się mikroalgami namnażanymi ciepłem odpadowym. Artemia stanowi żywy pokarm dla ryb akwariowych. Woda z hodowli ryb, bogata w amoniak i fosforany, po przejściu przez filtry biologiczne staje się bezchemiczną pożywką dla pionowych upraw sałat.
 
+________________________________________
 
 
 WĘZEŁ nr 29
@@ -1312,11 +1345,12 @@ HODOWLA RYB
 Krok 43 : AKWAPONIKA – połączenie hydroponiki (bezgruntowa uprawa roślin) z akwakulturą (hodowlą ryb) w zamkniętym, pionowym ekosystemie.
 
 Jak to działa :
-ryby produkują odchody bogate w amoniak.
-bakterie w podłożu zamieniają amoniak w azotany.
-rośliny pobierają azotany jako naturalny nawóz.
-woda oczyszczona przez rośliny wraca do ryb.
+•	ryby produkują odchody bogate w amoniak.
+•	bakterie w podłożu zamieniają amoniak w azotany.
+•	rośliny pobierają azotany jako naturalny nawóz.
+•	woda oczyszczona przez rośliny wraca do ryb.
 
+________________________________________
 
 ROZDZIAŁ XII :
 
@@ -1330,64 +1364,65 @@ Grupa 1 : rośliny uprawiane w konglomeracie
 
 Grzyby : Boczniak Ostrygowaty (Pleurotus ostreatus) oraz Boczniak Królewski (Eryngii)
 
-Rola w układzie zamkniętym : grzyby intensywnie produkują dwutlenek węgla, który rurami przepompowujesz do sekcji roślin zielonych, potęgując ich wzrost. Rosną na balotach ze słomy konopnej lub odpadów rolniczych.
-Zysk i żywność : bardzo wysoka cena rynkowa, szybki cykl zbiorów (kilkanaście dni) i ogromne źródło białka dla ludności.
-Korzyść dla czarnoziemu : zużyte baloty po uprawie są przerośnięte grzybnią. To absolutnie najważniejszy składnik Twojego czarnoziemu. Grzybnia działa jak naturalny klej biologiczny, który zwiąże luźny piasek pustynny w trwałą strukturę glebową i zapobiegnie jej erozji.
+•	Rola w układzie zamkniętym : grzyby intensywnie produkują dwutlenek węgla, który rurami przepompowujesz do sekcji roślin zielonych, potęgując ich wzrost. Rosną na balotach ze słomy konopnej lub odpadów rolniczych.
+•	Zysk i żywność : bardzo wysoka cena rynkowa, szybki cykl zbiorów (kilkanaście dni) i ogromne źródło białka dla ludności.
+•	Korzyść dla czarnoziemu : zużyte baloty po uprawie są przerośnięte grzybnią. To absolutnie najważniejszy składnik Twojego czarnoziemu. Grzybnia działa jak naturalny klej biologiczny, który zwiąże luźny piasek pustynny w trwałą strukturę glebową i zapobiegnie jej erozji.
 
 Warzywa liściaste : Sałata Rzymska, Rukola oraz Nowozelandzki Szpinak Trawiasty
 
-Rola w układzie zamkniętym : idealnie nadają się do upraw pionowych (wertykalnych) zasilanych wodą z hodowli ryb. Konsumują dwutlenek węgla z sekcji grzybowej.
-Zysk i żywność : podstawa lokalnego zaopatrzenia w świeżą żywność. Bardzo krótki wegetacyjny cykl produkcyjny.
-Korzyść dla czarnoziemu : produkują potężną masę drobnych, niejadalnych systemów korzeniowych. Te korzenie po wysuszeniu i toryfikacji dają idealny, porowaty biochar, który rewelacyjnie chłonie wodę.
+•	Rola w układzie zamkniętym : idealnie nadają się do upraw pionowych (wertykalnych) zasilanych wodą z hodowli ryb. Konsumują dwutlenek węgla z sekcji grzybowej.
+•	Zysk i żywność : podstawa lokalnego zaopatrzenia w świeżą żywność. Bardzo krótki wegetacyjny cykl produkcyjny.
+•	Korzyść dla czarnoziemu : produkują potężną masę drobnych, niejadalnych systemów korzeniowych. Te korzenie po wysuszeniu i toryfikacji dają idealny, porowaty biochar, który rewelacyjnie chłonie wodę.
 
 Roślina przemysłowo-spożywcza : Konopie Włókniste (odmiany niskopienne lub prowadzone wertykalnie)
 
-Rola w układzie zamkniętym : wybitnie dobrze znoszą wysokie temperatury i kontrolowaną wilgotność. Mają ogromne zdolności do fotosyntezy.
-Zysk i żywność : nasiona konopne to super-żywność o ogromnej zawartości tłuszczów i białka dla ludzi, a także świetny dodatek do paszy dla ryb.
-Korzyść dla pozostałych procesów : paździerze konopne z łodyg to kluczowy surowiec dla Twojego działu budowlanego (do budowy domów kopułowych z węglanem wapnia i gliną). Liście i resztki pędów dają doskonałą, twardą biomasę do produkcji toryfikatu i biocharu.
+•	Rola w układzie zamkniętym : wybitnie dobrze znoszą wysokie temperatury i kontrolowaną wilgotność. Mają ogromne zdolności do fotosyntezy.
+•	Zysk i żywność : nasiona konopne to super-żywność o ogromnej zawartości tłuszczów i białka dla ludzi, a także świetny dodatek do paszy dla ryb.
+•	Korzyść dla pozostałych procesów : paździerze konopne z łodyg to kluczowy surowiec dla Twojego działu budowlanego (do budowy domów kopułowych z węglanem wapnia i gliną). Liście i resztki pędów dają doskonałą, twardą biomasę do produkcji toryfikatu i biocharu.
 
 Warzywa owocujące : mini-pomidory koktajlowe i ogórki pnące
 
-Rola w układzie zamkniętym : pną się po rusztowaniach walipini, maksymalnie wykorzystując przestrzeń pionową. Doskonale reagują na podlewanie hydroponiczne wodą po-rybną.
-Zysk i żywność : wysoka wartość rynkowa, stały plon, niezbędne składniki odżywcze dla społeczności.
-Korzyść dla czarnoziemu : po zakończeniu owocowania grube łodygi i korzenie są idealnym, suchym wkładem węglowym do kompostowników.
+•	Rola w układzie zamkniętym : pną się po rusztowaniach walipini, maksymalnie wykorzystując przestrzeń pionową. Doskonale reagują na podlewanie hydroponiczne wodą po-rybną.
+•	Zysk i żywność : wysoka wartość rynkowa, stały plon, niezbędne składniki odżywcze dla społeczności.
+•	Korzyść dla czarnoziemu : po zakończeniu owocowania grube łodygi i korzenie są idealnym, suchym wkładem węglowym do kompostowników.
 
 
 KOMPOZYCJA ANTROPOGENICZNEGO CZARNOZIEMU PUSTYNNEGO
 
 Wszystkie odpady organiczne i mineralne konglomeratu spotykają się w procesie tworzenia sztucznej gleby (Terra Preta), przyspieszającym naturalne procesy glebotwórcze.
-
+________________________________________
 Grupa 2 : rośliny pionierskie do mis pustynnych (pierwszy etap kolonizacji)
 
 Te rośliny uprawiasz w tunelach jako sadzonki, a następnie wysadzasz w misach na pustyni. Muszą tolerować wysokie zasolenie podłoża (gdyż będą podlewane wodą z resztek pofiltracyjnych), produkować cień, ściółkę i wytrzymać ekstremalne słońce. Ich system korzeniowy idealnie współpracuje z zakraplaniem "od spodu" misy.
 
 Drzewo niskopienne/krzew : Jadłoszyn (Prosopis - znany jako Mezquite)
-Dlaczego ta roślina : to absolutny król pustyni. Należy do roślin motylkowych, co oznacza, że jego korzenie żyją w symbiozie z bakteriami wiążącymi azot bezpośrednio z powietrza. Sam użyźnia grunt wokół siebie. Jest ekstremalnie odporny na upał i sól.
-Mechanika podlewania od spodu : posiada dwa systemy korzeniowe. Jeden rozwija się płytko, a drugi (palowy) dąży pionowo w dół. Zakraplanie wody na dno misy zmusi korzeń palowy do błyskawicznego wzrostu w głąb, kotwicząc roślinę i zabezpieczając ją przed wyschnięciem, nawet gdy góra misy jest rozgrzana do czerwoności.
-Korzyści i żywność : produkuje strąki, które po zmieleniu dają słodką, wysoce odżywczą mąkę bezglutenową (wielki zysk sprzedażowy i żywnościowy). Zrzuca drobne liście, które tworzą pierwszą, bogatą w azot ściółkę pod przyszłe uprawy.
+•	Dlaczego ta roślina : to absolutny król pustyni. Należy do roślin motylkowych, co oznacza, że jego korzenie żyją w symbiozie z bakteriami wiążącymi azot bezpośrednio z powietrza. Sam użyźnia grunt wokół siebie. Jest ekstremalnie odporny na upał i sól.
+•	Mechanika podlewania od spodu : posiada dwa systemy korzeniowe. Jeden rozwija się płytko, a drugi (palowy) dąży pionowo w dół. Zakraplanie wody na dno misy zmusi korzeń palowy do błyskawicznego wzrostu w głąb, kotwicząc roślinę i zabezpieczając ją przed wyschnięciem, nawet gdy góra misy jest rozgrzana do czerwoności.
+•	Korzyści i żywność : produkuje strąki, które po zmieleniu dają słodką, wysoce odżywczą mąkę bezglutenową (wielki zysk sprzedażowy i żywnościowy). Zrzuca drobne liście, które tworzą pierwszą, bogatą w azot ściółkę pod przyszłe uprawy.
 
 Sukulent użytkowy : Agawa Niebieska (Agave tequilana) lub Agawa Sisalana
 
-Dlaczego ta roślina : jej metabolizm (CAM) sprawia, że otwiera aparaty szparkowe tylko nocą, co ogranicza parowanie wody niemal do zera. Może rosnąć w czystym piasku.
-Zysk i żywność : rdzeń agawy jest niezwykle bogaty w cukry – służy do produkcji syropu z agawy (zamiennik cukru) lub alkoholu. Odmiana sisalana dostarcza mocnych włókien do produkcji lin i mat, które rozłożone na piasku będą hamować parowanie wody między misami.
-Korzyść dla czarnoziemu : mięsiste, odpadowe liście po wyciśnięciu soku schną na słońcu i dają twardą, włóknistą biomasę strukturalną.
+•	Dlaczego ta roślina : jej metabolizm (CAM) sprawia, że otwiera aparaty szparkowe tylko nocą, co ogranicza parowanie wody niemal do zera. Może rosnąć w czystym piasku.
+•	Zysk i żywność : rdzeń agawy jest niezwykle bogaty w cukry – służy do produkcji syropu z agawy (zamiennik cukru) lub alkoholu. Odmiana sisalana dostarcza mocnych włókien do produkcji lin i mat, które rozłożone na piasku będą hamować parowanie wody między misami.
+•	Korzyść dla czarnoziemu : mięsiste, odpadowe liście po wyciśnięciu soku schną na słońcu i dają twardą, włóknistą biomasę strukturalną.
 
 Pnącze pionierskie : Kapary Cierniste (Capparis spinosa)
 
-Dlaczego ta roślina : naturalnie rośnie na nagich skałach i piaskach śródziemnomorskich oraz pustynnych. Ma płożący lub pnący pokrój. Posadzona w misie, szybko rozrośnie się na boki, pokrywając brzegi misy i otaczający piasek swoimi zielonymi pędami.
-Tworzenie mikroklimatu : działa jak żywy ekran termiczny. Pokrywając grunt, drastycznie obniża temperaturę powierzchni piasku, dając pierwszy cień dla mikroorganizmów glebowych.
-Zysk i żywność : nierozwinięte pąki kwiatowe to kapary – ekskluzywny, drogi produkt spożywczy o długim terminie przydatności po zamarynowaniu w soli morskiej z Twojej odsalarni.
-
+•	Dlaczego ta roślina : naturalnie rośnie na nagich skałach i piaskach śródziemnomorskich oraz pustynnych. Ma płożący lub pnący pokrój. Posadzona w misie, szybko rozrośnie się na boki, pokrywając brzegi misy i otaczający piasek swoimi zielonymi pędami.
+•	Tworzenie mikroklimatu : działa jak żywy ekran termiczny. Pokrywając grunt, drastycznie obniża temperaturę powierzchni piasku, dając pierwszy cień dla mikroorganizmów glebowych.
+•	Zysk i żywność : nierozwinięte pąki kwiatowe to kapary – ekskluzywny, drogi produkt spożywczy o długim terminie przydatności po zamarynowaniu w soli morskiej z Twojej odsalarni.
+________________________________________
 Strategia Sukcesji : Jak to wspólnie buduje LAS
 
-Faza Zero (misy) : w misie z piasku i szkła wodnego umieszczasz przygotowany czarnoziem (z biocharem, grzybnią z boczniaków i osadami z ryb). Sadzisz Jadłoszyn i Kapary. Zakraplasz wodę od spodu misy.
+1.	Faza Zero (misy) : w misie z piasku i szkła wodnego umieszczasz przygotowany czarnoziem (z biocharem, grzybnią z boczniaków i osadami z ryb). Sadzisz Jadłoszyn i Kapary. Zakraplasz wodę od spodu misy.
 
-Faza Pierwsza (cień i włókno) : Jadłoszyn rośnie w górę, dając lekki, ażurowy cień. Kapary pokrywają powierzchnię wokół misy, blokując nagrzewanie gruntu. Liście Jadłoszynu opadają, tworząc pierwszą naturalną ściółkę, którą grzybnia z czarnoziemu zaczyna rozkładać.
+2.	Faza Pierwsza (cień i włókno) : Jadłoszyn rośnie w górę, dając lekki, ażurowy cień. Kapary pokrywają powierzchnię wokół misy, blokując nagrzewanie gruntu. Liście Jadłoszynu opadają, tworząc pierwszą naturalną ściółkę, którą grzybnia z czarnoziemu zaczyna rozkładać.
 
-Faza Druga (przestrzeń pomiędzy) : w cieniu Jadłoszynu i na dywanie z Kaparów, gdzie temperatura gruntu spadła już o kilkanaście stopni, zaczynasz wysadzać rośliny wrażliwsze z tuneli walipini (np. pomidory lub trawy paszowe). Wykorzystujesz maty z agawy do wyłożenia przestrzeni między misami.
+3.	Faza Druga (przestrzeń pomiędzy) : w cieniu Jadłoszynu i na dywanie z Kaparów, gdzie temperatura gruntu spadła już o kilkanaście stopni, zaczynasz wysadzać rośliny wrażliwsze z tuneli walipini (np. pomidory lub trawy paszowe). Wykorzystujesz maty z agawy do wyłożenia przestrzeni między misami.
 
-Faza Trzecia (las i pola) : warstwa organiczna jest już tak gruba, a mikroklimat tak stabilny (wyższa wilgotność lokalna dzięki transpiracji roślin pionierskich), że możesz przystąpić do sadzenia docelowych, dużych drzew (np. palm daktylowych, drzew oliwnych czy akacji), tworząc trwały system agroforestryczny (pola uprawne poprzecinane pasami drzew).
+4.	Faza Trzecia (las i pola) : warstwa organiczna jest już tak gruba, a mikroklimat tak stabilny (wyższa wilgotność lokalna dzięki transpiracji roślin pionierskich), że możesz przystąpić do sadzenia docelowych, dużych drzew (np. palm daktylowych, drzew oliwnych czy akacji), tworząc trwały system agroforestryczny (pola uprawne poprzecinane pasami drzew).
 
+________________________________________
 
 
 ROZDZIAŁ XIII :
@@ -1399,14 +1434,15 @@ Dokument w obecnej formie stanowi kompletne acz rozwojowe Studium Przedwykonawcz
 
 GŁÓWNE FILARY PRZEWAGI RYNKOWEJ I EKOLOGICZNEJ :
 
-Redukcja nakładów inwestycyjnych (CAPEX) : zastąpienie technicznej ceramiki honeycomb (MAGAZYN ENERGII CIEPLNEJ), stopów tytanu (WĘŻOWNICE z KOMÓR DESTYLACYJNYCH)  i powłok fluoropolimerowych PFA (WERSJA NASADY KOMINOWEJ pominięta w projekcie) darmowymi otoczakami bazaltowymi, odporną stalą AISI 316L, polimerami HDPE/PP oraz laminatami kompozytowymi GRP obniża realne koszty budowy instalacji prototypowej o ponad 55–60%.
+•	Redukcja nakładów inwestycyjnych (CAPEX) : zastąpienie technicznej ceramiki honeycomb (MAGAZYN ENERGII CIEPLNEJ), stopów tytanu (WĘŻOWNICE z KOMÓR DESTYLACYJNYCH)  i powłok fluoropolimerowych PFA (WERSJA NASADY KOMINOWEJ pominięta w projekcie) darmowymi otoczakami bazaltowymi, odporną stalą AISI 316L, polimerami HDPE/PP oraz laminatami kompozytowymi GRP obniża realne koszty budowy instalacji prototypowej o ponad 55–60%.
 
-Minimalizacja kosztów operacyjnych (OPEX) : wyeliminowanie mechanicznych pomp próżniowych na rzecz syfonu barometrycznego o wysokości konstrukcyjnej 10,33 metra, usunięcie glikolu na rzecz Direct SWAC oraz rezygnacja z silników tłokowych i rotorów osuszających likwiduje główne punkty awaryjności instalacji chemicznych. System staje się w pełni odporny na niszczące działanie burz piaskowych, korozję wżerową oraz zjawisko cementowania solnego.
+•	Minimalizacja kosztów operacyjnych (OPEX) : wyeliminowanie mechanicznych pomp próżniowych na rzecz syfonu barometrycznego o wysokości konstrukcyjnej 10,33 metra, usunięcie glikolu na rzecz Direct SWAC oraz rezygnacja z silników tłokowych i rotorów osuszających likwiduje główne punkty awaryjności instalacji chemicznych. System staje się w pełni odporny na niszczące działanie burz piaskowych, korozję wżerową oraz zjawisko cementowania solnego.
 
-Autarkia i Odporność Geopolityczna : konglomerat produkuje własny węgiel adsorpcyjny, własne spoiwa budowlane (geopolimer) oraz nawozy strukturalne z recyklingu biomasy i solanki. Całkowite odcięcie od zachodnich dostawców technologii high-tech uniezależnia inwestycję od kryzysów w globalnych łańcuchach dostaw.
+•	Autarkia i Odporność Geopolityczna : konglomerat produkuje własny węgiel adsorpcyjny, własne spoiwa budowlane (geopolimer) oraz nawozy strukturalne z recyklingu biomasy i solanki. Całkowite odcięcie od zachodnich dostawców technologii high-tech uniezależnia inwestycję od kryzysów w globalnych łańcuchach dostaw.
 
-Ekologia Totalna (Zgodność z ESG) : projekt realizuje rygorystyczne wytyczne polityk dekarbonizacyjnych i zrównoważonego rozwoju (w tym strategii UAE Net Zero 2050). Całkowicie likwiduje toksyczny zrzut zagęszczonej solanki do ekosystemów morskich, przetwarzając każdy kilogram surowca we w pełni komercyjne, wysokomarżowe produkty rynkowe (sterylna sól, luksusowe trufle pustynne, woda klasy premium, biomasa i antropogeniczna gleba).
+•	Ekologia Totalna (Zgodność z ESG) : projekt realizuje rygorystyczne wytyczne polityk dekarbonizacyjnych i zrównoważonego rozwoju (w tym strategii UAE Net Zero 2050). Całkowicie likwiduje toksyczny zrzut zagęszczonej solanki do ekosystemów morskich, przetwarzając każdy kilogram surowca we w pełni komercyjne, wysokomarżowe produkty rynkowe (sterylna sól, luksusowe trufle pustynne, woda klasy premium, biomasa i antropogeniczna gleba).
 
+________________________________________
 
 
 ## INFORMACJE O PUBLIKACJI
@@ -1415,7 +1451,7 @@ Ekologia Totalna (Zgodność z ESG) : projekt realizuje rygorystyczne wytyczne p
 * **Autor:** Darayavahus IV
 * **Wersja:** 1.0 (Szkielet logiczno-koncepcyjny)
 * **Data pierwszej publikacji:** 30 sierpnia 2026 r. (Niedziela)
-* **Miejsce pierwszej publikacji:** https://github.com/DarayavahusIV/CALIDUS-IV
+* **Miejsce pierwszej publikacji:** [wpisz adres swojego repozytorium na GitHub]
 
 ## MANIFEST LOJALNOŚCI SPOŁECZNOŚCI
 
