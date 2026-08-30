@@ -59,7 +59,7 @@ Organizacje społeczne, edukacyjne, humanitarne i non-profit mogą korzystać z 
 Przy każdym wykorzystaniu projektu lub jego zmodyfikowanej wersji należy wskazać:
 * nazwę projektu: **CALIDUS IV**
 * autora: **Darayavahus IV**
-* źródło projektu: [wpisz adres swojego repozytorium na GitHub]
+* źródło projektu: https://github.com/DarayavahusIV/CALIDUS-IV 
 * zakres wprowadzonych zmian.
 
 #### Wykorzystanie komercyjne
@@ -1451,7 +1451,7 @@ ________________________________________
 * **Autor:** Darayavahus IV
 * **Wersja:** 1.0 (Szkielet logiczno-koncepcyjny)
 * **Data pierwszej publikacji:** 30 sierpnia 2026 r. (Niedziela)
-* **Miejsce pierwszej publikacji:** [wpisz adres swojego repozytorium na GitHub]
+* **Miejsce pierwszej publikacji:** https://github.com/DarayavahusIV/CALIDUS-IV 
 
 ## MANIFEST LOJALNOŚCI SPOŁECZNOŚCI
 
