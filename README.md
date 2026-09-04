@@ -1,85 +1,64 @@
-🌍 CALIDUS IV: An Autarkic Circular Economy Conglomerate (ZLD) for Desert Greening and Water Desalination
-⚠️ IMPORTANT NOTE FOR INTERNATIONAL USERS:
-The full, 101-page technical blueprint and documentation in this repository is currently written in Polish. If you do not speak Polish, you can easily translate the document using modern AI translation tools (such as DeepL, ChatGPT, or Google Translate) to analyze the full technical specifications. Below is the comprehensive Executive Summary in English.
+🌍 **CALIDUS IV : An Autarkic Circular Economy Conglomerate (ZLD) for Desert Greening and Water Desalination**
+LINK : https://github.com/DarayavahusIV/CALIDUS-IV 
+⚠️ **UWAGA DLA UŻYTKOWNIKÓW Z POLSKI :** Pełna, 40-stronicowa dokumentacja techniczna, plany inżynieryjne oraz opisy procesowe w tym repozytorium są w całości napisane w języku polskim. Poniższe podsumowanie (Executive Summary) przygotowano w języku angielskim ze względu na międzynarodowy charakter projektu, a jego oficjalne polskie tłumaczenie znajduje się bezpośrednio pod tekstem angielskim.
 
-💡 Introduction & Design Paradigm
-CALIDUS IV is a comprehensive, open-source engineering blueprint (a 101-page technical document) detailing a multi-modular, interconnected system of industrial and ecological structures. The core objective of the conglomerate is zero-emission seawater desalination operating under a strict Zero Liquid Discharge (ZLD) regime.
-Unlike conventional, energy-intensive desalination systems (like Reverse Osmosis) that dump toxic, hyper-saline brine back into the ocean, CALIDUS IV treats every single byproduct as a high-value input for the next internal stage. The system features a radically low CAPEX and is designed for phased, modular deployment in regions severely impacted by drought and desertification.
-________________________________________
-⚙️ Main Technological Sequence & Process Synergy
-The infrastructure integrates dozens of autarkic technological nodes woven into closed thermodynamic loops:
-1.	Retention, Filtration & Intake (Nodes 1-4): Utilizing gravitational underground transport, mechanical sedimentation, and advanced biological filtration paired with mass biomass cultivation (algae and mussels).
-2.	Thermodynamics & Passive Aerodynamics (Nodes 5-11): Driven by hybrid vacuum distillation and non-adiabatic brine evaporation. The system revives ancient, electricity-free Persian wind-catcher technologies (Badgirs) integrated with Solar Chimneys and passive pan heating. This creates a forced, highly stable air circulation loop and water condensation without drawing power from the grid.
-3.	ZLD Fractional Crystallization: Brine waste is completely split into distinct technical zones: calcium and gypsum extraction, commercial-grade sea salt crystallization, and bitter liquor recovery used to enrich biochar.
-4.	Thermal Storage & Power Block (Nodes 12-15): Ultra-low-cost custom air collectors charge a massive underground multi-layered thermal battery (Rock Bed—available in both monolithic Honeycomb and gravel-bed configurations). This stored heat powers low-pressure steam turbines, central-piston Stirling engines, and saline liquid thermogalvanic cells (Thermocells), ensuring total energetic autarky.
-________________________________________
-🌿 Agroforestry Succession & Desert Agriculture
-All recovered resources (pure water, minerals, captured heat) feed directly into biological modules:
-•	Sand-Silicate Composite (Node 22): A new generation of low-cost desert material used to build immediate river-flow check dams and deep, self-watering desert planting basins.
-•	Anthropogenic Black Soil (Nodes 23-24): Biochar production from local plant waste (pyrolysis and torrefaction of roots) combined with highly mineralized ash enables the creation of highly fertile artificial black soil directly on sand.
-•	Food Production Cascades (Nodes 27-29): Integration of underground mycological channels (year-round desert truffle and edible mushroom cultivation utilizing static adsorption mist-recovery) with kaskade-arranged underground Walipini greenhouses, aquaponics, and fish farming.
-•	Four-Phase Forest Succession: A precise, algorithmic strategy for introducing pioneer and agroforestry species to permanently restore and reforest hyper-arid landscapes.
-________________________________________
-💼 Business Model & Viral Voluntourism
-CALIDUS IV redefines operational expenditure (OPEX) through an ingenious social integration model. The resort infrastructure and a series of chlorine-free flow-through swimming pools serve as a hub for eco-voluntourism. The model operates on a barter system: offering accommodation and organic food in exchange for human labor in the greenhouses, biochar production lines, and physical planting of the succession forest, dropping operational costs to a bare minimum.
-________________________________________
-📜 Publication Status & Open-Source Social License
-•	Project Version: 1.0 (Logic-Conceptual Blueprint — 101 pages)
-•	Release Date: August 30, 2026
-•	License: CALIDUS IV Social License — full freedom to copy, modify, translate, and build for individuals, local communities, and humanitarian/non-profit organizations completely free of charge. Commercial use (commercial manufacturing, selling system modules, or industrial deployment) requires an explicit commercial license from the author, subject to a community-driven boycott as stated in the Community Loyalty Manifesto.
-________________________________________
-🔗 Join the project and download the full documentation:
-https://github.com/DarayavahusIV/CALIDUS-IV
+---
 
-SYSTEM MULTI-PRODUKCYJNY
-CALIDUS IV
-(wersja pustynna i międzyzwrotnikowa)
+### ENGLISH VERSION (Executive Summary)
 
+💡 **Introduction & Design Paradigm :**
+CALIDUS IV is a comprehensive, open-source engineering blueprint (a 40-page technical document) detailing a multi-modular, interconnected system of industrial and ecological structures. The core objective of the conglomerate is zero-emission seawater desalination operating under a strict Zero Liquid Discharge (ZLD) regime. Unlike conventional, energy-intensive desalination systems (like Reverse Osmosis) that dump toxic, hyper-saline brine back into the ocean, CALIDUS IV treats every single byproduct as a high-value input for the next internal stage. The system features a radically low CAPEX and is designed for phased, modular deployment in regions severely impacted by drought and desertification.
 
-# CALIDUS IV v1.0
+⚙️ **Main Technological Sequence & Process Synergy :**
+The infrastructure integrates dozens of autarkic technological nodes woven into closed thermodynamic loops :
+* **Retention, Filtration & Intake (Nodes 1-4) :** Utilizing gravitational underground transport, mechanical sedimentation, and advanced biological filtration paired with mass biomass cultivation (algae and mussels).
+* **Thermodynamics & Passive Aerodynamics (Nodes 5-11) :** Driven by hybrid vacuum distillation and non-adiabatic brine evaporation. The system revives ancient, electricity-free Persian wind-catcher technologies (Badgirs) integrated with Solar Chimneys and passive pan heating. This creates a forced, highly stable air circulation loop and water condensation without drawing power from the grid.
+* **ZLD Fractional Crystallization :** Brine waste is completely split into distinct technical zones : calcium and gypsum extraction, commercial-grade sea salt crystallization, and bitter liquor recovery used to enrich biochar.
+* **Thermal Storage & Power Block (Nodes 12-15) :** Ultra-low-cost custom air collectors charge a massive underground multi-layered thermal battery (Rock Bed—available in both monolithic Honeycomb and gravel-bed configurations). This stored heat powers low-pressure steam turbines, central-piston Stirling engines, and saline liquid thermogalvanic cells (Thermocells), ensuring total energetic autarky.
 
-### PUBLICZNA PUBLIKACJA PROJEKTU — LICENCJA SPOŁECZNA
+🌿 **Agroforestry Succession & Desert Agriculture :**
+All recovered resources (pure water, minerals, captured heat) feed directly into biological modules : 
+* **Sand-Silicate Composite (Node 22) :** A new generation of low-cost desert material used to build immediate river-flow check dams and deep, self-watering desert planting basins. 
+* **Anthropogenic Black Soil (Nodes 23-24) :** Biochar production from local plant waste (pyrolysis and torrefaction of roots) combined with highly mineralized ash enables the creation of highly fertile artificial black soil directly on sand. 
+* **Food Production Cascades (Nodes 27-29) :** Integration of underground mycological channels (year-round desert truffle and edible mushroom cultivation utilizing static adsorption mist-recovery) with kaskade-arranged underground Walipini greenhouses, aquaponics, and fish farming. 
+* **Four-Phase Forest Succession :** A precise, algorithmic strategy for introducing pioneer and agroforestry species to permanently restore and reforest hyper-arid landscapes.
 
-Niniejszy dokument stanowi publiczne opracowanie koncepcyjne i techniczne dotyczące etapowego systemu pozyskiwania, uzdatniania i wykorzystania wody, energii cieplnej, energii elektrycznej, soli, biomasy, nawozów, podłoży uprawowych oraz innych produktów możliwych do uzyskania w ramach powiązanego systemu zakładów i struktur pod nazwą **CALIDUS IV**.
+💼 **Business Model & Viral Voluntourism :**
+CALIDUS IV redefines operational expenditure (OPEX) through an ingenious social integration model. The resort infrastructure and a series of chlorine-free flow-through swimming pools serve as a hub for eco-voluntourism. The model operates on a barter system : offering accommodation and organic food in exchange for human labor in the greenhouses, biochar production lines, and physical planting of the succession forest, dropping operational costs to a bare minimum.
 
-Projekt został opublikowany w celu zapewnienia powszechnego dostępu do przedstawionych koncepcji, umożliwienia ich rozwijania oraz zapobiegania uzyskaniu przez osoby trzecie wyłącznych praw do tych samych lub zasadniczo podobnych rozwiązań.
+📜 **Publication Status & Open-Source Social License :**
+* **Project Version :** 1.0 (Logic-Conceptual Blueprint — 101 pages)
+* **Release Date :** August 30, 2026
+* **License :** CALIDUS IV Social License — full freedom to copy, modify, translate, and build for individuals, local communities, and humanitarian/non-profit organizations completely free of charge. Commercial use requires an explicit commercial license from the author, subject to strict legal and financial enforcement detailed in the LICENSE.md file.
+* **Official Repository Link :** [https://github.com](https://github.com/DarayavahusIV/CALIDUS-IV)
 
-#### Dozwolone wykorzystanie niekomercyjne
-Każda osoba fizyczna może bezpłatnie:
-* zapoznawać się z projektem;
-* kopiować i przechowywać dokumentację;
-* tłumaczyć ją;
-* rozwijać i modyfikować projekt;
-* wykorzystywać jego założenia do własnych celów niezarobkowych;
-* budować część lub całość systemu na własne potrzeby;
-* budować część lub całość systemu na potrzeby lokalnej społeczności.
+---
 
-Organizacje społeczne, edukacyjne, humanitarne i non-profit mogą korzystać z projektu bez opłat w ramach działalności niezarobkowej.
+### WERSJA POLSKA (Podsumowanie Menedżerskie)
 
-Przy każdym wykorzystaniu projektu lub jego zmodyfikowanej wersji należy wskazać:
-* nazwę projektu: **CALIDUS IV**
-* autora: **Darayavahus IV**
-* źródło projektu: https://github.com/DarayavahusIV/CALIDUS-IV 
-* zakres wprowadzonych zmian.
+💡 **Wprowadzenie i Paradygmat Projektowy :**
+CALIDUS IV to kompleksowy, otwarty projekt inżynieryjny (około 40-stronicowa dokumentacja techniczna) szczegółowo opisujący wielomodułowy, połączony system struktur przemysłowych i ekologicznych. Głównym celem konglomeratu jest bezemisyjne odsalanie wody morskiej działające w rygorystycznym reżimie Zero Liquid Discharge (ZLD - całkowity brak płynnych ścieków). W przeciwieństwie do konwencjonalnych, energochłonnych systemów odsalania (takich jak odwrócona osmoza), które zrzucają toksyczną, hipersaloną solankę z powrotem do oceanu, CALIDUS IV traktuje każdy produkt uboczny jako cenny surowiec wejściowy dla kolejnego etapu wewnętrznego. System charakteryzuje się radykalnie niskim nakładem inwestycyjnym (low CAPEX) i jest zaprojektowany do etapowego, modułowego wdrażania w regionach dotkniętych suszą i pustynnieniem.
 
-#### Wykorzystanie komercyjne
-Bez odrębnej pisemnej zgody autora lub bez zawarcia licencji komercyjnej zabronione jest:
-* produkowanie instalacji lub ich elementów w celu sprzedaży;
-* sprzedaż instalacji, urządzeń, produktów lub usług opartych na projekcie;
-* odpłatne projektowanie, budowa, montaż lub wdrażanie systemu;
-* wykorzystywanie projektu w działalności gospodarczej lub zarobkowej;
-* licencjonowanie lub sublicencjonowanie projektu osobom trzecim;
-* wykorzystywanie dokumentacji albo jej istotnych elementów do uzyskiwania przychodu;
-* przedstawianie komercyjnego wdrożenia jako oficjalnie zatwierdzonego przez autora.
+⚙️ **Główny Ciąg Technologiczny i Synergia Procesów :**
+Infrastruktura integruje dziesiątki autarkicznych węzłów technologicznych splecionych w zamknięte pętle termodynamiczne :
+* **Retencja, Filtracja i Pobór (Węzły 1-4) :** Wykorzystanie grawitacyjnego transportu podziemnego, sedymentacji mechanicznej oraz zaawansowanej filtracji biologicznej połączonej z masową uprawą biomasy (algi i małże).
+* **Termodynamika i Aerodynamika Pasywna (Węzły 5-11) :** Napędzane przez hybrydową destylację próżniową i nieadiabatyczne odparowanie solanki. System ożywia starożytne, bezprądowe perskie technologie łapaczy wiatru (Badgiry) zintegrowane z kominami solarnymi i pasywnym ogrzewaniem tacy. Tworzy to wymuszony, wysoce stabilny obieg cyrkulacji powietrza i kondensacji wody bez pobierania prądu z sieci.
+* **Krystalizacja Frakcyjna ZLD :** Odpady solankowe są całkowicie rozdzielane na czyste strefy techniczne : ekstrakcję wapnia i gipsu, krystalizację soli morskiej klasy handlowej oraz odzysk gorzkiego ługu używanego do wzbogacania biowęgla.
+* **Magazynowanie Termiczne i Blok Energetyczny (Węzły 12-15) :** Niskokosztowe, autorskie kolektory powietrzne ładują potężny podziemny, wielowarstwowy akumulator termiczny (Rock Bed — dostępny w konfiguracji monolitycznej Honeycomb oraz żwirowej). Skumulowane ciepło zasila niskociśnieniowe turbiny parowe, tłokowe silniki Stirlinga oraz solankowe ogniwa termogalwaniczne (Thermocells), zapewniając pełną autarkię energetyczną.
 
-Komercyjne wykorzystanie projektu może nastąpić na podstawie odrębnej licencji komercyjnej udzielonej przez autora. Warunki takiej licencji są ustalane indywidualnie.
+🌿 **Sukcesja Agroleśna i Rolnictwo Pustynne :**
+Wszystkie odzyskane zasoby (czysta woda, minerały, przechwycone ciepło) zasilają bezpośrednio moduły biologiczne :
+* **Kompozyt Piaskowo-Krzemianowy (Węzeł 22) :** Nowa generacja taniego materiału pustynnego służącego do budowy natychmiastowych przegród rzecznych oraz głębokich, samonawadniających się mis sadzeniowych.
+* **Antropogeniczna Czarna Ziemia (Węzły 23-24) :** Produkcja biowęgla z lokalnych odpadów roślinnych (piroliza i toryfikacja korzeni) w połączeniu z wysoko zmineralizowanym popiołem umożliwia tworzenie żyznej, sztucznej czarnej ziemi bezpośrednio na piasku.
+* **Kaskady Produkcji Żywności (Węzły 27-29) :** Integracja podziemnych kanałów mykologicznych (całoroczna uprawa trufli pustynnych i grzybów jadalnych z wykorzystaniem statycznej adsorpcji mgły) z kaskadowo ułożonymi podziemnymi szklarniami Walipini, akwaponiką i hodowlą ryb.
+* **Czterofazowa Sukcesja Leśna :** Precyzyjna, algorytmiczna strategia wprowadzania gatunków pionierskich i agroleśnych w celu trwałego odtworzenia i zalesienia skrajnie suchych krajobrazów.
 
-#### Rozwijanie projektu
-Zmodyfikowana lub rozwinięta wersja przez społeczność powinna: zachować informację o pierwotnym autorze, wskazywać źródło, wyraźnie opisywać zakres dokonanych zmian i nie być przedstawiana jako oryginalna wersja autora. 
+💼 **Model Biznesowy i Wirusowy Wolontariat (Voluntourism) :**
+CALIDUS IV redefiniuje koszty operacyjne (OPEX) poprzez genialny model integracji społecznej. Infrastruktura wypoczynkowa oraz seria bezchlorowych, przepływowych basenów służą jako centrum eko-wolontariatu. Model działa na zasadzie barteru : oferuje zakwaterowanie i ekologiczną żywność w zamian za pracę ludzką w szklarniach, na liniach produkcyjnych biowęgla oraz przy fizycznym sadzeniu lasu sukcesyjnego, co sprowadza koszty operacyjne do absolutnego minimum.
 
-Opublikowanie projektu nie oznacza przeniesienia praw autorskich do dokumentacji, tekstów, grafik, schematów, nazw, oznaczeń ani późniejszych oryginalnych opracowań autora.
-
-
+📬 **Kontakt dla Biznesu i Partnerów Zgłaszających**
+* Wykup licencji komercyjnych / Zapytania B2B / Zgłoszenia Bounty : Darayavahus_IV@proton.me
+LINK : https://github.com/DarayavahusIV/CALIDUS-IV 
 ________________________________________
 Spis treści :  
 WSTĘP – PARADYGMATY STRUKTURALNE GOSPODARKI OBIEGU ZAMKNIĘTEGO
@@ -1445,23 +1424,23 @@ GŁÓWNE FILARY PRZEWAGI RYNKOWEJ I EKOLOGICZNEJ :
 ________________________________________
 
 
-## INFORMACJE O PUBLIKACJI
+### INFORMACJE O PUBLIKACJI AND SYSTEM STATUS
 
-* **Nazwa projektu:** CALIDUS IV
-* **Autor:** Darayavahus IV
-* **Wersja:** 1.0 (Szkielet logiczno-koncepcyjny)
-* **Data pierwszej publikacji:** 30 sierpnia 2026 r. (Niedziela)
-* **Miejsce pierwszej publikacji:** https://github.com/DarayavahusIV/CALIDUS-IV 
+* **Nazwa projektu :** CALIDUS IV
+* **Autor :** Darayavahus IV
+* **Wersja :** 1.0 (Szkielet logiczno-koncepcyjny — około 40 stron)
+* **Data pierwszej publikacji :** 30 sierpnia 2026 r. (Niedziela)
+* **Miejsce pierwszej publikacji :** [https://github.com](https://github.com/DarayavahusIV/CALIDUS-IV )
 
-## MANIFEST LOJALNOŚCI SPOŁECZNOŚCI
+---
 
-Projekt CALIDUS IV należy do ludzkości, by dać ludziom wolność i niezależność od opresyjnych systemów korporacyjnych. Jeśli jesteś firmą, deweloperem lub instalatorem i zarabiasz komercyjnie na wdrażaniu, budowaniu lub montażu systemu CALIDUS IV bądź jego modułów (kolektory, magazyny ciepła), masz moralny i społeczny obowiązek wspierania autora. 
+**RYGORYSTYCZNE OSTRZEŻENIE BUDOWLANE I BHP :** 
+Autor udostępnia zawarte w repozytorium analizy, schematy i opisy wyłącznie w celach edukacyjnych, poznawczych i badawczych. Urządzenia, węzły oraz podsystemy wchodzące w skład konglomeratu CALIDUS IV operują na mediach wysokotemperaturowych, podciśnieniu, stężonych solankach oraz ciężkich masach akumulacyjnych. Niewłaściwy montaż, brak obliczeń statycznych podłoży pustynnych lub brak rygorystycznego nadzoru inżynieryjnego niesie za sobą ryzyko katastrofy budowlanej, pożaru, oparzeń lub skażenia gruntu.
 
-Wszelkie komercyjne wdrożenia bez aktywnego wsparcia projektu będą przez społeczność bojkotowane. Oficjalne kanały wsparcia dla autora (w tym profil suppi.pl) zostaną upublicznione wraz z rozwojem popularności projektu.
+Każdy użytkownik (zarówno prywatny, społeczny, jak i komercyjny) wdraża, buduje i eksploatuje elementy systemu CALIDUS IV wyłącznie na własną odpowiedzialność i ryzyko. Autor nie ponosi żadnej odpowiedzialności cywilnej ani karnej za jakiekolwiek szkody na zdrowiu, życiu, środowisku lub mieniu powstałe w wyniku interpretacji, budowy lub użytkowania instalacji opartej na niniejszym opisie.
 
-## PRAWA AUTORSKIE
+---
 
-© 2026 Darayavahus IV. 
+**Copyright © 2026 Darayavahus IV. Wszelkie prawa zastrzeżone poza wyjątkami określonymi w pliku LICENSE.md.**
 
-Prawa autorskie do niniejszej dokumentacji pozostają w całości przy autorze. Wszelkie prawa zastrzeżone, z wyjątkiem uprawnień i wolności wyraźnie przyznanych użytkownikom prywatnym oraz organizacjom niekomercyjnym w powyższej Licencji Społecznej.
-
+LINK  do repozytorium : https://github.com/DarayavahusIV/CALIDUS-IV 
