@@ -1,40 +1,13 @@
-🌍 **CALIDUS IV : An Autarkic Circular Economy Conglomerate (ZLD) for Desert Greening and Water Desalination**
-LINK : https://github.com/DarayavahusIV/CALIDUS-IV 
-⚠️ **UWAGA DLA UŻYTKOWNIKÓW Z POLSKI :** Pełna, 40-stronicowa dokumentacja techniczna, plany inżynieryjne oraz opisy procesowe w tym repozytorium są w całości napisane w języku polskim. Poniższe podsumowanie (Executive Summary) przygotowano w języku angielskim ze względu na międzynarodowy charakter projektu, a jego oficjalne polskie tłumaczenie znajduje się bezpośrednio pod tekstem angielskim.
+NAZWA: CALIDUS IV
 
----
-
-### ENGLISH VERSION (Executive Summary)
-
-💡 **Introduction & Design Paradigm :**
-CALIDUS IV is a comprehensive, open-source engineering blueprint (a 40-page technical document) detailing a multi-modular, interconnected system of industrial and ecological structures. The core objective of the conglomerate is zero-emission seawater desalination operating under a strict Zero Liquid Discharge (ZLD) regime. Unlike conventional, energy-intensive desalination systems (like Reverse Osmosis) that dump toxic, hyper-saline brine back into the ocean, CALIDUS IV treats every single byproduct as a high-value input for the next internal stage. The system features a radically low CAPEX and is designed for phased, modular deployment in regions severely impacted by drought and desertification.
-
-⚙️ **Main Technological Sequence & Process Synergy :**
-The infrastructure integrates dozens of autarkic technological nodes woven into closed thermodynamic loops :
-* **Retention, Filtration & Intake (Nodes 1-4) :** Utilizing gravitational underground transport, mechanical sedimentation, and advanced biological filtration paired with mass biomass cultivation (algae and mussels).
-* **Thermodynamics & Passive Aerodynamics (Nodes 5-11) :** Driven by hybrid vacuum distillation and non-adiabatic brine evaporation. The system revives ancient, electricity-free Persian wind-catcher technologies (Badgirs) integrated with Solar Chimneys and passive pan heating. This creates a forced, highly stable air circulation loop and water condensation without drawing power from the grid.
-* **ZLD Fractional Crystallization :** Brine waste is completely split into distinct technical zones : calcium and gypsum extraction, commercial-grade sea salt crystallization, and bitter liquor recovery used to enrich biochar.
-* **Thermal Storage & Power Block (Nodes 12-15) :** Ultra-low-cost custom air collectors charge a massive underground multi-layered thermal battery (Rock Bed—available in both monolithic Honeycomb and gravel-bed configurations). This stored heat powers low-pressure steam turbines, central-piston Stirling engines, and saline liquid thermogalvanic cells (Thermocells), ensuring total energetic autarky.
-
-🌿 **Agroforestry Succession & Desert Agriculture :**
-All recovered resources (pure water, minerals, captured heat) feed directly into biological modules : 
-* **Sand-Silicate Composite (Node 22) :** A new generation of low-cost desert material used to build immediate river-flow check dams and deep, self-watering desert planting basins. 
-* **Anthropogenic Black Soil (Nodes 23-24) :** Biochar production from local plant waste (pyrolysis and torrefaction of roots) combined with highly mineralized ash enables the creation of highly fertile artificial black soil directly on sand. 
-* **Food Production Cascades (Nodes 27-29) :** Integration of underground mycological channels (year-round desert truffle and edible mushroom cultivation utilizing static adsorption mist-recovery) with kaskade-arranged underground Walipini greenhouses, aquaponics, and fish farming. 
-* **Four-Phase Forest Succession :** A precise, algorithmic strategy for introducing pioneer and agroforestry species to permanently restore and reforest hyper-arid landscapes.
-
-💼 **Business Model & Viral Voluntourism :**
-CALIDUS IV redefines operational expenditure (OPEX) through an ingenious social integration model. The resort infrastructure and a series of chlorine-free flow-through swimming pools serve as a hub for eco-voluntourism. The model operates on a barter system : offering accommodation and organic food in exchange for human labor in the greenhouses, biochar production lines, and physical planting of the succession forest, dropping operational costs to a bare minimum.
-
-📜 **Publication Status & Open-Source Social License :**
-* **Project Version :** 1.0 (Logic-Conceptual Blueprint — 101 pages)
-* **Release Date :** August 30, 2026
-* **License :** CALIDUS IV Social License — full freedom to copy, modify, translate, and build for individuals, local communities, and humanitarian/non-profit organizations completely free of charge. Commercial use requires an explicit commercial license from the author, subject to strict legal and financial enforcement detailed in the LICENSE.md file.
-* **Official Repository Link :** [https://github.com](https://github.com/DarayavahusIV/CALIDUS-IV)
-
----
-
-### WERSJA POLSKA (Podsumowanie Menedżerskie)
+Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone poza wyjątkami określonymi w pliku LICENSE.md. 
+LINK do repozytorium: https://github.com/DarayavahusIV/CALIDUS-IV 
+Model licencyjny i zasady współpracy (Triple-Licensing Model)
+Projekt funkcjonuje w oparciu o unikalny, wielopoziomowy model prawny (którego pełna, wiążąca treść zapisana jest w pliku LICENSE.md). Został on stworzony w celu zapewnienia powszechnej niezależności energetycznej osobom fizycznym przy jednoczesnej rygorystycznej ochronie własności intelektualnej przed nieautoryzowaną komercjalizacją oraz kradzieżą autorskich materiałów informacyjnych: 
+•	Dla osób prywatnych (DIY) – 100% darmowy (CC BY-NC-SA 4.0): W przypadku wdrażania rozwiązań, budowy urządzeń lub systemów na użytek własny, osobisty i bezdochodowy (np. ogrzewanie własnego domu mieszkalnego) cała dokumentacja jest całkowicie bezpłatna. Warunkiem jest własnoręczne wykonanie prac. Zezwala się na kopiowanie i modyfikowanie projektu, pod warunkiem wskazania Autora oraz udostępnienia poprawek na tej samej darmowej licencji (Copyleft). Zatrudnienie komercyjnych osób i/lub firm wykonawczych automatycznie anuluje tę licencję i bezwzględnie wymaga wykupienia licencji B2B. 
+•	Ochrona wolności kodu i automatyki (GPLv3): Wszelkie modyfikacje skryptów automatyki, algorytmów sterujących lub logicznej architektury przepływów realizowane w celach niekomercyjnych podlegają rygorom licencji GPLv3 (bezwzględny obowiązek upublicznienia kodu źródłowego). 
+•	Program Zgłoszeń Partnerskich i Ochrona Prawna (Affiliate Bounty): W celu eliminowania nieautoryzowanych wdrożeń komercyjnych w firmach lub gospodarstwach rolnych bez wykupionej licencji B2B, ustanawia się publiczny program zgłoszeń z nagrodą dla Łowców w wysokości aż 90% skutecznie wyegzekwowanej czystej kwoty netto odszkodowania (szczegóły procedury, Poradnik Legalnych Dowodów oraz zasady Procesowej Cesji Powierniczej opisane są w LICENSE.md). 
+•	Przypadki szczególne (Walka z czarnym rynkiem i partactwem): W celu bezkompromisowej ochrony rynku przed oszustami wprowadzamy rygorystyczną procedurę dyscyplinującą. Jeżeli jakikolwiek komercyjny wykonawca buduje ten system poza systemem podatkowym (w szarej strefie), bez wydania oficjalnej, pisemnej gwarancji na wykonaną pracę, a co najważniejsze: bez wykupionej licencji B2B, bądź próbuje odsprzedawać i komercjalizować samą warstwę tekstową i opisy tego projektu – inwestor, właściciel lub dowolny świadek ma prawo zgłosić ten fakt bezpośrednio do Autora projektu. Współpracująca z projektem kancelaria prawna natychmiast wszczyna procedurę cywilno-prawną i pozywa nieuczciwego wykonawcę/partacza/złodzieja treści na kwotę 50 000 zł oraz równowartość strat z tytułu poniesionych przez autora nieopłaconych licencji komercyjnych B2B z tytułu złamania warunków licencyjnych i autorskich praw majątkowych. Po odliczeniu honorarium kancelarii oraz ewentualnych kosztów procesowych, aż 90% czystej kwoty netto skutecznie wyegzekwowanego odszkodowania trafia bezpośrednio na konto osoby zgłaszającej. Szczegóły procedury, Poradnik Legalnych Dowodów oraz zasady Procesowej Cesji Powierniczej opisane są w LICENSE.md. 
 
 💡 **Wprowadzenie i Paradygmat Projektowy :**
 CALIDUS IV to kompleksowy, otwarty projekt inżynieryjny (około 40-stronicowa dokumentacja techniczna) szczegółowo opisujący wielomodułowy, połączony system struktur przemysłowych i ekologicznych. Głównym celem konglomeratu jest bezemisyjne odsalanie wody morskiej działające w rygorystycznym reżimie Zero Liquid Discharge (ZLD - całkowity brak płynnych ścieków). W przeciwieństwie do konwencjonalnych, energochłonnych systemów odsalania (takich jak odwrócona osmoza), które zrzucają toksyczną, hipersaloną solankę z powrotem do oceanu, CALIDUS IV traktuje każdy produkt uboczny jako cenny surowiec wejściowy dla kolejnego etapu wewnętrznego. System charakteryzuje się radykalnie niskim nakładem inwestycyjnym (low CAPEX) i jest zaprojektowany do etapowego, modułowego wdrażania w regionach dotkniętych suszą i pustynnieniem.
@@ -1434,13 +1407,10 @@ ________________________________________
 
 ---
 
-**RYGORYSTYCZNE OSTRZEŻENIE BUDOWLANE I BHP :** 
-Autor udostępnia zawarte w repozytorium analizy, schematy i opisy wyłącznie w celach edukacyjnych, poznawczych i badawczych. Urządzenia, węzły oraz podsystemy wchodzące w skład konglomeratu CALIDUS IV operują na mediach wysokotemperaturowych, podciśnieniu, stężonych solankach oraz ciężkich masach akumulacyjnych. Niewłaściwy montaż, brak obliczeń statycznych podłoży pustynnych lub brak rygorystycznego nadzoru inżynieryjnego niesie za sobą ryzyko katastrofy budowlanej, pożaru, oparzeń lub skażenia gruntu.
-
-Każdy użytkownik (zarówno prywatny, społeczny, jak i komercyjny) wdraża, buduje i eksploatuje elementy systemu CALIDUS IV wyłącznie na własną odpowiedzialność i ryzyko. Autor nie ponosi żadnej odpowiedzialności cywilnej ani karnej za jakiekolwiek szkody na zdrowiu, życiu, środowisku lub mieniu powstałe w wyniku interpretacji, budowy lub użytkowania instalacji opartej na niniejszym opisie.
-
----
-
-**Copyright © 2026 Darayavahus IV. Wszelkie prawa zastrzeżone poza wyjątkami określonymi w pliku LICENSE.md.**
-
-LINK  do repozytorium : https://github.com/DarayavahusIV/CALIDUS-IV 
+Ograniczenie odpowiedzialności (Disclaimer)
+Autor udostępnia zawarte w repozytorium informacje, rozwiązania, urządzenia i systemy wyłącznie w celach edukacyjnych, informacyjnych i badawczych w stanie, w jakim się znajdują („AS IS”), bez jakichkolwiek gwarancji efektywności. 
+Wszelkie konstrukcje budowane według niniejszego opisu są układami wysokotemperaturowymi (potencjał generowania temperatur od 100°C do nawet 200°C), co niesie za sobą bezpośrednie ryzyko oparzeń, pożaru lub skażenia chemicznego w przypadku błędu montażowego, użycia tworzyw sztucznych w strefie termicznej lub braku stałego nadzoru. Każda fizyczna adaptacja w strukturze budynku musi być zweryfikowana pod kątem statyki przez uprawnionego inżyniera budownictwa. 
+Autor nie ponosi żadnej odpowiedzialności cywilnej, karnej, deliktowej oraz kontraktowej za jakiekolwiek szkody na zdrowiu, życiu lub mieniu powstałe w wyniku interpretacji, budowy, montażu lub użytkowania rozwiązań, urządzeń i systemów opartych na niniejszym opisie. Budujesz i używasz wyłącznie na własną odpowiedzialność, własny koszt i pełne ryzyko prawne. 
+Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me). Wszelkie prawa zastrzeżone. 
+Niniejsze opracowanie stanowi utwór inżynieryjno-naukowy i jest chronione potrójnym modelem regulaminu licencyjnego projektu. Dystrybucja komercyjna, odsprzedaż samych treści lub lewe wykonawstwo bez opłaconej licencji B2B podlega karze umownej w wysokości 50 000 zł wraz z obowiązkiem pokrycia równowartości strat z tytułu nieopłaconych licencji (pełna treść i taryfikator kar w pliku LICENSE.md). 
+LINK do repozytorium: https://github.com/DarayavahusIV/CALIDUS-IV 
