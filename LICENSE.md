@@ -1,5 +1,6 @@
 REGULAMIN LICENCYJNY i MATRYCA OCHRONY PRAWNEJ
 Copyright © 2026 Darayavahus IV (Darayavahus_IV@proton.me - aders do rozmów o licencjach oraz Darayavahus_IV@keemail.me - adres do zapytań ogólnych). Wszelkie prawa zastrzeżone. 
+
 Niniejszy dokument określa całościowe zasady korzystania z dokumentacji technicznej, opisów, koncepcji, tekstów scenariuszy, algorytmów, kodu źródłowego oraz wszelkich rozwiązań, urządzeń i systemów autorstwa Twórcy, udostępnianych w niniejszym repozytorium oraz powiązanych modułach. 
 Oficjalna i jedyna autorska wersja dokumentacji oraz projektów jest stale rozwijana pod adresem: https://github.com/DarayavahusIV
 Całość projektu funkcjonuje w oparciu o hybrydowy model wielopoziomowy (Triple-Licensing Model), chroniący własność intelektualną przed nieautoryzowaną komercjalizacją i plagiatem przy jednoczesnym zachowaniu pełnej wolności dla twórczości prywatnej. 
